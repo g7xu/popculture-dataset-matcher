@@ -1,0 +1,54 @@
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background-color: #1a1a2e;
+    color: #ffffff;
+    display: flex;
+    justify-content: center;
+    height: 100vh;
+    padding: 20px 0; /* Add padding to create space at the top and bottom */
+}
+
+.dashboard {
+    text-align: center;
+    width: 90%;
+    height: auto; /* Allow the height to adjust dynamically */
+    margin: 20px 0; /* Add margin to create space around the dashboard */
+    display: flex;
+    flex-direction: column;
+}
+
+.title {
+    font-size: 3.5rem; /* Increased from 2.5rem to 3.5rem */
+    margin-bottom: 20px;
+    color: #a29bfe;
+}
+
+.charts-container {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    flex: 1; /* Allow it to fill the available space */
+}
+
+.bubble-chart {
+    flex: 1;
+    background-color: #0f3460;
+    border-radius: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #ffffff;
+    font-size: 1.2rem;
+}
+
+.line-chart {
+    flex: 0 0 30%;
+    background-color: #162447;
+    border-radius: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #ffffff;
+    font-size: 1.2rem;
+}
