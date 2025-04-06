@@ -125,8 +125,8 @@ async function renderBubbleChart(bubbleChartDiv, cate_prop_data) {
 
                 // Get datasets for the clicked category
                 const datasets = getDatasetsByCategory(d.name, hotest_data, most_votes_data);
-                
-                // sort the datasets by usability
+
+                // Sort the datasets by usability
                 datasets.sort((a, b) => b.usabilityRating - a.usabilityRating);
 
                 // Create a rectangle box
@@ -134,17 +134,17 @@ async function renderBubbleChart(bubbleChartDiv, cate_prop_data) {
                     .append("div")
                     .attr("class", "popup-box")
                     .style("position", "absolute")
-                    .style("left", `${mouseX - 50}px`)
-                    .style("top", `${mouseY - 30}px`)
-                    .style("width", "300px")
-                    .style("height", "200px")
-                    .style("background-color", "#ffffff")
-                    .style("color", "#000000")
-                    .style("padding", "10px")
-                    .style("border-radius", "5px")
-                    .style("box-shadow", "0px 4px 6px rgba(0, 0, 0, 0.1)")
-                    .style("z-index", "1000")
-                    .style("overflow-y", "auto");
+                    .style("left", `${mouseX - 100}px`) // Adjust position for larger box
+                    .style("top", `${mouseY - 50}px`)
+                    .style("width", "500px") // Increase width
+                    .style("height", "400px") // Increase height
+                    .style("background-color", "#2a2a40") // Dark background for theme consistency
+                    .style("color", "#ffffff") // White text for readability
+                    .style("padding", "20px") // Add more padding for spacing
+                    .style("border-radius", "10px") // Smooth rounded corners
+                    .style("box-shadow", "0px 8px 16px rgba(0, 0, 0, 0.5)") // Enhance shadow for depth
+                    .style("z-index", "1000") // Ensure it appears above other elements
+                    .style("overflow-y", "auto"); // Enable scrolling for overflow content
 
                 // Add the list of datasets
                 const list = popupBox.append("ul")
@@ -159,9 +159,9 @@ async function renderBubbleChart(bubbleChartDiv, cate_prop_data) {
                     listItem.append("strong")
                         .text(dataset.name)
                         .style("display", "block")
-                        .style("color", "#000");
-                    
-                    // start a new line that contains the dataset url and the download count
+                        .style("color", "#ffffff");
+
+                    // Start a new line that contains the dataset URL and the download count
                     const linkContainer = listItem.append("div")
                         .style("display", "flex")
                         .style("justify-content", "space-between")
@@ -171,17 +171,19 @@ async function renderBubbleChart(bubbleChartDiv, cate_prop_data) {
                     linkContainer.append("a")
                         .attr("href", dataset.url)
                         .attr("target", "_blank")
-                        .text("View Dataset");
+                        .text("View Dataset")
+                        .style("color", "#4dabf7") // Light blue for links
+                        .style("text-decoration", "none");
 
                     linkContainer.append("span")
                         .text(`${dataset.downloadCount || 0} downloads`)
-                        .style("color", "#666")
+                        .style("color", "#bbbbbb")
                         .style("font-size", "0.9rem");
 
                     listItem.append("span")
                         .text(dataset.description)
                         .style("font-size", "0.9rem")
-                        .style("color", "#555");
+                        .style("color", "#bbbbbb");
                 });
 
                 // Add a click listener to the document to close the pop-up box
@@ -266,6 +268,21 @@ async function renderLineChart(lineChartDiv, cate_prop_data) {
         const xAxis = d3.axisBottom(xScale).ticks(7).tickFormat(d3.timeFormat("%b %d"));
         const yAxis = d3.axisLeft(yScale).ticks(5); // Reduce the number of ticks on the y-axis
 
+        // Append horizontal grid lines
+        chart.append("g")
+            .attr("class", "grid-lines")
+            .selectAll("line")
+            .data(yScale.ticks(5)) // Use the same ticks as the y-axis
+            .enter()
+            .append("line")
+            .attr("x1", 0)
+            .attr("x2", chartWidth)
+            .attr("y1", d => yScale(d))
+            .attr("y2", d => yScale(d))
+            .attr("stroke", "#444") // Light gray color for grid lines
+            .attr("stroke-width", 0.5)
+            .attr("stroke-dasharray", "4,4"); // Dashed lines for better visibility
+
         // Append axes
         chart.append("g")
             .attr("transform", `translate(0,${chartHeight})`)
@@ -277,6 +294,17 @@ async function renderLineChart(lineChartDiv, cate_prop_data) {
             .call(yAxis)
             .selectAll("text")
             .style("fill", "#ffffff");
+
+        // Append y-axis label
+        chart.append("text")
+            .attr("class", "y-axis-label")
+            .attr("transform", "rotate(-90)") // Rotate the text to align with the y-axis
+            .attr("x", -chartHeight / 2) // Center the label vertically along the y-axis
+            .attr("y", -margin.left + 15) // Position the label to the left of the y-axis
+            .attr("text-anchor", "middle") // Center the text horizontally
+            .style("fill", "#ffffff") // Set the text color to white for visibility
+            .style("font-size", "1rem") // Set the font size
+            .text("Proportion"); // Set the label text
 
         // Create line generator with smooth curves
         const line = d3.line()
