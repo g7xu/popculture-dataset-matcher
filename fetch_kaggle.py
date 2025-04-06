@@ -49,7 +49,7 @@ def fetch_and_process_datasets(sort_by, output_filename):
     # Select & reorder final fields
     df = df[[
         "title", "ref", "description", "creator", "sizeMB",
-        "downloadCount", "usabilityRating", "tags", "lastUpdated", "ai_category"
+        "downloadCount", "usabilityRating", "tags", "lastUpdated", "ai_category", 'url'
     ]]
 
     # Save to JSON
