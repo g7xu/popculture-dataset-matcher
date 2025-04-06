@@ -102,7 +102,7 @@ df["sizeMB"] = df["size"].apply(bytes_to_mb)
 # Step 6: Select & reorder final fields
 df = df[[
     "title", "ref", "description", "creator", "sizeMB",
-    "downloadCount", "usabilityRating", "tags", "lastUpdated"
+    "downloadCount", "usabilityRating", "tags", "lastUpdated", "ai_category"
 ]]
 
 # Step 7: Save to JSON
