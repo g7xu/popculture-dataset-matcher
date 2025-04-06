@@ -33,7 +33,7 @@ body {
 
 .bubble-chart {
     flex: 1;
-    background-color: #0f3460;
+    /* background-color: #0f3460; */ /* Remove or comment out this line */
     border-radius: 10px;
     display: flex;
     justify-content: center;
@@ -44,7 +44,7 @@ body {
 
 .line-chart {
     flex: 0 0 30%;
-    background-color: #162447;
+    /* background-color: #162447; */ /* Remove or comment out this line */
     border-radius: 10px;
     display: flex;
     justify-content: center;
@@ -55,7 +55,76 @@ body {
 
 .popup-box {
     font-family: Arial, sans-serif;
+    font-size: 1rem; /* Increase font size for better readability */
+    width: 400px; /* Increase width */
+    height: 300px; /* Increase height */
+    background: #2a2a40; /* Dark background color */
+    color: #ffffff; /* White text for readability */
+    padding: 20px; /* Add more padding for spacing */
+    border-radius: 10px; /* Smooth rounded corners */
+    box-shadow: 0px 8px 16px rgba(0, 0, 0, 0.5); /* Enhance shadow for depth */
+    z-index: 1000; /* Ensure it appears above other elements */
+    overflow-y: auto; /* Enable scrolling for overflow content */
+    border: 1px solid #444; /* Subtle border for definition */
+}
+
+/* Style the title inside the popup box */
+.popup-box h3 {
+    font-size: 1.5rem; /* Larger font size for the title */
+    margin-bottom: 15px; /* Add spacing below the title */
+    color: #a29bfe; /* Light purple color for the title */
+    text-align: center; /* Center-align the title */
+}
+
+/* Style the list inside the popup box */
+.popup-box ul {
+    list-style: none; /* Remove default bullet points */
+    padding: 0; /* Remove default padding */
+    margin: 0; /* Remove default margin */
+}
+
+/* Style each list item */
+.popup-box li {
+    margin-bottom: 15px; /* Add spacing between list items */
+    border-bottom: 1px solid #444; /* Add a subtle divider between items */
+    padding-bottom: 10px; /* Add padding below each item */
+}
+
+/* Style the dataset name */
+.popup-box li strong {
+    display: block;
+    font-size: 1.1rem; /* Slightly larger font for dataset names */
+    color: #ffffff; /* White text for emphasis */
+    margin-bottom: 5px; /* Add spacing below the name */
+}
+
+/* Style the dataset description */
+.popup-box li span {
+    font-size: 0.9rem; /* Slightly smaller font for descriptions */
+    color: #bbbbbb; /* Subtle gray color for descriptions */
+}
+
+/* Style the link and download count container */
+.popup-box li div {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 10px; /* Add spacing above the container */
+}
+
+/* Style the link */
+.popup-box li div a {
+    color: #4dabf7; /* Light blue color for links */
+    text-decoration: none; /* Remove underline */
     font-size: 0.9rem;
-    z-index: 1000; /* Ensure the box appears above other elements */
-    pointer-events: auto; /* Allow interaction with the box */
+}
+
+.popup-box li div a:hover {
+    text-decoration: underline; /* Add underline on hover */
+}
+
+/* Style the download count */
+.popup-box li div span {
+    color: #bbbbbb; /* Subtle gray color for download count */
+    font-size: 0.9rem;
 }

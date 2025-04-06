@@ -64,8 +64,7 @@ async function renderBubbleChart(bubbleChartDiv, cate_prop_data) {
     const svg = d3.select(bubbleChartDiv)
         .append("svg")
         .attr("width", width)
-        .attr("height", height)
-        .style("background-color", "#0f3460");
+        .attr("height", height);
 
     try {
         // Use the previously loaded data
@@ -168,7 +167,7 @@ async function renderBubbleChart(bubbleChartDiv, cate_prop_data) {
                         .text(dataset.name)
                         .style("display", "block")
                         .style("color", "#000");
-
+                    
                     // start a new line that contains the dataset url and the download count
                     const linkContainer = listItem.append("div")
                         .style("display", "flex")
@@ -185,10 +184,6 @@ async function renderBubbleChart(bubbleChartDiv, cate_prop_data) {
                         .text(`${dataset.downloadCount || 0} downloads`)
                         .style("color", "#666")
                         .style("font-size", "0.9rem");
-
-                    // add a line breaker
-                    listItem.append("hr")
-                        .style("border", "1px solid #ddd");
 
                     listItem.append("span")
                         .text(dataset.description)
