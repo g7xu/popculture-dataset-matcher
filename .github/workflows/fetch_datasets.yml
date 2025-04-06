@@ -30,7 +30,7 @@ jobs:
             
             - name: Fetch datasets
               run: |
-                python fetch_datasets.py
+                python fetch_kaggle.py
 
             - name: Commit and push changes
               run: |
