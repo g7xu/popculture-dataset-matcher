@@ -70,7 +70,12 @@ def get_single_word_response(title: str, description: str, tags: str, retry_coun
             model="gemini-2.0-flash",
             contents=[prompt],
         )
-        return response.text.strip()
+        
+        text_results = response.text.strip()
+
+        if text_results not in CATEGORIES:
+            return 'others'
+        return text_results
     
     # handle the resource exhausted error
     except Exception as e:
