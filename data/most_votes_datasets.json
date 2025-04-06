@@ -18,7 +18,7 @@
     "description":"Anonymized credit card transactions labeled as fraudulent or genuine",
     "creator":"Timo Bozsolik",
     "sizeMB":65.95,
-    "downloadCount":850578,
+    "downloadCount":850580,
     "usabilityRating":0.85294116,
     "tags":[
       "crime",
@@ -50,7 +50,7 @@
     "description":"Listings of movies and tv shows on Netflix - Regularly Updated",
     "creator":"Shivam Bansal",
     "sizeMB":1.34,
-    "downloadCount":554132,
+    "downloadCount":554133,
     "usabilityRating":1.0,
     "tags":[
       "websites",
@@ -67,7 +67,7 @@
     "description":"5,863 images, 2 categories",
     "creator":"Paul Mooney",
     "sizeMB":2349.25,
-    "downloadCount":380736,
+    "downloadCount":380738,
     "usabilityRating":0.75,
     "tags":[
       "biology",
@@ -211,7 +211,7 @@
     "description":"Predict the onset of diabetes based on diagnostic measures",
     "creator":"Kaggle Team",
     "sizeMB":0.01,
-    "downloadCount":617694,
+    "downloadCount":617696,
     "usabilityRating":0.88235295,
     "tags":[
       "india",
@@ -247,7 +247,7 @@
     "description":"Happiness scored according to economic production, social support, etc.",
     "creator":"Timo Bozsolik",
     "sizeMB":0.04,
-    "downloadCount":340968,
+    "downloadCount":340969,
     "usabilityRating":0.85294116,
     "tags":[
       "arts and entertainment",
@@ -264,7 +264,7 @@
     "description":"Classify iris plants into three species in this classic dataset",
     "creator":"Kaggle Team",
     "sizeMB":0.0,
-    "downloadCount":672623,
+    "downloadCount":672624,
     "usabilityRating":0.7941176,
     "tags":[
       "biology"
@@ -291,7 +291,7 @@
     "description":"Historical data on avocado prices and sales volume in multiple US markets",
     "creator":"Justin Kiggins",
     "sizeMB":0.61,
-    "downloadCount":321579,
+    "downloadCount":321580,
     "usabilityRating":0.9705882,
     "tags":[
       "food"
@@ -304,7 +304,7 @@
     "description":"Predict whether the cancer is benign or malignant",
     "creator":"Ovsen",
     "sizeMB":0.05,
-    "downloadCount":433644,
+    "downloadCount":433648,
     "usabilityRating":0.85294116,
     "tags":[
       "healthcare",
@@ -318,7 +318,7 @@
     "description":"Metadata on over 45,000 movies. 26 million ratings from over 270,000 users.",
     "creator":"Rounak Banik",
     "sizeMB":227.8,
-    "downloadCount":397222,
+    "downloadCount":397223,
     "usabilityRating":0.8235294,
     "tags":[
       "popular culture",
@@ -333,7 +333,7 @@
     "description":"130k wine reviews with variety, location, winery, price, and description",
     "creator":"zackthoutt",
     "sizeMB":50.87,
-    "downloadCount":320764,
+    "downloadCount":320767,
     "usabilityRating":0.7941176,
     "tags":[
       "alcohol"
@@ -346,7 +346,7 @@
     "description":"Bitcoin data at 1-min intervals from select exchanges, Jan 2012 to Present",
     "creator":"Zielak",
     "sizeMB":112.35,
-    "downloadCount":173236,
+    "downloadCount":173240,
     "usabilityRating":1.0,
     "tags":[
       "history",
@@ -361,7 +361,7 @@
     "description":"100,000 Orders with product, customer and reviews info",
     "creator":"Francisco Magioli",
     "sizeMB":42.65,
-    "downloadCount":312675,
+    "downloadCount":312676,
     "usabilityRating":1.0,
     "tags":[
       "brazil",
@@ -379,7 +379,7 @@
     "description":"11 clinical features for predicting stroke events",
     "creator":"fedesoriano",
     "sizeMB":0.07,
-    "downloadCount":224890,
+    "downloadCount":224891,
     "usabilityRating":1.0,
     "tags":[
       "healthcare",
@@ -396,7 +396,7 @@
     "description":"A dataset with 120030 images of 176 fruits, vegetables, nuts and seeds",
     "creator":"Mihai Oltean",
     "sizeMB":2609.23,
-    "downloadCount":174524,
+    "downloadCount":174527,
     "usabilityRating":0.875,
     "tags":[
       "plants",
@@ -428,7 +428,7 @@
     "description":"Simple and clean practice dataset for regression or classification modelling",
     "creator":"Sohier Dane",
     "sizeMB":0.02,
-    "downloadCount":283939,
+    "downloadCount":283941,
     "usabilityRating":0.88235295,
     "tags":[
       "alcohol",
@@ -446,7 +446,7 @@
     "description":"Airbnb listings and metrics in NYC, NY, USA (2019)",
     "creator":"Dgomonov",
     "sizeMB":2.44,
-    "downloadCount":209974,
+    "downloadCount":209975,
     "usabilityRating":1.0,
     "tags":[
       "business",
@@ -461,7 +461,7 @@
     "description":"Focused customer retention programs",
     "creator":"BlastChar",
     "sizeMB":0.17,
-    "downloadCount":326898,
+    "downloadCount":326901,
     "usabilityRating":0.88235295,
     "tags":[
       "business"
@@ -474,7 +474,7 @@
     "description":"An MNIST-like dataset of 70,000 28x28 labeled fashion images",
     "creator":"Chris Crawford",
     "sizeMB":68.77,
-    "downloadCount":229135,
+    "downloadCount":229137,
     "usabilityRating":0.85294116,
     "tags":[
       "arts and entertainment",
@@ -493,7 +493,7 @@
     "description":"Historical record of sales data in 3 different supermarkets",
     "creator":"Aung Pyae",
     "sizeMB":0.04,
-    "downloadCount":337746,
+    "downloadCount":337747,
     "usabilityRating":0.88235295,
     "tags":[
       "business",
@@ -508,7 +508,7 @@
     "description":"Insurance Forecast by using Linear Regression",
     "creator":"Miri Choi",
     "sizeMB":0.02,
-    "downloadCount":302239,
+    "downloadCount":302242,
     "usabilityRating":0.88235295,
     "tags":[
       "healthcare",
@@ -525,7 +525,7 @@
     "description":"11 clinical features for predicting heart disease events.",
     "creator":"fedesoriano",
     "sizeMB":0.01,
-    "downloadCount":192318,
+    "downloadCount":192319,
     "usabilityRating":1.0,
     "tags":[
       "healthcare",
@@ -542,7 +542,7 @@
     "description":"Analysis of company's ideal customers",
     "creator":"Akash Patel",
     "sizeMB":0.06,
-    "downloadCount":181845,
+    "downloadCount":181851,
     "usabilityRating":0.9705882,
     "tags":[
       "business",
@@ -591,7 +591,7 @@
     "description":"More than 180,000 terrorist attacks worldwide, 1970-2017",
     "creator":"Erin Miller",
     "sizeMB":28.68,
-    "downloadCount":110620,
+    "downloadCount":110621,
     "usabilityRating":0.85294116,
     "tags":[
       "literature",
@@ -657,7 +657,7 @@
     "description":"Pattern recognition with tracker data: : Improve Your Overall Health",
     "creator":"Möbius",
     "sizeMB":43.29,
-    "downloadCount":169180,
+    "downloadCount":169181,
     "usabilityRating":0.875,
     "tags":[
       "exercise",
@@ -736,7 +736,7 @@
     "description":"Analyze ~500,000 food reviews from Amazon",
     "creator":"[Deleted User]",
     "sizeMB":242.11,
-    "downloadCount":214878,
+    "downloadCount":214879,
     "usabilityRating":0.7941176,
     "tags":[
       "business",
@@ -783,7 +783,7 @@
     "description":"Classify Mobile Price Range",
     "creator":"Abhishek Sharma",
     "sizeMB":0.07,
-    "downloadCount":216106,
+    "downloadCount":216108,
     "usabilityRating":0.7058824,
     "tags":[
       "business",
@@ -845,7 +845,7 @@
     "description":"Sentiment analysis with tweets",
     "creator":"Μαριος Μιχαηλιδης KazAnova",
     "sizeMB":80.92,
-    "downloadCount":206349,
+    "downloadCount":206350,
     "usabilityRating":0.88235295,
     "tags":[
       "languages",
@@ -972,7 +972,7 @@
     "description":"F1 race data from 1950 to 2024",
     "creator":"Vopani",
     "sizeMB":6.28,
-    "downloadCount":112687,
+    "downloadCount":112689,
     "usabilityRating":1.0,
     "tags":[
       "auto racing",
@@ -1054,7 +1054,7 @@
     "description":"Market Basket Analysis",
     "creator":"Vijay Choudhary",
     "sizeMB":0.0,
-    "downloadCount":215403,
+    "downloadCount":215405,
     "usabilityRating":0.88235295,
     "tags":[
       "business",
@@ -1201,7 +1201,7 @@
     "description":"Collection of SMS messages tagged as spam or legitimate",
     "creator":"Esther Kim",
     "sizeMB":0.21,
-    "downloadCount":261185,
+    "downloadCount":261186,
     "usabilityRating":0.7352941,
     "tags":[
       "languages",
@@ -1231,7 +1231,7 @@
     "description":"Drop-In Replacement for MNIST for Hand Gesture Recognition Tasks",
     "creator":"tecperson",
     "sizeMB":62.59,
-    "downloadCount":124456,
+    "downloadCount":124457,
     "usabilityRating":0.7647059,
     "tags":[
       "languages",
@@ -1298,7 +1298,7 @@
     "description":"Suited for binary logistic regression",
     "creator":"Khashayar Baghizadeh",
     "sizeMB":0.01,
-    "downloadCount":106591,
+    "downloadCount":106592,
     "usabilityRating":0.7058824,
     "tags":[
 
@@ -1378,7 +1378,7 @@
     "description":"Salaries of Different Data Science Fields in the Data Science Domain",
     "creator":"randomarnab",
     "sizeMB":0.02,
-    "downloadCount":74870,
+    "downloadCount":74871,
     "usabilityRating":1.0,
     "tags":[
       "business",
@@ -1528,7 +1528,7 @@
     "description":"Synthetic datasets generated by the PaySim mobile money simulator",
     "creator":"Edgar Lopez-Rojas",
     "sizeMB":177.75,
-    "downloadCount":108755,
+    "downloadCount":108756,
     "usabilityRating":0.88235295,
     "tags":[
       "crime",
@@ -1555,7 +1555,7 @@
     "description":"",
     "creator":"Navoneel Chakrabarty",
     "sizeMB":15.1,
-    "downloadCount":124193,
+    "downloadCount":124195,
     "usabilityRating":0.5,
     "tags":[
       "biology",

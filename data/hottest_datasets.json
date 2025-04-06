@@ -5,7 +5,7 @@
     "description":"A Comprehensive Dataset for Analyzing Chocolate Sales Trends",
     "creator":"Atharva Soundankar",
     "sizeMB":0.01,
-    "downloadCount":18137,
+    "downloadCount":18143,
     "usabilityRating":1.0,
     "tags":[
       "business",
@@ -22,7 +22,7 @@
     "description":"Analyzing Mental Health Trends and Predictors Among Students",
     "creator":"Adil Shamim",
     "sizeMB":0.45,
-    "downloadCount":9245,
+    "downloadCount":9247,
     "usabilityRating":1.0,
     "tags":[
       "universities and colleges",
@@ -118,7 +118,7 @@
     "description":"Daily historical closing prices for essential commodities like oil, gold, silver",
     "creator":"Albert5913",
     "sizeMB":0.25,
-    "downloadCount":803,
+    "downloadCount":804,
     "usabilityRating":1.0,
     "tags":[
       "finance",
@@ -152,7 +152,7 @@
     "description":"A comprehensive dataset tracking cybersecurity incidents, attack vectors, threat",
     "creator":"Atharva Soundankar",
     "sizeMB":0.05,
-    "downloadCount":3151,
+    "downloadCount":3152,
     "usabilityRating":1.0,
     "tags":[
       "computer science",
@@ -198,7 +198,7 @@
     "description":"The code representing the student's school, identifier for each school.",
     "creator":"willian  oliveira",
     "sizeMB":0.0,
-    "downloadCount":1573,
+    "downloadCount":1574,
     "usabilityRating":1.0,
     "tags":[
       "games",
@@ -313,7 +313,7 @@
     "description":"Students Grading Analysis",
     "creator":"Mahmoud Elhemaly",
     "sizeMB":0.5,
-    "downloadCount":14357,
+    "downloadCount":14358,
     "usabilityRating":1.0,
     "tags":[
       "earth and nature",
@@ -375,7 +375,7 @@
     "description":"Netflix Dataset: Titles, Directors, Cast, Country, Ratings & Release Info",
     "creator":"MuhammadTahir194",
     "sizeMB":1.34,
-    "downloadCount":1160,
+    "downloadCount":1162,
     "usabilityRating":0.7058824,
     "tags":[
       "arts and entertainment",
@@ -504,7 +504,7 @@
     "description":"130k wine reviews with variety, location, winery, price, and description",
     "creator":"zackthoutt",
     "sizeMB":50.87,
-    "downloadCount":320764,
+    "downloadCount":320767,
     "usabilityRating":0.7941176,
     "tags":[
       "alcohol"
@@ -573,7 +573,7 @@
     "description":"Over 2500 ramen ratings",
     "creator":"Aleksey Bilogur",
     "sizeMB":0.04,
-    "downloadCount":49260,
+    "downloadCount":49262,
     "usabilityRating":0.7058824,
     "tags":[
       "asia",
@@ -648,7 +648,7 @@
     "description":"Classify Mobile Price Range",
     "creator":"Abhishek Sharma",
     "sizeMB":0.07,
-    "downloadCount":216106,
+    "downloadCount":216108,
     "usabilityRating":0.7058824,
     "tags":[
       "business",
@@ -679,7 +679,7 @@
     "description":"Crisp dataset of Indian Premier League's season 18",
     "creator":"Cosmic Black",
     "sizeMB":0.03,
-    "downloadCount":705,
+    "downloadCount":706,
     "usabilityRating":1.0,
     "tags":[
       "football",
@@ -748,7 +748,7 @@
     "description":"Analyze sales data from more than 16,500 games.",
     "creator":"Anand Shaw",
     "sizeMB":0.37,
-    "downloadCount":3536,
+    "downloadCount":3537,
     "usabilityRating":1.0,
     "tags":[
       "games",
@@ -812,7 +812,7 @@
     "description":"A Hybrid Dataset for Comparing Classical and Quantum Machine Learning Models",
     "creator":"Shantanu Garg",
     "sizeMB":0.01,
-    "downloadCount":2164,
+    "downloadCount":2165,
     "usabilityRating":1.0,
     "tags":[
       "earth and nature",
@@ -976,7 +976,7 @@
     "description":"Grammy Winners and Nominees from 1965 to 2024",
     "creator":"John Pendenque",
     "sizeMB":0.65,
-    "downloadCount":1298,
+    "downloadCount":1299,
     "usabilityRating":1.0,
     "tags":[
       "arts and entertainment",
@@ -992,7 +992,7 @@
     "description":"social-anxiety, mental-health, psychology, lifestyle, machine-learning",
     "creator":"Thiago Monteiro",
     "sizeMB":0.39,
-    "downloadCount":1404,
+    "downloadCount":1406,
     "usabilityRating":0.8235294,
     "tags":[
       "mental health",
@@ -1094,7 +1094,7 @@
     "description":"Anonymized credit card transactions labeled as fraudulent or genuine",
     "creator":"Timo Bozsolik",
     "sizeMB":65.95,
-    "downloadCount":850578,
+    "downloadCount":850580,
     "usabilityRating":0.85294116,
     "tags":[
       "crime",
@@ -1173,7 +1173,7 @@
     "description":"Synthetic Netflix user data with demographics, subscriptions, and watch history.",
     "creator":"AJ",
     "sizeMB":0.35,
-    "downloadCount":2698,
+    "downloadCount":2699,
     "usabilityRating":1.0,
     "tags":[
       "feature engineering"
@@ -1285,7 +1285,7 @@
     "description":"Drop in replacement for Iris Dataset",
     "creator":"Parul Pandey",
     "sizeMB":0.01,
-    "downloadCount":92240,
+    "downloadCount":92244,
     "usabilityRating":0.9705882,
     "tags":[
       "earth and nature",
@@ -1318,7 +1318,7 @@
     "description":"Analyze lifestyle habits and predict obesity levels with real and synthetic data",
     "creator":"Stephen Adeniran",
     "sizeMB":0.03,
-    "downloadCount":5168,
+    "downloadCount":5169,
     "usabilityRating":1.0,
     "tags":[
       "nutrition",
@@ -1335,7 +1335,7 @@
     "description":"🔍 Online Payment Fraud Detection Dataset | Real-World Transactions 💳",
     "creator":"RANJIT MANDAL",
     "sizeMB":0.83,
-    "downloadCount":1922,
+    "downloadCount":1923,
     "usabilityRating":0.8235294,
     "tags":[
       "artificial intelligence",
@@ -1423,7 +1423,7 @@
     "description":"Synthetic Air Pollution Data from Major Chinese Cities (2015-2025)",
     "creator":"Khushi Yadav",
     "sizeMB":0.43,
-    "downloadCount":421,
+    "downloadCount":426,
     "usabilityRating":1.0,
     "tags":[
       "china ",
@@ -1474,7 +1474,7 @@
     "description":"Consumption of spices from 1993-2023 of different countries of the world",
     "creator":"Gambler",
     "sizeMB":0.49,
-    "downloadCount":247,
+    "downloadCount":249,
     "usabilityRating":0.9411765,
     "tags":[
       "united states",
@@ -1489,7 +1489,7 @@
     "description":"Predict the onset of diabetes based on diagnostic measures",
     "creator":"Kaggle Team",
     "sizeMB":0.01,
-    "downloadCount":617694,
+    "downloadCount":617696,
     "usabilityRating":0.88235295,
     "tags":[
       "india",
@@ -1558,7 +1558,7 @@
     "description":"Classify iris plants into three species in this classic dataset",
     "creator":"Kaggle Team",
     "sizeMB":0.0,
-    "downloadCount":672623,
+    "downloadCount":672624,
     "usabilityRating":0.7941176,
     "tags":[
       "biology"
