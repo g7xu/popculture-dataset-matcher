@@ -4,6 +4,8 @@ import pandas as pd
 import re
 from kaggle.api.kaggle_api_extended import KaggleApi
 
+from ai_categorization import get_single_word_response
+
 PAGE_NUM = 5
 
 # Step 1: Authenticate
@@ -19,6 +21,7 @@ for page_nunm in range(1, PAGE_NUM + 1):
 
     # Filter datasets
     for ds in datasets:
+                
         dataset_list.append({
             "title": ds.title,
             "ref": ds.ref,
@@ -28,7 +31,12 @@ for page_nunm in range(1, PAGE_NUM + 1):
             "downloadCount": ds.download_count,
             "usabilityRating": ds.usability_rating,
             "tags": [t.name for t in ds.tags],  # tag objects → string list
-            "lastUpdated": ds.last_updated
+            "lastUpdated": ds.last_updated,
+            "ai_category": get_single_word_response(
+                ds.title,
+                ds.subtitle,
+                [t.name for t in ds.tags]
+            )
         })
 
 # Step 4: Convert to DataFrame
@@ -72,7 +80,12 @@ for page_nunm in range(1, PAGE_NUM + 1):
             "downloadCount": ds.download_count,
             "usabilityRating": ds.usability_rating,
             "tags": [t.name for t in ds.tags],  # tag objects → string list
-            "lastUpdated": ds.last_updated
+            "lastUpdated": ds.last_updated,
+            "ai_category": get_single_word_response(
+                ds.title,
+                ds.subtitle,
+                [t.name for t in ds.tags]
+            )
         })
 
 # Step 4: Convert to DataFrame
