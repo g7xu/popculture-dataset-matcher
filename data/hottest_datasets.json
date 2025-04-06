@@ -5,7 +5,7 @@
     "description":"A Comprehensive Dataset for Analyzing Chocolate Sales Trends",
     "creator":"Atharva Soundankar",
     "sizeMB":0.01,
-    "downloadCount":18244,
+    "downloadCount":18265,
     "usabilityRating":1.0,
     "tags":[
       "business",
@@ -23,7 +23,7 @@
     "description":"Analyzing Mental Health Trends and Predictors Among Students",
     "creator":"Adil Shamim",
     "sizeMB":0.45,
-    "downloadCount":9321,
+    "downloadCount":9329,
     "usabilityRating":1.0,
     "tags":[
       "universities and colleges",
@@ -46,7 +46,7 @@
       "economics"
     ],
     "lastUpdated":1743274293000,
-    "ai_category":"Lifestyle & Consumer Aesthetics"
+    "ai_category":"Internet & Digital Culture"
   },
   {
     "title":"Global Internet Usage by Country (2000-2023)",
@@ -54,7 +54,7 @@
     "description":"Percentage of Population Using the Internet from 2000 to 2023",
     "creator":"Melek Nur",
     "sizeMB":0.02,
-    "downloadCount":1631,
+    "downloadCount":1634,
     "usabilityRating":1.0,
     "tags":[
       "global",
@@ -73,7 +73,7 @@
     "description":"IPL Ball-by-Ball Dataset (2008-2022): A Comprehensive Breakdown of Every Deliver",
     "creator":"Aman",
     "sizeMB":1.52,
-    "downloadCount":624,
+    "downloadCount":627,
     "usabilityRating":0.9411765,
     "tags":[
       "cricket"
@@ -87,7 +87,7 @@
     "description":"Vkontakte (vk.com) fake and real users classification dataset",
     "creator":"Aleksei Zagorskii",
     "sizeMB":0.11,
-    "downloadCount":662,
+    "downloadCount":663,
     "usabilityRating":1.0,
     "tags":[
       "categorical",
@@ -105,7 +105,7 @@
     "description":"A dataset  children's daily screen time habits, categorized by age, ge",
     "creator":"Akshay Kumar",
     "sizeMB":0.0,
-    "downloadCount":2661,
+    "downloadCount":2663,
     "usabilityRating":1.0,
     "tags":[
       "healthcare",
@@ -122,7 +122,7 @@
     "description":"Mobile specs: Company, Model, RAM, Cameras, Battery, Prices (PK,IN, CN, US, UAE)",
     "creator":"Abdul Malik",
     "sizeMB":0.02,
-    "downloadCount":21658,
+    "downloadCount":21664,
     "usabilityRating":1.0,
     "tags":[
       "science and technology",
@@ -157,7 +157,7 @@
     "description":"A comprehensive dataset tracking cybersecurity incidents, attack vectors, threat",
     "creator":"Atharva Soundankar",
     "sizeMB":0.05,
-    "downloadCount":3176,
+    "downloadCount":3178,
     "usabilityRating":1.0,
     "tags":[
       "computer science",
@@ -189,7 +189,7 @@
     "description":"The code representing the student's school, identifier for each school.",
     "creator":"willian  oliveira",
     "sizeMB":0.0,
-    "downloadCount":1583,
+    "downloadCount":1584,
     "usabilityRating":1.0,
     "tags":[
       "games",
@@ -204,7 +204,7 @@
     "description":"Daily historical closing prices for essential commodities like oil, gold, silver",
     "creator":"Albert5913",
     "sizeMB":0.25,
-    "downloadCount":814,
+    "downloadCount":815,
     "usabilityRating":1.0,
     "tags":[
       "finance",
@@ -222,7 +222,7 @@
     "description":"Historical daily stock prices of Tesla from 2000 to 2025",
     "creator":"Taimoor Khurshid Chughtai",
     "sizeMB":0.09,
-    "downloadCount":1255,
+    "downloadCount":1256,
     "usabilityRating":1.0,
     "tags":[
       "business",
@@ -257,7 +257,7 @@
     "description":"Understanding Housing Market Trends Across Countries",
     "creator":"Atharva Soundankar",
     "sizeMB":0.02,
-    "downloadCount":1751,
+    "downloadCount":1752,
     "usabilityRating":1.0,
     "tags":[
       "business",
@@ -275,7 +275,7 @@
     "description":"Employee Dataset in Various Fields",
     "creator":"Zahid Feroze",
     "sizeMB":0.36,
-    "downloadCount":3083,
+    "downloadCount":3084,
     "usabilityRating":1.0,
     "tags":[
       "classification",
@@ -322,28 +322,12 @@
     "ai_category":"Internet & Digital Culture"
   },
   {
-    "title":"Student Performance & Behavior Dataset",
-    "ref":"mahmoudelhemaly\/students-grading-dataset",
-    "description":"Students Grading Analysis",
-    "creator":"Mahmoud Elhemaly",
-    "sizeMB":0.5,
-    "downloadCount":14383,
-    "usabilityRating":1.0,
-    "tags":[
-      "earth and nature",
-      "education",
-      "tabular"
-    ],
-    "lastUpdated":1739813926653,
-    "ai_category":"Lifestyle & Consumer Aesthetics"
-  },
-  {
     "title":"Indian Traffic Violation",
     "ref":"khushikyad001\/indian-traffic-violation",
     "description":"Indian Traffic Violation Dataset (2023-2024) 🚦📊",
     "creator":"Khushi Yadav",
     "sizeMB":0.16,
-    "downloadCount":1561,
+    "downloadCount":1562,
     "usabilityRating":1.0,
     "tags":[
       "law"
@@ -357,7 +341,7 @@
     "description":"A comprehensive dataset on global condom sales, public awareness, and contracept",
     "creator":"Atharva Soundankar",
     "sizeMB":0.02,
-    "downloadCount":982,
+    "downloadCount":983,
     "usabilityRating":1.0,
     "tags":[
       "public health",
@@ -367,6 +351,22 @@
       "data analytics"
     ],
     "lastUpdated":1741414048063,
+    "ai_category":"Lifestyle & Consumer Aesthetics"
+  },
+  {
+    "title":"Student Performance & Behavior Dataset",
+    "ref":"mahmoudelhemaly\/students-grading-dataset",
+    "description":"Students Grading Analysis",
+    "creator":"Mahmoud Elhemaly",
+    "sizeMB":0.5,
+    "downloadCount":14384,
+    "usabilityRating":1.0,
+    "tags":[
+      "earth and nature",
+      "education",
+      "tabular"
+    ],
+    "lastUpdated":1739813926653,
     "ai_category":"Lifestyle & Consumer Aesthetics"
   },
   {
@@ -394,7 +394,7 @@
     "description":"A Comprehensive Dataset on Anxiety, Depression, and Related Lifestyle ",
     "creator":"Akshay Kumar",
     "sizeMB":0.02,
-    "downloadCount":2347,
+    "downloadCount":2348,
     "usabilityRating":1.0,
     "tags":[
       "mental health",
@@ -412,7 +412,7 @@
     "description":"Netflix Dataset: Titles, Directors, Cast, Country, Ratings & Release Info",
     "creator":"MuhammadTahir194",
     "sizeMB":1.34,
-    "downloadCount":1171,
+    "downloadCount":1172,
     "usabilityRating":0.7058824,
     "tags":[
       "arts and entertainment",
@@ -448,7 +448,7 @@
     "description":"Data of all players participating in the Indian Premier League (IPL 2025)",
     "creator":"baddu01",
     "sizeMB":0.03,
-    "downloadCount":1901,
+    "downloadCount":1902,
     "usabilityRating":1.0,
     "tags":[
       "cricket",
@@ -498,7 +498,7 @@
     "description":"Daily statistics for trending YouTube videos",
     "creator":"Timo Bozsolik",
     "sizeMB":200.82,
-    "downloadCount":266202,
+    "downloadCount":266204,
     "usabilityRating":0.7941176,
     "tags":[
       "languages",
@@ -516,7 +516,7 @@
     "description":"Analyzing trending hashtags, engagement, and platform-specific content performan",
     "creator":"Atharva Soundankar",
     "sizeMB":0.1,
-    "downloadCount":3495,
+    "downloadCount":3496,
     "usabilityRating":1.0,
     "tags":[
       "marketing",
@@ -535,7 +535,7 @@
     "description":"130k wine reviews with variety, location, winery, price, and description",
     "creator":"zackthoutt",
     "sizeMB":50.87,
-    "downloadCount":320774,
+    "downloadCount":320775,
     "usabilityRating":0.7941176,
     "tags":[
       "alcohol"
@@ -689,7 +689,7 @@
     "description":"Classify Mobile Price Range",
     "creator":"Abhishek Sharma",
     "sizeMB":0.07,
-    "downloadCount":216121,
+    "downloadCount":216124,
     "usabilityRating":0.7058824,
     "tags":[
       "business",
@@ -718,7 +718,7 @@
     "description":"A suitable data for CRM  & Sales Opportunities & Marketing analytics practice.",
     "creator":"Cem Eragan",
     "sizeMB":27.15,
-    "downloadCount":914,
+    "downloadCount":915,
     "usabilityRating":0.9411765,
     "tags":[
       "business",
@@ -772,7 +772,7 @@
     "description":"COCO dataset of Person Collecting Garbage",
     "creator":"Ashutosh Sharma",
     "sizeMB":18.93,
-    "downloadCount":210,
+    "downloadCount":211,
     "usabilityRating":1.0,
     "tags":[
       "environment",
@@ -790,7 +790,7 @@
     "description":"Analyze sales data from more than 16,500 games.",
     "creator":"Anand Shaw",
     "sizeMB":0.37,
-    "downloadCount":3545,
+    "downloadCount":3547,
     "usabilityRating":1.0,
     "tags":[
       "games",
@@ -808,7 +808,7 @@
     "description":"Analyzing student mental stress, factors influencing it, and coping mechanisms. ",
     "creator":"Salahuddin Ahmed",
     "sizeMB":0.02,
-    "downloadCount":2587,
+    "downloadCount":2588,
     "usabilityRating":0.9411765,
     "tags":[
       "mental health",
@@ -876,7 +876,7 @@
     "description":"Analyzing the impact of lifestyle choices on mental well-being from 2019 to 2024",
     "creator":"Atharva Soundankar",
     "sizeMB":0.04,
-    "downloadCount":1457,
+    "downloadCount":1459,
     "usabilityRating":1.0,
     "tags":[
       "mental health",
@@ -894,7 +894,7 @@
     "description":"Amazon stpck price data From 2000-2025",
     "creator":"Abdul Moiz",
     "sizeMB":0.15,
-    "downloadCount":2392,
+    "downloadCount":2393,
     "usabilityRating":1.0,
     "tags":[
       "business",
@@ -911,7 +911,7 @@
     "description":"Simulate customer behavior, product performance, and sales trends.",
     "creator":"Ertuğrul EŞOL",
     "sizeMB":0.02,
-    "downloadCount":972,
+    "downloadCount":976,
     "usabilityRating":1.0,
     "tags":[
       "statistical analysis",
@@ -947,7 +947,7 @@
     "description":"Salary and Employment trends in AI, ML, Data Science",
     "creator":"Samith Chimminiyan",
     "sizeMB":0.57,
-    "downloadCount":1573,
+    "downloadCount":1576,
     "usabilityRating":1.0,
     "tags":[
       "employment",
@@ -965,7 +965,7 @@
     "description":"Crisp dataset of Indian Premier League's season 18",
     "creator":"Cosmic Black",
     "sizeMB":0.03,
-    "downloadCount":728,
+    "downloadCount":730,
     "usabilityRating":1.0,
     "tags":[
       "football",
@@ -1001,7 +1001,7 @@
     "description":"A curated dataset of Netflix content sourced from TMDb, including titles, genres",
     "creator":"Bhargav Chirumamilla",
     "sizeMB":6.17,
-    "downloadCount":2898,
+    "downloadCount":2899,
     "usabilityRating":1.0,
     "tags":[
       "movies and tv shows",
@@ -1068,7 +1068,7 @@
     "description":"Synthetic Air Pollution Data from Major Chinese Cities (2015-2025)",
     "creator":"Khushi Yadav",
     "sizeMB":0.43,
-    "downloadCount":473,
+    "downloadCount":479,
     "usabilityRating":1.0,
     "tags":[
       "china ",
@@ -1084,7 +1084,7 @@
     "description":"social-anxiety, mental-health, psychology, lifestyle, machine-learning",
     "creator":"Thiago Monteiro",
     "sizeMB":0.39,
-    "downloadCount":1413,
+    "downloadCount":1414,
     "usabilityRating":0.8235294,
     "tags":[
       "mental health",
@@ -1140,7 +1140,7 @@
     "description":"Analyzing Music Streaming Trends, Listener Habits & Preferences 🎵",
     "creator":"Atharva Soundankar",
     "sizeMB":0.09,
-    "downloadCount":2471,
+    "downloadCount":2472,
     "usabilityRating":1.0,
     "tags":[
       "arts and entertainment",
@@ -1173,7 +1173,7 @@
     "description":"Analyzing the impact of Covid vaccination on heart attacks in India",
     "creator":"Atharva Soundankar",
     "sizeMB":0.01,
-    "downloadCount":228,
+    "downloadCount":229,
     "usabilityRating":1.0,
     "tags":[
       "public health",
@@ -1243,7 +1243,7 @@
     "description":"This dataset represents synthetic sales data generated for practice purposes.",
     "creator":"VINOTH KANNA S",
     "sizeMB":0.03,
-    "downloadCount":8083,
+    "downloadCount":8084,
     "usabilityRating":1.0,
     "tags":[
       "categorical",
@@ -1262,7 +1262,7 @@
     "description":"Understanding Water Usage, Scarcity, and Trends Across the",
     "creator":"Atharva Soundankar",
     "sizeMB":0.02,
-    "downloadCount":2622,
+    "downloadCount":2623,
     "usabilityRating":1.0,
     "tags":[
       "earth and nature",
@@ -1280,7 +1280,7 @@
     "description":"Anonymized credit card transactions labeled as fraudulent or genuine",
     "creator":"Timo Bozsolik",
     "sizeMB":65.95,
-    "downloadCount":850686,
+    "downloadCount":850704,
     "usabilityRating":0.85294116,
     "tags":[
       "crime",
@@ -1319,7 +1319,7 @@
       "feature extraction"
     ],
     "lastUpdated":1741272650223,
-    "ai_category":"Lifestyle & Consumer Aesthetics"
+    "ai_category":"Internet & Digital Culture"
   },
   {
     "title":"Global spice consumption",
@@ -1327,7 +1327,7 @@
     "description":"Consumption of spices from 1993-2023 of different countries of the world",
     "creator":"Gambler",
     "sizeMB":0.49,
-    "downloadCount":271,
+    "downloadCount":272,
     "usabilityRating":0.9411765,
     "tags":[
       "united states",
@@ -1361,7 +1361,7 @@
     "description":"A merged dataset of household income and expenditure (2010–2021) across regions.",
     "creator":"Aradhana Hirapara",
     "sizeMB":0.19,
-    "downloadCount":182,
+    "downloadCount":183,
     "usabilityRating":1.0,
     "tags":[
       "income",
@@ -1411,7 +1411,7 @@
     "description":"Drop in replacement for Iris Dataset",
     "creator":"Parul Pandey",
     "sizeMB":0.01,
-    "downloadCount":92263,
+    "downloadCount":92264,
     "usabilityRating":0.9705882,
     "tags":[
       "earth and nature",
@@ -1428,7 +1428,7 @@
     "description":"Classify iris plants into three species in this classic dataset",
     "creator":"Kaggle Team",
     "sizeMB":0.0,
-    "downloadCount":672690,
+    "downloadCount":672695,
     "usabilityRating":0.7941176,
     "tags":[
       "biology"
@@ -1479,7 +1479,7 @@
     "description":"Analyze lifestyle habits and predict obesity levels with real and synthetic data",
     "creator":"Stephen Adeniran",
     "sizeMB":0.03,
-    "downloadCount":5179,
+    "downloadCount":5182,
     "usabilityRating":1.0,
     "tags":[
       "nutrition",
@@ -1516,7 +1516,7 @@
     "description":"The dataset contains user reviews from Flipkart for different laptops.",
     "creator":"sublimE009",
     "sizeMB":0.98,
-    "downloadCount":941,
+    "downloadCount":942,
     "usabilityRating":1.0,
     "tags":[
       "exploratory data analysis",
@@ -1564,7 +1564,7 @@
       "data analytics"
     ],
     "lastUpdated":1741928799413,
-    "ai_category":"Lifestyle & Consumer Aesthetics"
+    "ai_category":"Internet & Digital Culture"
   },
   {
     "title":"🔢 960K Spotify Songs Lyrics Embeddings 🎹",
@@ -1609,7 +1609,7 @@
     "description":"\"Detailed Catalog of Products with Stock, Pricing, and Specifications\"",
     "creator":"Keyush nisar",
     "sizeMB":0.36,
-    "downloadCount":1687,
+    "downloadCount":1690,
     "usabilityRating":1.0,
     "tags":[
       "business",
