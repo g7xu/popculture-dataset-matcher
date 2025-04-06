@@ -30,9 +30,6 @@ jobs:
                 mkdir -p ~/.kaggle
                 echo '${{ secrets.KAGGLE_JSON }}' > ~/.kaggle/kaggle.json
                 chmod 600 ~/.kaggle/kaggle.json
-              
-            - name: Debug - Confirm kaggle.json structure (TEMP)
-              run: cat ~/.kaggle/kaggle.json
             
             - name: Fetch datasets
               run: |
