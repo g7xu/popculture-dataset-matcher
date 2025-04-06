@@ -25,6 +25,7 @@ def fetch_and_process_datasets(sort_by, output_filename):
             dataset_list.append({
                 "title": ds.title,
                 "ref": ds.ref,
+                "url": ds.url,
                 "description": ds.subtitle,
                 "creator": ds.creator_name,
                 "size": ds.total_bytes,  # in bytes
