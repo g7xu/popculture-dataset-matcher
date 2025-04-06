@@ -146,13 +146,6 @@ async function renderBubbleChart(bubbleChartDiv, cate_prop_data) {
                     .style("z-index", "1000")
                     .style("overflow-y", "auto");
 
-                // Add a title to the pop-up box
-                popupBox.append("h3")
-                    .text(`Category: ${d.name}`)
-                    .style("margin-bottom", "25px")
-                    .style("font-size", "1.2rem")
-                    .style("color", "#333");
-
                 // Add the list of datasets
                 const list = popupBox.append("ul")
                     .style("list-style", "none")
