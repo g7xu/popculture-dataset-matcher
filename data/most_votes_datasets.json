@@ -1,0 +1,1585 @@
+[
+  {
+    "title":"Animal Crossing New Horizons Catalog",
+    "ref":"jessicali9530\/animal-crossing-new-horizons-nookplaza-dataset",
+    "description":"A comprehensive inventory of ACNH items, villagers, clothing, fish\/bugs etc",
+    "creator":"Jessica Li",
+    "sizeMB":0.56,
+    "downloadCount":74300,
+    "usabilityRating":0.88235295,
+    "tags":[
+      "simulations"
+    ],
+    "lastUpdated":1623164709513
+  },
+  {
+    "title":"Credit Card Fraud Detection",
+    "ref":"mlg-ulb\/creditcardfraud",
+    "description":"Anonymized credit card transactions labeled as fraudulent or genuine",
+    "creator":"Timo Bozsolik",
+    "sizeMB":65.95,
+    "downloadCount":850578,
+    "usabilityRating":0.85294116,
+    "tags":[
+      "crime",
+      "finance"
+    ],
+    "lastUpdated":1521767847913
+  },
+  {
+    "title":"COVID-19 Open Research Dataset Challenge (CORD-19)",
+    "ref":"allen-institute-for-ai\/CORD-19-research-challenge",
+    "description":"An AI challenge with AI2, CZI, MSR, Georgetown, NIH & The White House",
+    "creator":"Paul Mooney",
+    "sizeMB":18811.21,
+    "downloadCount":186598,
+    "usabilityRating":0.88235295,
+    "tags":[
+      "public health",
+      "biology",
+      "business",
+      "computer science",
+      "nlp",
+      "covid19"
+    ],
+    "lastUpdated":1654544380923
+  },
+  {
+    "title":"Netflix Movies and TV Shows",
+    "ref":"shivamb\/netflix-shows",
+    "description":"Listings of movies and tv shows on Netflix - Regularly Updated",
+    "creator":"Shivam Bansal",
+    "sizeMB":1.34,
+    "downloadCount":554132,
+    "usabilityRating":1.0,
+    "tags":[
+      "websites",
+      "arts and entertainment",
+      "movies and tv shows",
+      "exploratory data analysis",
+      "data visualization"
+    ],
+    "lastUpdated":1632717876770
+  },
+  {
+    "title":"Chest X-Ray Images (Pneumonia)",
+    "ref":"paultimothymooney\/chest-xray-pneumonia",
+    "description":"5,863 images, 2 categories",
+    "creator":"Paul Mooney",
+    "sizeMB":2349.25,
+    "downloadCount":380736,
+    "usabilityRating":0.75,
+    "tags":[
+      "biology",
+      "health",
+      "medicine",
+      "image",
+      "online communities"
+    ],
+    "lastUpdated":1521920519603
+  },
+  {
+    "title":"Video Game Sales",
+    "ref":"gregorut\/videogamesales",
+    "description":"Analyze sales data from more than 16,500 games.",
+    "creator":"GregorySmith",
+    "sizeMB":0.37,
+    "downloadCount":671611,
+    "usabilityRating":0.5882353,
+    "tags":[
+      "games",
+      "video games"
+    ],
+    "lastUpdated":1477473049853
+  },
+  {
+    "title":"Novel Corona Virus 2019 Dataset",
+    "ref":"sudalairajkumar\/novel-corona-virus-2019-dataset",
+    "description":"Day level information on covid-19 affected cases",
+    "creator":"SRK",
+    "sizeMB":8.52,
+    "downloadCount":456561,
+    "usabilityRating":0.9705882,
+    "tags":[
+      "public health",
+      "health",
+      "law",
+      "health conditions",
+      "covid19"
+    ],
+    "lastUpdated":1624508845870
+  },
+  {
+    "title":"Trending YouTube Video Statistics",
+    "ref":"datasnaek\/youtube-new",
+    "description":"Daily statistics for trending YouTube videos",
+    "creator":"Timo Bozsolik",
+    "sizeMB":200.82,
+    "downloadCount":266189,
+    "usabilityRating":0.7941176,
+    "tags":[
+      "languages",
+      "popular culture",
+      "arts and entertainment",
+      "linguistics",
+      "internet"
+    ],
+    "lastUpdated":1559523407177
+  },
+  {
+    "title":"Data Science Cheat Sheets",
+    "ref":"timoboz\/data-science-cheat-sheets",
+    "description":"Quick help to make a data scientist's life easier",
+    "creator":"Timo Bozsolik",
+    "sizeMB":596.29,
+    "downloadCount":70190,
+    "usabilityRating":0.875,
+    "tags":[
+      "classification",
+      "deep learning"
+    ],
+    "lastUpdated":1580845347173
+  },
+  {
+    "title":"Google Play Store Apps",
+    "ref":"lava18\/google-play-store-apps",
+    "description":"Web scraped data of 10k Play Store apps for analysing the Android market.",
+    "creator":"Lavanya",
+    "sizeMB":1.94,
+    "downloadCount":269297,
+    "usabilityRating":0.7058824,
+    "tags":[
+      "video games",
+      "computer science",
+      "internet",
+      "mobile and wireless"
+    ],
+    "lastUpdated":1549202147603
+  },
+  {
+    "title":"European Soccer Database",
+    "ref":"hugomathien\/soccer",
+    "description":"25k+ matches, players & teams attributes for European Professional Football",
+    "creator":"Hugo Mathien",
+    "sizeMB":32.71,
+    "downloadCount":242118,
+    "usabilityRating":0.7058824,
+    "tags":[
+      "games",
+      "video games",
+      "football",
+      "europe",
+      "sports",
+      "business"
+    ],
+    "lastUpdated":1477261898527
+  },
+  {
+    "title":"FiveThirtyEight Comic Characters Dataset",
+    "ref":"fivethirtyeight\/fivethirtyeight-comic-characters-dataset",
+    "description":"Explore Data from FiveThirtyEight",
+    "creator":"Kaggle Team",
+    "sizeMB":0.58,
+    "downloadCount":32911,
+    "usabilityRating":0.8235294,
+    "tags":[
+      "business",
+      "politics",
+      "comics and animation"
+    ],
+    "lastUpdated":1556290901097
+  },
+  {
+    "title":"Students Performance in Exams",
+    "ref":"spscientist\/students-performance-in-exams",
+    "description":"Marks secured by the students in various subjects",
+    "creator":"Jakki Seshapanpu",
+    "sizeMB":0.01,
+    "downloadCount":333617,
+    "usabilityRating":0.7058824,
+    "tags":[
+      "education",
+      "exploratory data analysis",
+      "data visualization",
+      "standardized testing"
+    ],
+    "lastUpdated":1541787925037
+  },
+  {
+    "title":"Pima Indians Diabetes Database",
+    "ref":"uciml\/pima-indians-diabetes-database",
+    "description":"Predict the onset of diabetes based on diagnostic measures",
+    "creator":"Kaggle Team",
+    "sizeMB":0.01,
+    "downloadCount":617694,
+    "usabilityRating":0.88235295,
+    "tags":[
+      "india",
+      "healthcare",
+      "earth and nature",
+      "health",
+      "diabetes",
+      "benchmark dataset",
+      "benchmark"
+    ],
+    "lastUpdated":1475778716823
+  },
+  {
+    "title":"Huge Stock Market Dataset",
+    "ref":"borismarjanovic\/price-volume-data-for-all-us-stocks-etfs",
+    "description":"Historical daily prices and volumes of all U.S. stocks and ETFs",
+    "creator":"Boris Marjanovic",
+    "sizeMB":491.71,
+    "downloadCount":126871,
+    "usabilityRating":0.75,
+    "tags":[
+      "business",
+      "finance",
+      "economics",
+      "artificial intelligence",
+      "investing"
+    ],
+    "lastUpdated":1510844009820
+  },
+  {
+    "title":"World Happiness Report",
+    "ref":"unsdsn\/world-happiness",
+    "description":"Happiness scored according to economic production, social support, etc.",
+    "creator":"Timo Bozsolik",
+    "sizeMB":0.04,
+    "downloadCount":340968,
+    "usabilityRating":0.85294116,
+    "tags":[
+      "arts and entertainment",
+      "religion and belief systems",
+      "social science",
+      "economics",
+      "news"
+    ],
+    "lastUpdated":1574829707297
+  },
+  {
+    "title":"Iris Species",
+    "ref":"uciml\/iris",
+    "description":"Classify iris plants into three species in this classic dataset",
+    "creator":"Kaggle Team",
+    "sizeMB":0.0,
+    "downloadCount":672623,
+    "usabilityRating":0.7941176,
+    "tags":[
+      "biology"
+    ],
+    "lastUpdated":1474961885440
+  },
+  {
+    "title":"TMDB 5000 Movie Dataset",
+    "ref":"tmdb\/tmdb-movie-metadata",
+    "description":"Metadata on ~5,000 movies from TMDb",
+    "creator":"Sohier Dane",
+    "sizeMB":8.89,
+    "downloadCount":422308,
+    "usabilityRating":0.8235294,
+    "tags":[
+      "arts and entertainment",
+      "movies and tv shows"
+    ],
+    "lastUpdated":1506560952897
+  },
+  {
+    "title":"Avocado Prices",
+    "ref":"neuromusic\/avocado-prices",
+    "description":"Historical data on avocado prices and sales volume in multiple US markets",
+    "creator":"Justin Kiggins",
+    "sizeMB":0.61,
+    "downloadCount":321579,
+    "usabilityRating":0.9705882,
+    "tags":[
+      "food"
+    ],
+    "lastUpdated":1528262915433
+  },
+  {
+    "title":"Breast Cancer Wisconsin (Diagnostic) Data Set",
+    "ref":"uciml\/breast-cancer-wisconsin-data",
+    "description":"Predict whether the cancer is benign or malignant",
+    "creator":"Ovsen",
+    "sizeMB":0.05,
+    "downloadCount":433644,
+    "usabilityRating":0.85294116,
+    "tags":[
+      "healthcare",
+      "cancer"
+    ],
+    "lastUpdated":1474800544067
+  },
+  {
+    "title":"The Movies Dataset",
+    "ref":"rounakbanik\/the-movies-dataset",
+    "description":"Metadata on over 45,000 movies. 26 million ratings from over 270,000 users.",
+    "creator":"Rounak Banik",
+    "sizeMB":227.8,
+    "downloadCount":397222,
+    "usabilityRating":0.8235294,
+    "tags":[
+      "popular culture",
+      "movies and tv shows",
+      "earth and nature"
+    ],
+    "lastUpdated":1510281638583
+  },
+  {
+    "title":"Wine Reviews",
+    "ref":"zynicide\/wine-reviews",
+    "description":"130k wine reviews with variety, location, winery, price, and description",
+    "creator":"zackthoutt",
+    "sizeMB":50.87,
+    "downloadCount":320764,
+    "usabilityRating":0.7941176,
+    "tags":[
+      "alcohol"
+    ],
+    "lastUpdated":1511802484700
+  },
+  {
+    "title":"Bitcoin Historical Data",
+    "ref":"mczielinski\/bitcoin-historical-data",
+    "description":"Bitcoin data at 1-min intervals from select exchanges, Jan 2012 to Present",
+    "creator":"Zielak",
+    "sizeMB":112.35,
+    "downloadCount":173236,
+    "usabilityRating":1.0,
+    "tags":[
+      "history",
+      "finance",
+      "currencies and foreign exchange"
+    ],
+    "lastUpdated":1743901088230
+  },
+  {
+    "title":"Brazilian E-Commerce Public Dataset by Olist",
+    "ref":"olistbr\/brazilian-ecommerce",
+    "description":"100,000 Orders with product, customer and reviews info",
+    "creator":"Francisco Magioli",
+    "sizeMB":42.65,
+    "downloadCount":312675,
+    "usabilityRating":1.0,
+    "tags":[
+      "brazil",
+      "business",
+      "exploratory data analysis",
+      "nlp",
+      "data visualization",
+      "multiclass classification"
+    ],
+    "lastUpdated":1633115307970
+  },
+  {
+    "title":"Stroke Prediction Dataset",
+    "ref":"fedesoriano\/stroke-prediction-dataset",
+    "description":"11 clinical features for predicting stroke events",
+    "creator":"fedesoriano",
+    "sizeMB":0.07,
+    "downloadCount":224890,
+    "usabilityRating":1.0,
+    "tags":[
+      "healthcare",
+      "public health",
+      "health",
+      "binary classification",
+      "health conditions"
+    ],
+    "lastUpdated":1611689368887
+  },
+  {
+    "title":"Fruits-360 dataset",
+    "ref":"moltean\/fruits",
+    "description":"A dataset with 120030 images of 176 fruits, vegetables, nuts and seeds",
+    "creator":"Mihai Oltean",
+    "sizeMB":2609.23,
+    "downloadCount":174524,
+    "usabilityRating":0.875,
+    "tags":[
+      "plants",
+      "health",
+      "image",
+      "multiclass classification",
+      "food"
+    ],
+    "lastUpdated":1743669468003
+  },
+  {
+    "title":"Suicide Rates Overview 1985 to 2016 ",
+    "ref":"russellyates88\/suicide-rates-overview-1985-to-2016",
+    "description":"Compares socio-economic info with suicide rates by year and country",
+    "creator":"Rusty",
+    "sizeMB":0.39,
+    "downloadCount":145955,
+    "usabilityRating":0.8235294,
+    "tags":[
+      "demographics",
+      "economics",
+      "news"
+    ],
+    "lastUpdated":1543691905903
+  },
+  {
+    "title":"Red Wine Quality",
+    "ref":"uciml\/red-wine-quality-cortez-et-al-2009",
+    "description":"Simple and clean practice dataset for regression or classification modelling",
+    "creator":"Sohier Dane",
+    "sizeMB":0.02,
+    "downloadCount":283939,
+    "usabilityRating":0.88235295,
+    "tags":[
+      "alcohol",
+      "earth and nature",
+      "education",
+      "beginner",
+      "benchmark dataset",
+      "benchmark"
+    ],
+    "lastUpdated":1511826068883
+  },
+  {
+    "title":"New York City Airbnb Open Data",
+    "ref":"dgomonov\/new-york-city-airbnb-open-data",
+    "description":"Airbnb listings and metrics in NYC, NY, USA (2019)",
+    "creator":"Dgomonov",
+    "sizeMB":2.44,
+    "downloadCount":209974,
+    "usabilityRating":1.0,
+    "tags":[
+      "business",
+      "internet",
+      "hotels and accommodations"
+    ],
+    "lastUpdated":1565627085737
+  },
+  {
+    "title":"Telco Customer Churn",
+    "ref":"blastchar\/telco-customer-churn",
+    "description":"Focused customer retention programs",
+    "creator":"BlastChar",
+    "sizeMB":0.17,
+    "downloadCount":326898,
+    "usabilityRating":0.88235295,
+    "tags":[
+      "business"
+    ],
+    "lastUpdated":1519410000210
+  },
+  {
+    "title":"Fashion MNIST",
+    "ref":"zalando-research\/fashionmnist",
+    "description":"An MNIST-like dataset of 70,000 28x28 labeled fashion images",
+    "creator":"Chris Crawford",
+    "sizeMB":68.77,
+    "downloadCount":229135,
+    "usabilityRating":0.85294116,
+    "tags":[
+      "arts and entertainment",
+      "earth and nature",
+      "clothing and accessories",
+      "computer science",
+      "image",
+      "multiclass classification",
+      "retail and shopping"
+    ],
+    "lastUpdated":1512608060537
+  },
+  {
+    "title":"Supermarket sales",
+    "ref":"aungpyaeap\/supermarket-sales",
+    "description":"Historical record of sales data in 3 different supermarkets",
+    "creator":"Aung Pyae",
+    "sizeMB":0.04,
+    "downloadCount":337746,
+    "usabilityRating":0.88235295,
+    "tags":[
+      "business",
+      "economics",
+      "data visualization"
+    ],
+    "lastUpdated":1558940884257
+  },
+  {
+    "title":" Medical Cost Personal Datasets",
+    "ref":"mirichoi0218\/insurance",
+    "description":"Insurance Forecast by using Linear Regression",
+    "creator":"Miri Choi",
+    "sizeMB":0.02,
+    "downloadCount":302239,
+    "usabilityRating":0.88235295,
+    "tags":[
+      "healthcare",
+      "education",
+      "finance",
+      "health",
+      "insurance"
+    ],
+    "lastUpdated":1519172114117
+  },
+  {
+    "title":"Heart Failure Prediction Dataset",
+    "ref":"fedesoriano\/heart-failure-prediction",
+    "description":"11 clinical features for predicting heart disease events.",
+    "creator":"fedesoriano",
+    "sizeMB":0.01,
+    "downloadCount":192318,
+    "usabilityRating":1.0,
+    "tags":[
+      "healthcare",
+      "health",
+      "classification",
+      "health conditions",
+      "heart conditions"
+    ],
+    "lastUpdated":1631297517517
+  },
+  {
+    "title":"Customer Personality Analysis",
+    "ref":"imakash3011\/customer-personality-analysis",
+    "description":"Analysis of company's ideal customers",
+    "creator":"Akash Patel",
+    "sizeMB":0.06,
+    "downloadCount":181845,
+    "usabilityRating":0.9705882,
+    "tags":[
+      "business",
+      "education",
+      "exploratory data analysis",
+      "data cleaning",
+      "classification",
+      "clustering"
+    ],
+    "lastUpdated":1629656105273
+  },
+  {
+    "title":"IBM HR Analytics Employee Attrition & Performance",
+    "ref":"pavansubhasht\/ibm-hr-analytics-attrition-dataset",
+    "description":"Predict attrition of your valuable employees",
+    "creator":"pavansubhash",
+    "sizeMB":0.05,
+    "downloadCount":217857,
+    "usabilityRating":0.88235295,
+    "tags":[
+      "employment",
+      "business",
+      "software"
+    ],
+    "lastUpdated":1490943316973
+  },
+  {
+    "title":"Pokemon with stats",
+    "ref":"abcsds\/pokemon",
+    "description":"721 Pokemon with stats and types",
+    "creator":"Alberto Barradas",
+    "sizeMB":0.01,
+    "downloadCount":136773,
+    "usabilityRating":0.88235295,
+    "tags":[
+      "popular culture",
+      "games",
+      "video games",
+      "anime and manga"
+    ],
+    "lastUpdated":1472450503490
+  },
+  {
+    "title":"Global Terrorism Database",
+    "ref":"START-UMD\/gtd",
+    "description":"More than 180,000 terrorist attacks worldwide, 1970-2017",
+    "creator":"Erin Miller",
+    "sizeMB":28.68,
+    "downloadCount":110620,
+    "usabilityRating":0.85294116,
+    "tags":[
+      "literature",
+      "crime",
+      "government",
+      "international relations",
+      "software"
+    ],
+    "lastUpdated":1536603738180
+  },
+  {
+    "title":"COVID-19 Dataset",
+    "ref":"imdevskp\/corona-virus-report",
+    "description":"Number of Confirmed, Death and Recovered cases every day across the globe",
+    "creator":"Devakumar K. P.",
+    "sizeMB":19.0,
+    "downloadCount":367165,
+    "usabilityRating":1.0,
+    "tags":[
+      "diseases",
+      "public health",
+      "law",
+      "covid19"
+    ],
+    "lastUpdated":1596772067907
+  },
+  {
+    "title":"Hotel booking demand",
+    "ref":"jessemostipak\/hotel-booking-demand",
+    "description":"From the paper: hotel booking demand datasets",
+    "creator":"Jesse Mostipak",
+    "sizeMB":1.25,
+    "downloadCount":165153,
+    "usabilityRating":1.0,
+    "tags":[
+      "social science",
+      "travel",
+      "hotels and accommodations",
+      "tidyverse"
+    ],
+    "lastUpdated":1581557240800
+  },
+  {
+    "title":"Mushroom Classification",
+    "ref":"uciml\/mushroom-classification",
+    "description":"Safe to eat or deadly poison?",
+    "creator":"Meg Risdal",
+    "sizeMB":0.03,
+    "downloadCount":153038,
+    "usabilityRating":0.85294116,
+    "tags":[
+      "earth and nature",
+      "biology",
+      "public safety",
+      "benchmark dataset",
+      "benchmark"
+    ],
+    "lastUpdated":1480633680073
+  },
+  {
+    "title":"FitBit Fitness Tracker Data",
+    "ref":"arashnic\/fitbit",
+    "description":"Pattern recognition with tracker data: : Improve Your Overall Health",
+    "creator":"Möbius",
+    "sizeMB":43.29,
+    "downloadCount":169180,
+    "usabilityRating":0.875,
+    "tags":[
+      "exercise",
+      "business"
+    ],
+    "lastUpdated":1709412425910
+  },
+  {
+    "title":"US Accidents (2016 - 2023)",
+    "ref":"sobhanmoosavi\/us-accidents",
+    "description":"A Countrywide Traffic Accident Dataset (2016 - 2023)",
+    "creator":"Sobhan Moosavi",
+    "sizeMB":653.13,
+    "downloadCount":140326,
+    "usabilityRating":1.0,
+    "tags":[
+      "transportation",
+      "geospatial analysis",
+      "tabular",
+      "public safety"
+    ],
+    "lastUpdated":1685235287207
+  },
+  {
+    "title":"Heart Failure Prediction",
+    "ref":"andrewmvd\/heart-failure-clinical-data",
+    "description":"12 clinical features por predicting death events.",
+    "creator":"Larxel",
+    "sizeMB":0.0,
+    "downloadCount":159365,
+    "usabilityRating":1.0,
+    "tags":[
+      "healthcare",
+      "public health",
+      "health",
+      "tabular",
+      "heart conditions"
+    ],
+    "lastUpdated":1592615000940
+  },
+  {
+    "title":"Climate Change: Earth Surface Temperature Data",
+    "ref":"berkeleyearth\/climate-change-earth-surface-temperature-data",
+    "description":"Exploring global temperatures since 1750",
+    "creator":"[Deleted User]",
+    "sizeMB":84.73,
+    "downloadCount":157701,
+    "usabilityRating":0.7647059,
+    "tags":[
+      "atmospheric science",
+      "environment",
+      "business",
+      "news"
+    ],
+    "lastUpdated":1493659750780
+  },
+  {
+    "title":"Credit Card customers",
+    "ref":"sakshigoyal7\/credit-card-customers",
+    "description":"Predict Churning customers",
+    "creator":"Sakshi Goyal",
+    "sizeMB":0.37,
+    "downloadCount":120226,
+    "usabilityRating":1.0,
+    "tags":[
+      "business",
+      "lending",
+      "banking",
+      "e-commerce services"
+    ],
+    "lastUpdated":1605771524677
+  },
+  {
+    "title":"Amazon Fine Food Reviews",
+    "ref":"snap\/amazon-fine-food-reviews",
+    "description":"Analyze ~500,000 food reviews from Amazon",
+    "creator":"[Deleted User]",
+    "sizeMB":242.11,
+    "downloadCount":214878,
+    "usabilityRating":0.7941176,
+    "tags":[
+      "business",
+      "linguistics",
+      "internet",
+      "restaurants"
+    ],
+    "lastUpdated":1493664691490
+  },
+  {
+    "title":"International football results from 1872 to 2025",
+    "ref":"martj42\/international-football-results-from-1872-to-2017",
+    "description":"An up-to-date dataset of over 47,000 international football results",
+    "creator":"Mart Jürisoo",
+    "sizeMB":1.15,
+    "downloadCount":112564,
+    "usabilityRating":1.0,
+    "tags":[
+      "football",
+      "global",
+      "sports",
+      "history",
+      "international relations"
+    ],
+    "lastUpdated":1742966134493
+  },
+  {
+    "title":"120 years of Olympic history: athletes and results",
+    "ref":"heesoo37\/120-years-of-olympic-history-athletes-and-results",
+    "description":"basic bio data on athletes and medal results from Athens 1896 to Rio 2016",
+    "creator":"rgriffin",
+    "sizeMB":5.43,
+    "downloadCount":201610,
+    "usabilityRating":0.8235294,
+    "tags":[
+      "sports",
+      "history"
+    ],
+    "lastUpdated":1529043041637
+  },
+  {
+    "title":"Mobile Price Classification",
+    "ref":"iabhishekofficial\/mobile-price-classification",
+    "description":"Classify Mobile Price Range",
+    "creator":"Abhishek Sharma",
+    "sizeMB":0.07,
+    "downloadCount":216106,
+    "usabilityRating":0.7058824,
+    "tags":[
+      "business",
+      "classification"
+    ],
+    "lastUpdated":1517129064237
+  },
+  {
+    "title":"House Sales in King County, USA",
+    "ref":"harlfoxem\/housesalesprediction",
+    "description":"Predict house price using regression",
+    "creator":"harlfoxem",
+    "sizeMB":0.76,
+    "downloadCount":213883,
+    "usabilityRating":0.7058824,
+    "tags":[
+      "finance"
+    ],
+    "lastUpdated":1472140369797
+  },
+  {
+    "title":"COVID-19 World Vaccination Progress",
+    "ref":"gpreda\/covid-world-vaccination-progress",
+    "description":"Daily and Total Vaccination for COVID-19 in the World from Our World in Data",
+    "creator":"Gabriel Preda",
+    "sizeMB":1.94,
+    "downloadCount":109720,
+    "usabilityRating":1.0,
+    "tags":[
+      "public health",
+      "biology",
+      "health",
+      "public safety",
+      "covid19"
+    ],
+    "lastUpdated":1648713309033
+  },
+  {
+    "title":"Date Fruit Datasets",
+    "ref":"muratkokludataset\/date-fruit-datasets",
+    "description":"7 Class; Barhee, Deglet Nour, Sukkary, Rotab Mozafati, Ruthana, Safawi, Sagai",
+    "creator":"Murat KOKLU",
+    "sizeMB":0.4,
+    "downloadCount":26805,
+    "usabilityRating":0.9375,
+    "tags":[
+      "earth and nature",
+      "agriculture",
+      "computer vision",
+      "classification",
+      "deep learning",
+      "image"
+    ],
+    "lastUpdated":1648977939547
+  },
+  {
+    "title":"Sentiment140 dataset with 1.6 million tweets",
+    "ref":"kazanova\/sentiment140",
+    "description":"Sentiment analysis with tweets",
+    "creator":"Μαριος Μιχαηλιδης KazAnova",
+    "sizeMB":80.92,
+    "downloadCount":206349,
+    "usabilityRating":0.88235295,
+    "tags":[
+      "languages",
+      "linguistics",
+      "internet",
+      "online communities",
+      "social networks"
+    ],
+    "lastUpdated":1505342599117
+  },
+  {
+    "title":"COVID-19 in India",
+    "ref":"sudalairajkumar\/covid19-in-india",
+    "description":"Dataset on Novel Corona Virus Disease 2019 in India",
+    "creator":"SRK",
+    "sizeMB":0.74,
+    "downloadCount":280637,
+    "usabilityRating":0.9117647,
+    "tags":[
+      "public health",
+      "health"
+    ],
+    "lastUpdated":1628655250130
+  },
+  {
+    "title":"Student Alcohol Consumption",
+    "ref":"uciml\/student-alcohol-consumption",
+    "description":"Social, gender and study data from secondary school students",
+    "creator":"Dmitrii Batogov",
+    "sizeMB":0.02,
+    "downloadCount":157277,
+    "usabilityRating":0.85294116,
+    "tags":[
+      "universities and colleges",
+      "public health",
+      "primary and secondary schools"
+    ],
+    "lastUpdated":1476892359903
+  },
+  {
+    "title":"Skin Cancer MNIST: HAM10000",
+    "ref":"kmader\/skin-cancer-mnist-ham10000",
+    "description":"a large collection of multi-source dermatoscopic images of pigmented lesions",
+    "creator":"K Scott Mader",
+    "sizeMB":5324.28,
+    "downloadCount":166071,
+    "usabilityRating":0.7058824,
+    "tags":[
+      "health",
+      "image",
+      "multiclass classification"
+    ],
+    "lastUpdated":1537475773037
+  },
+  {
+    "title":"Flowers Recognition",
+    "ref":"alxmamaev\/flowers-recognition",
+    "description":"This dataset contains labeled 4242 images of flowers. ",
+    "creator":"Alexander Mamaev",
+    "sizeMB":224.75,
+    "downloadCount":125849,
+    "usabilityRating":0.625,
+    "tags":[
+      "plants",
+      "image",
+      "multiclass classification"
+    ],
+    "lastUpdated":1626451232503
+  },
+  {
+    "title":"Goodreads-books",
+    "ref":"jealousleopard\/goodreadsbooks",
+    "description":"comprehensive list of books listed in goodreads",
+    "creator":"Soumik ",
+    "sizeMB":0.61,
+    "downloadCount":76609,
+    "usabilityRating":1.0,
+    "tags":[
+      "literature",
+      "business",
+      "demographics",
+      "linguistics",
+      "internet"
+    ],
+    "lastUpdated":1583745511583
+  },
+  {
+    "title":"Rice Image Dataset",
+    "ref":"muratkokludataset\/rice-image-dataset",
+    "description":"Five different Rice Image Dataset. Arborio, Basmati, Ipsala, Jasmine, Karacadag",
+    "creator":"Murat KOKLU",
+    "sizeMB":219.4,
+    "downloadCount":29786,
+    "usabilityRating":0.875,
+    "tags":[
+      "agriculture",
+      "computer science",
+      "computer vision",
+      "cnn",
+      "image"
+    ],
+    "lastUpdated":1648951920213
+  },
+  {
+    "title":"Graduate Admission 2 ",
+    "ref":"mohansacharya\/graduate-admissions",
+    "description":"Predicting admission from important parameters",
+    "creator":"Mohan S Acharya",
+    "sizeMB":0.01,
+    "downloadCount":115142,
+    "usabilityRating":0.7058824,
+    "tags":[
+      "universities and colleges",
+      "linear regression",
+      "tabular",
+      "regression",
+      "standardized testing"
+    ],
+    "lastUpdated":1545991634910
+  },
+  {
+    "title":"Formula 1 World Championship (1950 - 2024)",
+    "ref":"rohanrao\/formula-1-world-championship-1950-2020",
+    "description":"F1 race data from 1950 to 2024",
+    "creator":"Vopani",
+    "sizeMB":6.28,
+    "downloadCount":112687,
+    "usabilityRating":1.0,
+    "tags":[
+      "auto racing",
+      "sports",
+      "tabular"
+    ],
+    "lastUpdated":1738125787267
+  },
+  {
+    "title":"Most Streamed Spotify Songs 2023 ",
+    "ref":"nelgiriyewithana\/top-spotify-songs-2023",
+    "description":"Hottest Spotify Hits 🎵",
+    "creator":"Nidula Elgiriyewithana ⚡",
+    "sizeMB":0.05,
+    "downloadCount":110805,
+    "usabilityRating":1.0,
+    "tags":[
+      "music",
+      "education",
+      "computer science",
+      "exploratory data analysis",
+      "data visualization",
+      "classification"
+    ],
+    "lastUpdated":1693047897730
+  },
+  {
+    "title":"Face Mask Detection",
+    "ref":"andrewmvd\/face-mask-detection",
+    "description":"853 images belonging to 3 classes.",
+    "creator":"Larxel",
+    "sizeMB":397.65,
+    "downloadCount":91226,
+    "usabilityRating":0.875,
+    "tags":[
+      "arts and entertainment",
+      "art",
+      "education",
+      "computer vision",
+      "image",
+      "covid19"
+    ],
+    "lastUpdated":1590131922220
+  },
+  {
+    "title":"E-Commerce Data",
+    "ref":"carrie1\/ecommerce-data",
+    "description":"Actual transactions from UK retailer",
+    "creator":"Carrie",
+    "sizeMB":7.2,
+    "downloadCount":201804,
+    "usabilityRating":0.7058824,
+    "tags":[
+      "earth and nature",
+      "business",
+      "finance",
+      "e-commerce services"
+    ],
+    "lastUpdated":1502937870943
+  },
+  {
+    "title":"Rain in Australia",
+    "ref":"jsphyg\/weather-dataset-rattle-package",
+    "description":"Predict next-day rain in Australia",
+    "creator":"Joe Young",
+    "sizeMB":3.83,
+    "downloadCount":149098,
+    "usabilityRating":1.0,
+    "tags":[
+      "weather and climate",
+      "classification",
+      "binary classification"
+    ],
+    "lastUpdated":1607682372167
+  },
+  {
+    "title":"Mall Customer Segmentation Data",
+    "ref":"vjchoudhary7\/customer-segmentation-tutorial-in-python",
+    "description":"Market Basket Analysis",
+    "creator":"Vijay Choudhary",
+    "sizeMB":0.0,
+    "downloadCount":215403,
+    "usabilityRating":0.88235295,
+    "tags":[
+      "business",
+      "clustering",
+      "investing"
+    ],
+    "lastUpdated":1533972182830
+  },
+  {
+    "title":"mlcourse.ai",
+    "ref":"kashnitsky\/mlcourse",
+    "description":"Datasets and notebooks of the open Machine Learning course mlcourse.ai",
+    "creator":"Yury Kashnitsky",
+    "sizeMB":51.12,
+    "downloadCount":52505,
+    "usabilityRating":0.88235295,
+    "tags":[
+      "earth and nature",
+      "computer science",
+      "data visualization",
+      "classification",
+      "clustering",
+      "regression"
+    ],
+    "lastUpdated":1544373909507
+  },
+  {
+    "title":"CelebFaces Attributes (CelebA) Dataset",
+    "ref":"jessicali9530\/celeba-dataset",
+    "description":"Over 200k images of celebrities with 40 binary attribute annotations",
+    "creator":"Jessica Li",
+    "sizeMB":1361.61,
+    "downloadCount":172551,
+    "usabilityRating":0.7647059,
+    "tags":[
+      "arts and entertainment",
+      "business",
+      "computer vision",
+      "classification",
+      "image",
+      "online communities"
+    ],
+    "lastUpdated":1527883728043
+  },
+  {
+    "title":"Yelp Dataset",
+    "ref":"yelp-dataset\/yelp-dataset",
+    "description":"A trove of reviews, businesses, users, tips, and check-in data!",
+    "creator":"sebastien",
+    "sizeMB":4172.31,
+    "downloadCount":141105,
+    "usabilityRating":0.75,
+    "tags":[
+      "earth and nature"
+    ],
+    "lastUpdated":1647557941257
+  },
+  {
+    "title":"Acoustic Extinguisher Fire Dataset",
+    "ref":"muratkokludataset\/acoustic-extinguisher-fire-dataset",
+    "description":"Acoustic Extinguisher Fire Dataset",
+    "creator":"Murat KOKLU",
+    "sizeMB":0.61,
+    "downloadCount":5991,
+    "usabilityRating":0.9375,
+    "tags":[
+      "categorical",
+      "artificial intelligence",
+      "computer science",
+      "classification",
+      "binary classification"
+    ],
+    "lastUpdated":1648940376883
+  },
+  {
+    "title":"World Development Indicators",
+    "ref":"kaggle\/world-development-indicators",
+    "description":"Explore country development indicators from around the world",
+    "creator":"Meg Risdal",
+    "sizeMB":369.12,
+    "downloadCount":69716,
+    "usabilityRating":0.7647059,
+    "tags":[
+      "business",
+      "economics",
+      "international relations"
+    ],
+    "lastUpdated":1493661044863
+  },
+  {
+    "title":"Pistachio Image Dataset",
+    "ref":"muratkokludataset\/pistachio-image-dataset",
+    "description":"The dataset includes a total of 2148 images, 1232 of Kirmizi and 916 of Siirt P.",
+    "creator":"Murat KOKLU",
+    "sizeMB":26.65,
+    "downloadCount":9802,
+    "usabilityRating":0.9375,
+    "tags":[
+      "agriculture",
+      "computer vision",
+      "classification",
+      "deep learning",
+      "image"
+    ],
+    "lastUpdated":1648490487993
+  },
+  {
+    "title":"Daily News for Stock Market Prediction",
+    "ref":"aaron7sun\/stocknews",
+    "description":"Using 8 years daily news headlines to predict stock market movement",
+    "creator":"Timo Bozsolik",
+    "sizeMB":5.82,
+    "downloadCount":57307,
+    "usabilityRating":0.7058824,
+    "tags":[
+      "business",
+      "education",
+      "finance",
+      "investing",
+      "news"
+    ],
+    "lastUpdated":1573669372067
+  },
+  {
+    "title":"[NeurIPS 2020] Data Science for COVID-19 (DS4C)",
+    "ref":"kimjihoo\/coronavirusdataset",
+    "description":"DS4C: Data Science for COVID-19 in South Korea",
+    "creator":"datartist",
+    "sizeMB":7.0,
+    "downloadCount":142166,
+    "usabilityRating":1.0,
+    "tags":[
+      "universities and colleges",
+      "biology",
+      "data visualization",
+      "tabular",
+      "covid19"
+    ],
+    "lastUpdated":1594649251580
+  },
+  {
+    "title":"SMS Spam Collection Dataset",
+    "ref":"uciml\/sms-spam-collection-dataset",
+    "description":"Collection of SMS messages tagged as spam or legitimate",
+    "creator":"Esther Kim",
+    "sizeMB":0.21,
+    "downloadCount":261185,
+    "usabilityRating":0.7352941,
+    "tags":[
+      "languages",
+      "linguistics",
+      "email and messaging"
+    ],
+    "lastUpdated":1480706957523
+  },
+  {
+    "title":"Kickstarter Projects",
+    "ref":"kemical\/kickstarter-projects",
+    "description":"More than 300,000 kickstarter projects",
+    "creator":"Mickaël Mouillé",
+    "sizeMB":36.78,
+    "downloadCount":85084,
+    "usabilityRating":0.7941176,
+    "tags":[
+      "business",
+      "finance",
+      "crowdfunding"
+    ],
+    "lastUpdated":1518080550193
+  },
+  {
+    "title":"Sign Language MNIST",
+    "ref":"datamunge\/sign-language-mnist",
+    "description":"Drop-In Replacement for MNIST for Hand Gesture Recognition Tasks",
+    "creator":"tecperson",
+    "sizeMB":62.59,
+    "downloadCount":124456,
+    "usabilityRating":0.7647059,
+    "tags":[
+      "languages",
+      "healthcare",
+      "linguistics",
+      "computer science"
+    ],
+    "lastUpdated":1508512158850
+  },
+  {
+    "title":"Melbourne Housing Snapshot",
+    "ref":"dansbecker\/melbourne-housing-snapshot",
+    "description":"Snapshot of Tony Pino's Melbourne Housing Dataset",
+    "creator":"DanB",
+    "sizeMB":0.44,
+    "downloadCount":175552,
+    "usabilityRating":0.7058824,
+    "tags":[
+      "australia",
+      "housing",
+      "real estate",
+      "social science",
+      "demographics"
+    ],
+    "lastUpdated":1528203144087
+  },
+  {
+    "title":"Data Science Job Salaries",
+    "ref":"ruchi798\/data-science-job-salaries",
+    "description":"Salaries of jobs in the Data Science domain",
+    "creator":"Ruchi Bhatia",
+    "sizeMB":0.01,
+    "downloadCount":86973,
+    "usabilityRating":1.0,
+    "tags":[
+      "business",
+      "computer science",
+      "programming"
+    ],
+    "lastUpdated":1655283552213
+  },
+  {
+    "title":"Water Quality",
+    "ref":"adityakadiwal\/water-potability",
+    "description":"Drinking water potability",
+    "creator":"Aditya Kadiwal",
+    "sizeMB":0.24,
+    "downloadCount":100596,
+    "usabilityRating":1.0,
+    "tags":[
+      "water bodies",
+      "public health",
+      "earth and nature",
+      "environment",
+      "energy",
+      "beginner",
+      "binary classification"
+    ],
+    "lastUpdated":1619346464613
+  },
+  {
+    "title":"Titanic",
+    "ref":"heptapod\/titanic",
+    "description":"Suited for binary logistic regression",
+    "creator":"Khashayar Baghizadeh",
+    "sizeMB":0.01,
+    "downloadCount":106591,
+    "usabilityRating":0.7058824,
+    "tags":[
+
+    ],
+    "lastUpdated":1494922462210
+  },
+  {
+    "title":"Intel Image Classification",
+    "ref":"puneet6060\/intel-image-classification",
+    "description":"Image Scene Classification of Multiclass",
+    "creator":"Puneet Bansal",
+    "sizeMB":346.33,
+    "downloadCount":129550,
+    "usabilityRating":0.75,
+    "tags":[
+      "arts and entertainment",
+      "biology",
+      "cnn",
+      "image",
+      "anime and manga",
+      "online communities"
+    ],
+    "lastUpdated":1548840178647
+  },
+  {
+    "title":"Grapevine Leaves Image Dataset",
+    "ref":"muratkokludataset\/grapevine-leaves-image-dataset",
+    "description":"Ak, Ala Idris, Büzgülü, Dimnit and Nazli Grapevine Leaves Image",
+    "creator":"Murat KOKLU",
+    "sizeMB":108.7,
+    "downloadCount":5803,
+    "usabilityRating":0.875,
+    "tags":[
+      "agriculture",
+      "computer science",
+      "computer vision",
+      "deep learning",
+      "transfer learning"
+    ],
+    "lastUpdated":1648976454283
+  },
+  {
+    "title":"Pumpkin Seeds Dataset",
+    "ref":"muratkokludataset\/pumpkin-seeds-dataset",
+    "description":"Pumpkin Seeds Dataset",
+    "creator":"Murat KOKLU",
+    "sizeMB":0.38,
+    "downloadCount":9999,
+    "usabilityRating":0.9375,
+    "tags":[
+      "categorical",
+      "agriculture",
+      "computer science",
+      "computer vision",
+      "classification"
+    ],
+    "lastUpdated":1648492096467
+  },
+  {
+    "title":"Reddit Vaccine Myths",
+    "ref":"gpreda\/reddit-vaccine-myths",
+    "description":"r\/VaccineMyths subreddit posts and comments",
+    "creator":"Gabriel Preda",
+    "sizeMB":0.23,
+    "downloadCount":21472,
+    "usabilityRating":1.0,
+    "tags":[
+      "education",
+      "data analytics",
+      "pandas"
+    ],
+    "lastUpdated":1644516960393
+  },
+  {
+    "title":"Data Science Salaries 2023 💸",
+    "ref":"arnabchaki\/data-science-salaries-2023",
+    "description":"Salaries of Different Data Science Fields in the Data Science Domain",
+    "creator":"randomarnab",
+    "sizeMB":0.02,
+    "downloadCount":74870,
+    "usabilityRating":1.0,
+    "tags":[
+      "business",
+      "computer science",
+      "data visualization",
+      "classification",
+      "jobs and career"
+    ],
+    "lastUpdated":1681379716493
+  },
+  {
+    "title":"Pistachio Dataset",
+    "ref":"muratkokludataset\/pistachio-dataset",
+    "description":"Pistachio Dataset; 2 Class - Kirmizi and Siirt Pistachio, 16 and 28 Features",
+    "creator":"Murat KOKLU",
+    "sizeMB":1.82,
+    "downloadCount":4092,
+    "usabilityRating":0.9375,
+    "tags":[
+      "agriculture",
+      "computer vision",
+      "classification",
+      "image",
+      "binary classification"
+    ],
+    "lastUpdated":1648975101007
+  },
+  {
+    "title":"Used Cars Dataset",
+    "ref":"austinreese\/craigslist-carstrucks-data",
+    "description":"Vehicles listings from Craigslist.org",
+    "creator":"Austin Reese",
+    "sizeMB":262.49,
+    "downloadCount":95468,
+    "usabilityRating":1.0,
+    "tags":[
+      "united states",
+      "economics",
+      "automobiles and vehicles"
+    ],
+    "lastUpdated":1620321248443
+  },
+  {
+    "title":"Raisin Dataset",
+    "ref":"muratkokludataset\/raisin-dataset",
+    "description":"Raisin Dataset; 2 Class: Kecimen and Besni Raisin ",
+    "creator":"Murat KOKLU",
+    "sizeMB":0.11,
+    "downloadCount":4953,
+    "usabilityRating":0.9375,
+    "tags":[
+      "earth and nature",
+      "agriculture",
+      "computer science",
+      "computer vision",
+      "classification"
+    ],
+    "lastUpdated":1648945396750
+  },
+  {
+    "title":"Dry Bean Dataset",
+    "ref":"muratkokludataset\/dry-bean-dataset",
+    "description":"7 - Class: Seker, Barbunya, Bombay, Cali, Dermosan, Horoz and Sira",
+    "creator":"Murat KOKLU",
+    "sizeMB":4.54,
+    "downloadCount":4864,
+    "usabilityRating":0.9375,
+    "tags":[
+      "agriculture",
+      "computer science",
+      "computer vision",
+      "classification",
+      "clustering"
+    ],
+    "lastUpdated":1648941570640
+  },
+  {
+    "title":"Durum Wheat Dataset",
+    "ref":"muratkokludataset\/durum-wheat-dataset",
+    "description":"Durum wheat dataset, morphological, colour, wavelet and gaborlet features",
+    "creator":"Murat KOKLU",
+    "sizeMB":983.11,
+    "downloadCount":1162,
+    "usabilityRating":0.9375,
+    "tags":[
+      "categorical",
+      "earth and nature",
+      "agriculture",
+      "computer science",
+      "computer vision",
+      "image"
+    ],
+    "lastUpdated":1648944149363
+  },
+  {
+    "title":"arXiv Dataset",
+    "ref":"Cornell-University\/arxiv",
+    "description":"arXiv dataset and metadata of 1.7M+ scholarly papers across STEM",
+    "creator":"Brian Maltzan",
+    "sizeMB":1455.27,
+    "downloadCount":60103,
+    "usabilityRating":0.875,
+    "tags":[
+      "earth and nature",
+      "education"
+    ],
+    "lastUpdated":1743897057693
+  },
+  {
+    "title":"Rice MSC Dataset",
+    "ref":"muratkokludataset\/rice-msc-dataset",
+    "description":"Five different Rice MSC Dataset. Arborio, Basmati, Ipsala, Jasmine, Karacadag",
+    "creator":"Murat KOKLU",
+    "sizeMB":101.8,
+    "downloadCount":2040,
+    "usabilityRating":0.9375,
+    "tags":[
+      "categorical",
+      "earth and nature",
+      "agriculture",
+      "computer science",
+      "computer vision",
+      "classification"
+    ],
+    "lastUpdated":1648949632350
+  },
+  {
+    "title":"Diabetes Dataset",
+    "ref":"akshaydattatraykhare\/diabetes-dataset",
+    "description":"Diabetes Patients Data",
+    "creator":"Akshay Dattatray Khare",
+    "sizeMB":0.01,
+    "downloadCount":133247,
+    "usabilityRating":1.0,
+    "tags":[
+      "india",
+      "data visualization",
+      "tabular",
+      "diabetes",
+      "pandas"
+    ],
+    "lastUpdated":1665046525697
+  },
+  {
+    "title":"Synthetic Financial Datasets For Fraud Detection",
+    "ref":"ealaxi\/paysim1",
+    "description":"Synthetic datasets generated by the PaySim mobile money simulator",
+    "creator":"Edgar Lopez-Rojas",
+    "sizeMB":177.75,
+    "downloadCount":108755,
+    "usabilityRating":0.88235295,
+    "tags":[
+      "crime",
+      "finance"
+    ],
+    "lastUpdated":1491208834403
+  },
+  {
+    "title":"Rice Dataset Commeo and Osmancik",
+    "ref":"muratkokludataset\/rice-dataset-commeo-and-osmancik",
+    "description":"Rice Dataset: 2 Class Commeo and Osmancik Rice",
+    "creator":"Murat KOKLU",
+    "sizeMB":0.51,
+    "downloadCount":2006,
+    "usabilityRating":0.9375,
+    "tags":[
+      "earth and nature"
+    ],
+    "lastUpdated":1648946403747
+  },
+  {
+    "title":"Brain MRI Images for Brain Tumor Detection",
+    "ref":"navoneel\/brain-mri-images-for-brain-tumor-detection",
+    "description":"",
+    "creator":"Navoneel Chakrabarty",
+    "sizeMB":15.1,
+    "downloadCount":124193,
+    "usabilityRating":0.5,
+    "tags":[
+      "biology",
+      "health",
+      "computer vision",
+      "classification",
+      "deep learning"
+    ],
+    "lastUpdated":1555254954730
+  },
+  {
+    "title":"Netflix Prize data",
+    "ref":"netflix-inc\/netflix-prize-data",
+    "description":"Dataset from Netflix's competition to improve their reccommendation algorithm",
+    "creator":"Timo Bozsolik",
+    "sizeMB":683.02,
+    "downloadCount":97536,
+    "usabilityRating":0.7647059,
+    "tags":[
+      "movies and tv shows",
+      "earth and nature",
+      "artificial intelligence",
+      "computer science"
+    ],
+    "lastUpdated":1573670377417
+  }
+]

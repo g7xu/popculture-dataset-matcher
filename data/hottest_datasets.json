@@ -1,0 +1,1622 @@
+[
+  {
+    "title":"Chocolate Sales Data 📊🍫",
+    "ref":"atharvasoundankar\/chocolate-sales",
+    "description":"A Comprehensive Dataset for Analyzing Chocolate Sales Trends",
+    "creator":"Atharva Soundankar",
+    "sizeMB":0.01,
+    "downloadCount":18137,
+    "usabilityRating":1.0,
+    "tags":[
+      "business",
+      "data visualization",
+      "data analytics",
+      "deep learning",
+      "retail and shopping"
+    ],
+    "lastUpdated":1742356300270
+  },
+  {
+    "title":"Student Depression Dataset",
+    "ref":"adilshamim8\/student-depression-dataset",
+    "description":"Analyzing Mental Health Trends and Predictors Among Students",
+    "creator":"Adil Shamim",
+    "sizeMB":0.45,
+    "downloadCount":9245,
+    "usabilityRating":1.0,
+    "tags":[
+      "universities and colleges",
+      "mental health",
+      "education"
+    ],
+    "lastUpdated":1741835550423
+  },
+  {
+    "title":"Finance & Economics Dataset (2000 - Present)",
+    "ref":"khushikyad001\/finance-and-economics-dataset-2000-present",
+    "description":"Comprehensive Financial and Economic Indicators Including Stock Market, GDP Grow",
+    "creator":"Khushi Yadav",
+    "sizeMB":0.19,
+    "downloadCount":1007,
+    "usabilityRating":1.0,
+    "tags":[
+      "business",
+      "economics"
+    ],
+    "lastUpdated":1743274293840
+  },
+  {
+    "title":"Global Internet Usage by Country (2000-2023)",
+    "ref":"meleknur\/global-internet-usage-by-country-2000-2023",
+    "description":"Percentage of Population Using the Internet from 2000 to 2023",
+    "creator":"Melek Nur",
+    "sizeMB":0.02,
+    "downloadCount":1626,
+    "usabilityRating":1.0,
+    "tags":[
+      "global",
+      "social science",
+      "internet",
+      "time series analysis",
+      "clustering",
+      "lstm"
+    ],
+    "lastUpdated":1742916840883
+  },
+  {
+    "title":"Users vs bots classification",
+    "ref":"juice0lover\/users-vs-bots-classification",
+    "description":"Vkontakte (vk.com) fake and real users classification dataset",
+    "creator":"Aleksei Zagorskii",
+    "sizeMB":0.11,
+    "downloadCount":645,
+    "usabilityRating":1.0,
+    "tags":[
+      "categorical",
+      "classification",
+      "gradient boosting",
+      "binary classification",
+      "social networks"
+    ],
+    "lastUpdated":1743341887167
+  },
+  {
+    "title":"Gold Insights Dataset (2020–2023)",
+    "ref":"veselagencheva\/gold-insights-dataset-20202023",
+    "description":"Exploring Gold Demand, Reserves, and Jewelry Trends Across Countries and Sectors",
+    "creator":"Vesela Gencheva",
+    "sizeMB":0.01,
+    "downloadCount":1375,
+    "usabilityRating":1.0,
+    "tags":[
+      "finance",
+      "economics",
+      "investing",
+      "r"
+    ],
+    "lastUpdated":1741507182690
+  },
+  {
+    "title":"Average Daily Screen Time for Children",
+    "ref":"ak0212\/average-daily-screen-time-for-children",
+    "description":"A dataset  children's daily screen time habits, categorized by age, ge",
+    "creator":"Akshay Kumar",
+    "sizeMB":0.0,
+    "downloadCount":2647,
+    "usabilityRating":1.0,
+    "tags":[
+      "healthcare",
+      "education",
+      "drugs and medications",
+      "eyes and vision"
+    ],
+    "lastUpdated":1742788371137
+  },
+  {
+    "title":"Historical Prices of Major Natural Resource",
+    "ref":"albertobircoci\/historical-prices-of-major-natural-resource",
+    "description":"Daily historical closing prices for essential commodities like oil, gold, silver",
+    "creator":"Albert5913",
+    "sizeMB":0.25,
+    "downloadCount":803,
+    "usabilityRating":1.0,
+    "tags":[
+      "finance",
+      "energy",
+      "data analytics",
+      "investing",
+      "oil and gas"
+    ],
+    "lastUpdated":1743569694640
+  },
+  {
+    "title":"Mobiles Dataset (2025)",
+    "ref":"abdulmalik1518\/mobiles-dataset-2025",
+    "description":"Mobile specs: Company, Model, RAM, Cameras, Battery, Prices (PK,IN, CN, US, UAE)",
+    "creator":"Abdul Malik",
+    "sizeMB":0.02,
+    "downloadCount":21610,
+    "usabilityRating":1.0,
+    "tags":[
+      "science and technology",
+      "computer science",
+      "mobile and wireless",
+      "exploratory data analysis",
+      "data visualization"
+    ],
+    "lastUpdated":1739861424370
+  },
+  {
+    "title":"🌐 Global Cybersecurity Threats (2015-2024)",
+    "ref":"atharvasoundankar\/global-cybersecurity-threats-2015-2024",
+    "description":"A comprehensive dataset tracking cybersecurity incidents, attack vectors, threat",
+    "creator":"Atharva Soundankar",
+    "sizeMB":0.05,
+    "downloadCount":3151,
+    "usabilityRating":1.0,
+    "tags":[
+      "computer science",
+      "programming",
+      "data visualization",
+      "data analytics",
+      "cyber security"
+    ],
+    "lastUpdated":1742098993343
+  },
+  {
+    "title":"Extensive Used Car Price for Predictive Modeling",
+    "ref":"brsahan\/extensive-used-car-price-for-predictive-modeling",
+    "description":"A curated dataset of used cars with various attributes like price, mileage, fuel",
+    "creator":"Batuhan Şahan",
+    "sizeMB":0.0,
+    "downloadCount":310,
+    "usabilityRating":1.0,
+    "tags":[
+      "science and technology",
+      "automobiles and vehicles",
+      "regression",
+      "automl"
+    ],
+    "lastUpdated":1743683958130
+  },
+  {
+    "title":"Fake News Detection",
+    "ref":"khushikyad001\/fake-news-detection",
+    "description":"A comprehensive dataset for detecting fake news using real-world metadata",
+    "creator":"Khushi Yadav",
+    "sizeMB":0.17,
+    "downloadCount":1086,
+    "usabilityRating":1.0,
+    "tags":[
+      "earth and nature"
+    ],
+    "lastUpdated":1742700568860
+  },
+  {
+    "title":"Games and Students",
+    "ref":"willianoliveiragibin\/games-and-students",
+    "description":"The code representing the student's school, identifier for each school.",
+    "creator":"willian  oliveira",
+    "sizeMB":0.0,
+    "downloadCount":1573,
+    "usabilityRating":1.0,
+    "tags":[
+      "games",
+      "education"
+    ],
+    "lastUpdated":1742422800723
+  },
+  {
+    "title":"Tesla Stock Price Data (2000-2025)",
+    "ref":"taimoor888\/tesla-stock-price-data-2000-2025",
+    "description":"Historical daily stock prices of Tesla from 2000 to 2025",
+    "creator":"Taimoor Khurshid Chughtai",
+    "sizeMB":0.09,
+    "downloadCount":1250,
+    "usabilityRating":1.0,
+    "tags":[
+      "business",
+      "artificial intelligence",
+      "automobiles and vehicles",
+      "investing",
+      "currencies and foreign exchange"
+    ],
+    "lastUpdated":1741021503893
+  },
+  {
+    "title":"UAE Used Cars Analysis - Full Project v1.0",
+    "ref":"mohamedsaad254\/uae-used-cars-analysis-full-project-v1-0",
+    "description":"A Dash Web App and XGBoost Model for UAE Used Car Market Insights with Location ",
+    "creator":"mohamed saad 254",
+    "sizeMB":16.55,
+    "downloadCount":1369,
+    "usabilityRating":1.0,
+    "tags":[
+      "computer science",
+      "software",
+      "automobiles and vehicles",
+      "geospatial analysis",
+      "data analytics",
+      "xgboost"
+    ],
+    "lastUpdated":1741567125553
+  },
+  {
+    "title":"🏡 Global Housing Market Analysis (2015-2024)",
+    "ref":"atharvasoundankar\/global-housing-market-analysis-2015-2024",
+    "description":"Understanding Housing Market Trends Across Countries",
+    "creator":"Atharva Soundankar",
+    "sizeMB":0.02,
+    "downloadCount":1734,
+    "usabilityRating":1.0,
+    "tags":[
+      "business",
+      "real estate",
+      "exploratory data analysis",
+      "data visualization",
+      "social issues and advocacy"
+    ],
+    "lastUpdated":1742275282723
+  },
+  {
+    "title":"Employee Data",
+    "ref":"zahidmughal2343\/employee-data",
+    "description":"Employee Dataset in Various Fields",
+    "creator":"Zahid Feroze",
+    "sizeMB":0.36,
+    "downloadCount":3073,
+    "usabilityRating":1.0,
+    "tags":[
+      "classification",
+      "clustering",
+      "linear regression",
+      "tabular",
+      "binary classification"
+    ],
+    "lastUpdated":1741462602953
+  },
+  {
+    "title":"steps_tracker_dataset",
+    "ref":"monicahjones\/steps-tracker-dataset",
+    "description":"Daily activity data organized for beginners.",
+    "creator":"MonicahJones",
+    "sizeMB":0.01,
+    "downloadCount":1719,
+    "usabilityRating":1.0,
+    "tags":[
+      "health and fitness",
+      "exercise",
+      "running",
+      "beginner",
+      "data cleaning",
+      "data visualization"
+    ],
+    "lastUpdated":1741336563750
+  },
+  {
+    "title":"Stock Market Simulation Dataset",
+    "ref":"samayashar\/stock-market-simulation-dataset",
+    "description":"📈 A Realistic Synthetic Dataset for Time-Series Forecasting & Stock Analysis",
+    "creator":"Samay Ashar",
+    "sizeMB":0.09,
+    "downloadCount":1221,
+    "usabilityRating":1.0,
+    "tags":[
+      "business",
+      "investing"
+    ],
+    "lastUpdated":1741804099593
+  },
+  {
+    "title":"Student Performance & Behavior Dataset",
+    "ref":"mahmoudelhemaly\/students-grading-dataset",
+    "description":"Students Grading Analysis",
+    "creator":"Mahmoud Elhemaly",
+    "sizeMB":0.5,
+    "downloadCount":14357,
+    "usabilityRating":1.0,
+    "tags":[
+      "earth and nature",
+      "education",
+      "tabular"
+    ],
+    "lastUpdated":1739813926653
+  },
+  {
+    "title":"Indian Traffic Violation",
+    "ref":"khushikyad001\/indian-traffic-violation",
+    "description":"Indian Traffic Violation Dataset (2023-2024) 🚦📊",
+    "creator":"Khushi Yadav",
+    "sizeMB":0.16,
+    "downloadCount":1558,
+    "usabilityRating":1.0,
+    "tags":[
+      "law"
+    ],
+    "lastUpdated":1743049101817
+  },
+  {
+    "title":"Global Condom Sales and Awareness (2015-2025)🚀",
+    "ref":"atharvasoundankar\/global-condom-sales-and-awareness-2015-2025",
+    "description":"A comprehensive dataset on global condom sales, public awareness, and contracept",
+    "creator":"Atharva Soundankar",
+    "sizeMB":0.02,
+    "downloadCount":982,
+    "usabilityRating":1.0,
+    "tags":[
+      "public health",
+      "people and society",
+      "business",
+      "health",
+      "data analytics"
+    ],
+    "lastUpdated":1741414048063
+  },
+  {
+    "title":"Anxiety and Depression Mental Health Factors",
+    "ref":"ak0212\/anxiety-and-depression-mental-health-factors",
+    "description":"A Comprehensive Dataset on Anxiety, Depression, and Related Lifestyle ",
+    "creator":"Akshay Kumar",
+    "sizeMB":0.02,
+    "downloadCount":2340,
+    "usabilityRating":1.0,
+    "tags":[
+      "mental health",
+      "health",
+      "beginner",
+      "data cleaning",
+      "translation"
+    ],
+    "lastUpdated":1741957403933
+  },
+  {
+    "title":"Netflix Movies and TV Shows Dataset",
+    "ref":"muhammadtahir194\/netflix-movies-and-tv-shows-dataset",
+    "description":"Netflix Dataset: Titles, Directors, Cast, Country, Ratings & Release Info",
+    "creator":"MuhammadTahir194",
+    "sizeMB":1.34,
+    "downloadCount":1160,
+    "usabilityRating":0.7058824,
+    "tags":[
+      "arts and entertainment",
+      "movies and tv shows",
+      "exploratory data analysis",
+      "data visualization",
+      "data analytics"
+    ],
+    "lastUpdated":1742024154273
+  },
+  {
+    "title":"Melbourne Housing Snapshot",
+    "ref":"dansbecker\/melbourne-housing-snapshot",
+    "description":"Snapshot of Tony Pino's Melbourne Housing Dataset",
+    "creator":"DanB",
+    "sizeMB":0.44,
+    "downloadCount":175552,
+    "usabilityRating":0.7058824,
+    "tags":[
+      "australia",
+      "housing",
+      "real estate",
+      "social science",
+      "demographics"
+    ],
+    "lastUpdated":1528203144087
+  },
+  {
+    "title":"IPL 2025 - Player Lifetime Statistics",
+    "ref":"baddu01\/ipl-2025-player-lifetime-statistics",
+    "description":"Data of all players participating in the Indian Premier League (IPL 2025)",
+    "creator":"baddu01",
+    "sizeMB":0.03,
+    "downloadCount":1896,
+    "usabilityRating":1.0,
+    "tags":[
+      "cricket",
+      "data cleaning",
+      "data visualization",
+      "data analytics",
+      "tabular"
+    ],
+    "lastUpdated":1742058226937
+  },
+  {
+    "title":"Korean Dramas Dataset ",
+    "ref":"saikalbatyrbekova\/korean-dramas-dataset-eda",
+    "description":"This CSV file contains data of 350 Korean Dramas from year 2003 to 2025",
+    "creator":"Saikal Batyrbekova",
+    "sizeMB":0.11,
+    "downloadCount":1009,
+    "usabilityRating":1.0,
+    "tags":[
+      "movies and tv shows",
+      "tabular",
+      "text",
+      "korea",
+      "english"
+    ],
+    "lastUpdated":1742122334780
+  },
+  {
+    "title":"Billboard Top Songs 🎶",
+    "ref":"samayashar\/billboard-top-songs",
+    "description":"Hit Predictor 5000: Unlocking the Science Behind Chart-Topping Songs!",
+    "creator":"Samay Ashar",
+    "sizeMB":0.14,
+    "downloadCount":1615,
+    "usabilityRating":1.0,
+    "tags":[
+      "music"
+    ],
+    "lastUpdated":1742385949107
+  },
+  {
+    "title":"IPL DATASET 2008-2022",
+    "ref":"amansingh0000000\/ipl-dataset-2008-2022",
+    "description":"IPL Ball-by-Ball Dataset (2008-2022): A Comprehensive Breakdown of Every Deliver",
+    "creator":"Aman_singh0000000",
+    "sizeMB":1.52,
+    "downloadCount":621,
+    "usabilityRating":0.9411765,
+    "tags":[
+      "cricket"
+    ],
+    "lastUpdated":1743689486407
+  },
+  {
+    "title":"Trending YouTube Video Statistics",
+    "ref":"datasnaek\/youtube-new",
+    "description":"Daily statistics for trending YouTube videos",
+    "creator":"Timo Bozsolik",
+    "sizeMB":200.82,
+    "downloadCount":266189,
+    "usabilityRating":0.7941176,
+    "tags":[
+      "languages",
+      "popular culture",
+      "arts and entertainment",
+      "linguistics",
+      "internet"
+    ],
+    "lastUpdated":1559523407177
+  },
+  {
+    "title":"🚀 Viral Social Media Trends & Engagement Analysis",
+    "ref":"atharvasoundankar\/viral-social-media-trends-and-engagement-analysis",
+    "description":"Analyzing trending hashtags, engagement, and platform-specific content performan",
+    "creator":"Atharva Soundankar",
+    "sizeMB":0.1,
+    "downloadCount":3486,
+    "usabilityRating":1.0,
+    "tags":[
+      "marketing",
+      "artificial intelligence",
+      "data visualization",
+      "data analytics",
+      "online communities",
+      "social networks"
+    ],
+    "lastUpdated":1741582308123
+  },
+  {
+    "title":"Wine Reviews",
+    "ref":"zynicide\/wine-reviews",
+    "description":"130k wine reviews with variety, location, winery, price, and description",
+    "creator":"zackthoutt",
+    "sizeMB":50.87,
+    "downloadCount":320764,
+    "usabilityRating":0.7941176,
+    "tags":[
+      "alcohol"
+    ],
+    "lastUpdated":1511802484700
+  },
+  {
+    "title":"Chess Game Dataset (Lichess)",
+    "ref":"datasnaek\/chess",
+    "description":"20,000+ Lichess Games, including moves, victor, rating, opening details and more",
+    "creator":"Mitchell J",
+    "sizeMB":2.77,
+    "downloadCount":52688,
+    "usabilityRating":0.8235294,
+    "tags":[
+      "games",
+      "board games",
+      "video games",
+      "internet"
+    ],
+    "lastUpdated":1504494549453
+  },
+  {
+    "title":"World Happiness Report",
+    "ref":"khushikyad001\/world-happiness-report",
+    "description":"Exploring Socio-Economic Factors Influencing Happiness Across Countries ",
+    "creator":"Khushi Yadav",
+    "sizeMB":0.21,
+    "downloadCount":1671,
+    "usabilityRating":1.0,
+    "tags":[
+      "religion and belief systems"
+    ],
+    "lastUpdated":1742792257083
+  },
+  {
+    "title":"1.88 Million US Wildfires",
+    "ref":"rtatman\/188-million-us-wildfires",
+    "description":"24 years of geo-referenced wildfire records",
+    "creator":"Timo Bozsolik",
+    "sizeMB":168.1,
+    "downloadCount":35911,
+    "usabilityRating":0.8235294,
+    "tags":[
+      "business"
+    ],
+    "lastUpdated":1589317429213
+  },
+  {
+    "title":"powerlifting-database",
+    "ref":"dansbecker\/powerlifting-database",
+    "description":"An unchanging copy of the Powerlifting Database",
+    "creator":"DanB",
+    "sizeMB":8.85,
+    "downloadCount":19095,
+    "usabilityRating":0.5882353,
+    "tags":[
+      "exercise",
+      "computer science"
+    ],
+    "lastUpdated":1556658461560
+  },
+  {
+    "title":"Ramen Ratings",
+    "ref":"residentmario\/ramen-ratings",
+    "description":"Over 2500 ramen ratings",
+    "creator":"Aleksey Bilogur",
+    "sizeMB":0.04,
+    "downloadCount":49260,
+    "usabilityRating":0.7058824,
+    "tags":[
+      "asia",
+      "cooking and recipes",
+      "restaurants"
+    ],
+    "lastUpdated":1515686679893
+  },
+  {
+    "title":"Kepler Exoplanet Search Results",
+    "ref":"nasa\/kepler-exoplanet-search-results",
+    "description":"10000 exoplanet candidates examined by the Kepler Space Observatory",
+    "creator":"Aleksey Bilogur",
+    "sizeMB":1.16,
+    "downloadCount":17308,
+    "usabilityRating":0.8235294,
+    "tags":[
+      "earth and nature",
+      "astronomy",
+      "business",
+      "science and technology"
+    ],
+    "lastUpdated":1507660019497
+  },
+  {
+    "title":"US Public Food Assistance 1 - WIC",
+    "ref":"jpmiller\/publicassistance",
+    "description":"Where does it come from, who spends it, who gets it.",
+    "creator":"JohnM",
+    "sizeMB":0.29,
+    "downloadCount":22620,
+    "usabilityRating":0.9411765,
+    "tags":[
+      "tabular",
+      "social issues and advocacy"
+    ],
+    "lastUpdated":1681761665960
+  },
+  {
+    "title":"18,393 Pitchfork Reviews",
+    "ref":"nolanbconaway\/pitchfork-data",
+    "description":"Pitchfork reviews from Jan 5, 1999 to Jan 8, 2017",
+    "creator":"Nolan Conaway",
+    "sizeMB":33.28,
+    "downloadCount":14973,
+    "usabilityRating":0.7058824,
+    "tags":[
+      "music",
+      "ratings and reviews"
+    ],
+    "lastUpdated":1484281090113
+  },
+  {
+    "title":"Things on Reddit",
+    "ref":"residentmario\/things-on-reddit",
+    "description":"The top 100 products in each subreddit from 2015 to 2017",
+    "creator":"Aleksey Bilogur",
+    "sizeMB":16.0,
+    "downloadCount":13059,
+    "usabilityRating":0.5882353,
+    "tags":[
+      "business",
+      "internet",
+      "retail and shopping",
+      "online communities"
+    ],
+    "lastUpdated":1509027015157
+  },
+  {
+    "title":"Mobile Price Classification",
+    "ref":"iabhishekofficial\/mobile-price-classification",
+    "description":"Classify Mobile Price Range",
+    "creator":"Abhishek Sharma",
+    "sizeMB":0.07,
+    "downloadCount":216106,
+    "usabilityRating":0.7058824,
+    "tags":[
+      "business",
+      "classification"
+    ],
+    "lastUpdated":1517129064237
+  },
+  {
+    "title":"Fecom Inc. (e-Com Marketplace Orders Data)",
+    "ref":"cemeraan\/fecom-inc-e-com-marketplace-orders-data-crm",
+    "description":"A suitable data for CRM  & Sales Opportunities & Marketing analytics practice.",
+    "creator":"Cem Eragan",
+    "sizeMB":27.15,
+    "downloadCount":912,
+    "usabilityRating":0.9411765,
+    "tags":[
+      "business",
+      "marketing",
+      "data visualization",
+      "e-commerce services",
+      "segmentation"
+    ],
+    "lastUpdated":1741355947223
+  },
+  {
+    "title":"🏏IPL 2025 Records",
+    "ref":"krishd123\/ipl-2025-records",
+    "description":"Crisp dataset of Indian Premier League's season 18",
+    "creator":"Cosmic Black",
+    "sizeMB":0.03,
+    "downloadCount":705,
+    "usabilityRating":1.0,
+    "tags":[
+      "football",
+      "cricket",
+      "sports",
+      "exploratory data analysis",
+      "data visualization",
+      "data analytics"
+    ],
+    "lastUpdated":1743841200003
+  },
+  {
+    "title":"Amazon best seller softwares",
+    "ref":"kaverappa\/amazon-best-seller-softwares",
+    "description":"\"Analyzing Amazon's Best Sellers – Country-wise E-commerce Data\" REAL-DATA",
+    "creator":"kaverappa c k",
+    "sizeMB":0.08,
+    "downloadCount":1056,
+    "usabilityRating":0.9411765,
+    "tags":[
+      "research",
+      "business",
+      "computer science",
+      "retail and shopping",
+      "e-commerce services"
+    ],
+    "lastUpdated":1741970083980
+  },
+  {
+    "title":"Ecommerce Consumer Behavior Analysis Data",
+    "ref":"salahuddinahmedshuvo\/ecommerce-consumer-behavior-analysis-data",
+    "description":"Comprehensive Dataset for Analyzing Shopping Trends and Preferences",
+    "creator":"Salahuddin Ahmed",
+    "sizeMB":0.04,
+    "downloadCount":5022,
+    "usabilityRating":0.9411765,
+    "tags":[
+      "business",
+      "marketing",
+      "data analytics",
+      "e-commerce services",
+      "python"
+    ],
+    "lastUpdated":1741007349223
+  },
+  {
+    "title":"Person-Collecting-Waste COCO Dataset",
+    "ref":"ashu009\/person-collecting-waste-coco-dataset",
+    "description":"COCO dataset of Person Collecting Garbage",
+    "creator":"Ashutosh Sharma",
+    "sizeMB":18.93,
+    "downloadCount":209,
+    "usabilityRating":1.0,
+    "tags":[
+      "environment",
+      "computer science",
+      "computer vision",
+      "image",
+      "object detection"
+    ],
+    "lastUpdated":1743414644723
+  },
+  {
+    "title":"Video Game Sales",
+    "ref":"anandshaw2001\/video-game-sales",
+    "description":"Analyze sales data from more than 16,500 games.",
+    "creator":"Anand Shaw",
+    "sizeMB":0.37,
+    "downloadCount":3536,
+    "usabilityRating":1.0,
+    "tags":[
+      "games",
+      "video games",
+      "business",
+      "exploratory data analysis",
+      "data visualization"
+    ],
+    "lastUpdated":1740287764587
+  },
+  {
+    "title":"Student Mental Stress and Coping Mechanisms",
+    "ref":"salahuddinahmedshuvo\/student-mental-stress-and-coping-mechanisms",
+    "description":"Analyzing student mental stress, factors influencing it, and coping mechanisms. ",
+    "creator":"Salahuddin Ahmed",
+    "sizeMB":0.02,
+    "downloadCount":2580,
+    "usabilityRating":0.9411765,
+    "tags":[
+      "mental health",
+      "education",
+      "data analytics",
+      "sql",
+      "ml ethics"
+    ],
+    "lastUpdated":1740689004777
+  },
+  {
+    "title":"CVE 2024 Database: Exploits, CVSS, OS",
+    "ref":"manavkhambhayata\/cve-2024-database-exploits-cvss-os",
+    "description":"Live-Extracted NVD Vulnerabilities with affected OS Info, CVSS, & Attack Vectors",
+    "creator":"ManavKhambhayata",
+    "sizeMB":0.11,
+    "downloadCount":228,
+    "usabilityRating":1.0,
+    "tags":[
+      "computer science",
+      "beginner",
+      "text mining",
+      "feature extraction",
+      "cyber security"
+    ],
+    "lastUpdated":1743309057663
+  },
+  {
+    "title":"home data for ml course",
+    "ref":"dansbecker\/home-data-for-ml-course",
+    "description":"Data for Learn ML Course. Same as the Housing Price Getting Started Competition",
+    "creator":"DanB",
+    "sizeMB":0.09,
+    "downloadCount":21693,
+    "usabilityRating":0.3529412,
+    "tags":[
+      "education"
+    ],
+    "lastUpdated":1548204318757
+  },
+  {
+    "title":"Heart Prediction Dataset (Quantum)",
+    "ref":"shantanugarg274\/heart-prediction-dataset-quantum",
+    "description":"A Hybrid Dataset for Comparing Classical and Quantum Machine Learning Models",
+    "creator":"Shantanu Garg",
+    "sizeMB":0.01,
+    "downloadCount":2164,
+    "usabilityRating":1.0,
+    "tags":[
+      "earth and nature",
+      "computer science",
+      "data analytics",
+      "classification",
+      "synthetic"
+    ],
+    "lastUpdated":1740751206887
+  },
+  {
+    "title":"🧠 Mental Health and Lifestyle Habits (2019-2024)",
+    "ref":"atharvasoundankar\/mental-health-and-lifestyle-habits-2019-2024",
+    "description":"Analyzing the impact of lifestyle choices on mental well-being from 2019 to 2024",
+    "creator":"Atharva Soundankar",
+    "sizeMB":0.04,
+    "downloadCount":1448,
+    "usabilityRating":1.0,
+    "tags":[
+      "mental health",
+      "public health",
+      "people and society",
+      "health",
+      "social issues and advocacy"
+    ],
+    "lastUpdated":1742187952133
+  },
+  {
+    "title":"Amazon Stock Data 2025",
+    "ref":"abdulmoiz12\/amazon-stock-data-2025",
+    "description":"Amazon stpck price data From 2000-2025",
+    "creator":"Abdul Moiz",
+    "sizeMB":0.15,
+    "downloadCount":2390,
+    "usabilityRating":1.0,
+    "tags":[
+      "business",
+      "artificial intelligence",
+      "software",
+      "investing"
+    ],
+    "lastUpdated":1740820087890
+  },
+  {
+    "title":"Online Retail & E-Commerce Dataset",
+    "ref":"ertugrulesol\/online-retail-data",
+    "description":"Simulate customer behavior, product performance, and sales trends.",
+    "creator":"Ertuğrul EŞOL",
+    "sizeMB":0.02,
+    "downloadCount":969,
+    "usabilityRating":1.0,
+    "tags":[
+      "statistical analysis",
+      "data analytics",
+      "retail and shopping",
+      "e-commerce services",
+      "synthetic"
+    ],
+    "lastUpdated":1742460893623
+  },
+  {
+    "title":"Mouse Viral Infection Study Dataset",
+    "ref":"brsahan\/mouse-viral-infection-study-dataset",
+    "description":"Gene expression and immune response data from viral infection study on lab mice.",
+    "creator":"Batuhan Şahan",
+    "sizeMB":0.01,
+    "downloadCount":179,
+    "usabilityRating":1.0,
+    "tags":[
+      "healthcare",
+      "genetics",
+      "biology",
+      "medicine",
+      "classification"
+    ],
+    "lastUpdated":1743115272887
+  },
+  {
+    "title":"The AI, ML, Data Science Salary (2020- 2025)",
+    "ref":"samithsachidanandan\/the-global-ai-ml-data-science-salary-for-2025",
+    "description":"Salary and Employment trends in AI, ML, Data Science",
+    "creator":"Samith Chimminiyan",
+    "sizeMB":0.57,
+    "downloadCount":1566,
+    "usabilityRating":1.0,
+    "tags":[
+      "employment",
+      "income",
+      "computer science",
+      "programming",
+      "jobs and career"
+    ],
+    "lastUpdated":1740455435410
+  },
+  {
+    "title":"CryoET Flagellar Motors Dataset",
+    "ref":"brendanartley\/cryoet-flagellar-motors-dataset",
+    "description":" Flagellar motor annotations in CryoET tomograms.",
+    "creator":"Bartley",
+    "sizeMB":35514.16,
+    "downloadCount":327,
+    "usabilityRating":1.0,
+    "tags":[
+      "biology",
+      "computer vision",
+      "image",
+      "object detection"
+    ],
+    "lastUpdated":1742855838320
+  },
+  {
+    "title":"Netflix Movies and TV shows till 2025",
+    "ref":"bhargavchirumamilla\/netflix-movies-and-tv-shows-till-2025",
+    "description":"A curated dataset of Netflix content sourced from TMDb, including titles, genres",
+    "creator":"Bhargav Chirumamilla",
+    "sizeMB":6.17,
+    "downloadCount":2896,
+    "usabilityRating":1.0,
+    "tags":[
+      "movies and tv shows",
+      "art",
+      "clustering",
+      "tabular",
+      "text"
+    ],
+    "lastUpdated":1741050372240
+  },
+  {
+    "title":"Inventory Optimization for Retail​​",
+    "ref":"suvroo\/inventory-optimization-for-retail",
+    "description":"AI-Powered Inventory Management for Efficient Retail Operations",
+    "creator":"Suvradeep",
+    "sizeMB":0.49,
+    "downloadCount":507,
+    "usabilityRating":0.8235294,
+    "tags":[
+      "business"
+    ],
+    "lastUpdated":1742884688080
+  },
+  {
+    "title":"🌍 Global Tech Gadget Consumption Data (2015-2025)",
+    "ref":"atharvasoundankar\/global-tech-gadget-consumption-data-2015-2025",
+    "description":"🔍 Exploring Consumer Trends in the Digital Age ",
+    "creator":"Atharva Soundankar",
+    "sizeMB":0.0,
+    "downloadCount":1090,
+    "usabilityRating":1.0,
+    "tags":[
+      "earth and nature",
+      "science and technology",
+      "marketing",
+      "data analytics",
+      "news"
+    ],
+    "lastUpdated":1742472902857
+  },
+  {
+    "title":"Grammy Winners and Nominees from 1965 to 2024",
+    "ref":"johnpendenque\/grammy-winners-and-nominees-from-1965-to-2024",
+    "description":"Grammy Winners and Nominees from 1965 to 2024",
+    "creator":"John Pendenque",
+    "sizeMB":0.65,
+    "downloadCount":1298,
+    "usabilityRating":1.0,
+    "tags":[
+      "arts and entertainment",
+      "music",
+      "united states",
+      "english"
+    ],
+    "lastUpdated":1741450821123
+  },
+  {
+    "title":"Social Anxiety Dataset",
+    "ref":"natezhang123\/social-anxiety-dataset",
+    "description":"social-anxiety, mental-health, psychology, lifestyle, machine-learning",
+    "creator":"Thiago Monteiro",
+    "sizeMB":0.39,
+    "downloadCount":1404,
+    "usabilityRating":0.8235294,
+    "tags":[
+      "mental health",
+      "deep learning",
+      "xgboost",
+      "linear regression",
+      "nltk",
+      "pandas"
+    ],
+    "lastUpdated":1742565936827
+  },
+  {
+    "title":"Student Performance Prediction",
+    "ref":"amrmaree\/student-performance-prediction",
+    "description":"📚 Predict Student Exam Scores Based on Study Habits & Attendance",
+    "creator":"Amr Maree",
+    "sizeMB":0.01,
+    "downloadCount":2875,
+    "usabilityRating":0.9411765,
+    "tags":[
+      "education",
+      "standardized testing"
+    ],
+    "lastUpdated":1741016770193
+  },
+  {
+    "title":"Freelancer Earnings & Job Trends",
+    "ref":"shohinurpervezshohan\/freelancer-earnings-and-job-trends",
+    "description":"The Freelancer’s Playbook: Earnings, Trends, and Performance Data!",
+    "creator":"Shohinur Pervez Shohan",
+    "sizeMB":0.05,
+    "downloadCount":2057,
+    "usabilityRating":0.9411765,
+    "tags":[
+      "business",
+      "finance",
+      "beginner",
+      "data visualization",
+      "data analytics"
+    ],
+    "lastUpdated":1741418506633
+  },
+  {
+    "title":"Grocery Inventory",
+    "ref":"willianoliveiragibin\/grocery-inventory",
+    "description":"Sales Dataset Inventory and Sales Data for Grocery Store Management.",
+    "creator":"willian  oliveira",
+    "sizeMB":0.05,
+    "downloadCount":1455,
+    "usabilityRating":1.0,
+    "tags":[
+      "business",
+      "data cleaning",
+      "data visualization",
+      "data analytics",
+      "deep learning",
+      "food"
+    ],
+    "lastUpdated":1742159035307
+  },
+  {
+    "title":"Global Music Streaming Trends & Listener Insights",
+    "ref":"atharvasoundankar\/global-music-streaming-trends-and-listener-insights",
+    "description":"Analyzing Music Streaming Trends, Listener Habits & Preferences 🎵",
+    "creator":"Atharva Soundankar",
+    "sizeMB":0.09,
+    "downloadCount":2467,
+    "usabilityRating":1.0,
+    "tags":[
+      "arts and entertainment",
+      "music",
+      "artificial intelligence",
+      "exploratory data analysis",
+      "data visualization"
+    ],
+    "lastUpdated":1741497120547
+  },
+  {
+    "title":"Heart Attack Cases After Covid Vaccine  in India",
+    "ref":"atharvasoundankar\/heart-attack-cases-after-covishield-in-india",
+    "description":"Analyzing the impact of Covid vaccination on heart attacks in India",
+    "creator":"Atharva Soundankar",
+    "sizeMB":0.01,
+    "downloadCount":225,
+    "usabilityRating":1.0,
+    "tags":[
+      "public health",
+      "medicine",
+      "drugs and medications",
+      "health conditions",
+      "heart conditions",
+      "covid19"
+    ],
+    "lastUpdated":1742902077510
+  },
+  {
+    "title":"Credit Card Fraud Detection",
+    "ref":"mlg-ulb\/creditcardfraud",
+    "description":"Anonymized credit card transactions labeled as fraudulent or genuine",
+    "creator":"Timo Bozsolik",
+    "sizeMB":65.95,
+    "downloadCount":850578,
+    "usabilityRating":0.85294116,
+    "tags":[
+      "crime",
+      "finance"
+    ],
+    "lastUpdated":1521767847913
+  },
+  {
+    "title":"WDI: Education, Health & Employment (2011-2021)",
+    "ref":"parsabahramsari\/wdi-education-health-and-employment-2011-2021",
+    "description":"\"Analyze and Compare Education, Employment, and Health Trends Across Developed N",
+    "creator":"Parsa Bahramsari",
+    "sizeMB":0.13,
+    "downloadCount":1594,
+    "usabilityRating":1.0,
+    "tags":[
+      "public health",
+      "employment",
+      "education",
+      "economics",
+      "software"
+    ],
+    "lastUpdated":1741336178617
+  },
+  {
+    "title":"Global Fashion Retail Sales",
+    "ref":"ricgomes\/global-fashion-retail-stores-dataset",
+    "description":"Sales simulation for 2 years of a multinational brand",
+    "creator":"Ric. G.",
+    "sizeMB":224.03,
+    "downloadCount":2831,
+    "usabilityRating":1.0,
+    "tags":[
+      "clothing and accessories",
+      "business",
+      "data analytics",
+      "retail and shopping",
+      "currencies and foreign exchange"
+    ],
+    "lastUpdated":1742409435857
+  },
+  {
+    "title":"Heart Attack Prediction in Indonesia",
+    "ref":"ankushpanday2\/heart-attack-prediction-in-indonesia",
+    "description":"A large-scale dataset (158,355 records, 28 variables)",
+    "creator":"Ankush Panday",
+    "sizeMB":5.15,
+    "downloadCount":1383,
+    "usabilityRating":1.0,
+    "tags":[
+      "health",
+      "heart conditions"
+    ],
+    "lastUpdated":1741706368123
+  },
+  {
+    "title":"Global Water Consumption Dataset (2000-2024) 🌍💧",
+    "ref":"atharvasoundankar\/global-water-consumption-dataset-2000-2024",
+    "description":"Understanding Water Usage, Scarcity, and Trends Across the",
+    "creator":"Atharva Soundankar",
+    "sizeMB":0.02,
+    "downloadCount":2615,
+    "usabilityRating":1.0,
+    "tags":[
+      "earth and nature",
+      "social science",
+      "energy",
+      "data analytics",
+      "social issues and advocacy"
+    ],
+    "lastUpdated":1742187038880
+  },
+  {
+    "title":"Netflix Users Database",
+    "ref":"smayanj\/netflix-users-database",
+    "description":"Synthetic Netflix user data with demographics, subscriptions, and watch history.",
+    "creator":"AJ",
+    "sizeMB":0.35,
+    "downloadCount":2698,
+    "usabilityRating":1.0,
+    "tags":[
+      "feature engineering"
+    ],
+    "lastUpdated":1741435689403
+  },
+  {
+    "title":"Country Population and Growth Rate Analysis",
+    "ref":"gauravkumar2525\/country-population-and-growth-rate-analysis",
+    "description":"Analyzing Global Population Growth Trends with Country-wise Yearly Data",
+    "creator":"Gaurav Kumar ",
+    "sizeMB":0.31,
+    "downloadCount":1635,
+    "usabilityRating":0.88235295,
+    "tags":[
+      "global",
+      "social science",
+      "intermediate",
+      "statistical analysis",
+      "feature extraction"
+    ],
+    "lastUpdated":1741272650223
+  },
+  {
+    "title":"sales dataset",
+    "ref":"vinothkannaece\/sales-dataset",
+    "description":"This dataset represents synthetic sales data generated for practice purposes.",
+    "creator":"VINOTH KANNA S",
+    "sizeMB":0.03,
+    "downloadCount":8075,
+    "usabilityRating":1.0,
+    "tags":[
+      "categorical",
+      "business",
+      "exploratory data analysis",
+      "data visualization",
+      "data analytics",
+      "random forest"
+    ],
+    "lastUpdated":1739855622943
+  },
+  {
+    "title":"IMDb Movie Genre Classification Dataset",
+    "ref":"adilshamim8\/nlp-task",
+    "description":"Unlocking the Power of NLP for Multi-Label Movie Genre Prediction",
+    "creator":"Adil Shamim",
+    "sizeMB":1.2,
+    "downloadCount":202,
+    "usabilityRating":1.0,
+    "tags":[
+      "arts and entertainment",
+      "movies and tv shows",
+      "nlp",
+      "ratings and reviews",
+      "bert"
+    ],
+    "lastUpdated":1742956985900
+  },
+  {
+    "title":"Expense pattern| Income vs Expense|family-age-area",
+    "ref":"aradhanahirapara\/expense-pattern-income-vs-expensefamilyagearea",
+    "description":"A merged dataset of household income and expenditure (2010–2021) across regions.",
+    "creator":"Aradhana Hirapara",
+    "sizeMB":0.19,
+    "downloadCount":177,
+    "usabilityRating":1.0,
+    "tags":[
+      "income",
+      "business",
+      "finance",
+      "data analytics",
+      "investing"
+    ],
+    "lastUpdated":1743190385550
+  },
+  {
+    "title":"Used Cars Market Analysis:Scraped Data from Cars24",
+    "ref":"amanrajput16\/used-car-price-data-from-cars24",
+    "description":"Comprehensive Dataset of PreOwned Cars with Pricing,Specs and Condition Insights",
+    "creator":"AmanRajput16",
+    "sizeMB":0.02,
+    "downloadCount":1613,
+    "usabilityRating":1.0,
+    "tags":[
+      "india",
+      "automobiles and vehicles",
+      "beginner",
+      "tabular"
+    ],
+    "lastUpdated":1741434003327
+  },
+  {
+    "title":"E-Commerce Transactions Dataset",
+    "ref":"smayanj\/e-commerce-transactions-dataset",
+    "description":"A synthetic dataset of 50K e-commerce transactions with user and purchase detail",
+    "creator":"AJ",
+    "sizeMB":0.73,
+    "downloadCount":1165,
+    "usabilityRating":1.0,
+    "tags":[
+      "categorical",
+      "e-commerce services"
+    ],
+    "lastUpdated":1741436445257
+  },
+  {
+    "title":"Palmer Archipelago (Antarctica) penguin data ",
+    "ref":"parulpandey\/palmer-archipelago-antarctica-penguin-data",
+    "description":"Drop in replacement for Iris Dataset",
+    "creator":"Parul Pandey",
+    "sizeMB":0.01,
+    "downloadCount":92240,
+    "usabilityRating":0.9705882,
+    "tags":[
+      "earth and nature",
+      "exploratory data analysis",
+      "data visualization",
+      "tidyverse"
+    ],
+    "lastUpdated":1591697694563
+  },
+  {
+    "title":"Brain Stroke CT Dataset",
+    "ref":"ozguraslank\/brain-stroke-ct-dataset",
+    "description":"CT Image Dataset for Brain Stroke Classification, Segmentation and Detection",
+    "creator":"Ozgur Aslan",
+    "sizeMB":1442.13,
+    "downloadCount":217,
+    "usabilityRating":1.0,
+    "tags":[
+      "health",
+      "binary classification",
+      "health conditions",
+      "image classification",
+      "image segmentation"
+    ],
+    "lastUpdated":1742857318100
+  },
+  {
+    "title":"Obesity Prediction Dataset",
+    "ref":"adeniranstephen\/obesity-prediction-dataset",
+    "description":"Analyze lifestyle habits and predict obesity levels with real and synthetic data",
+    "creator":"Stephen Adeniran",
+    "sizeMB":0.03,
+    "downloadCount":5168,
+    "usabilityRating":1.0,
+    "tags":[
+      "nutrition",
+      "public health",
+      "health",
+      "classification",
+      "regression"
+    ],
+    "lastUpdated":1739009554750
+  },
+  {
+    "title":"Fraud Detection Dataset",
+    "ref":"ranjitmandal\/fraud-detection-dataset-csv",
+    "description":"🔍 Online Payment Fraud Detection Dataset | Real-World Transactions 💳",
+    "creator":"RANJIT MANDAL",
+    "sizeMB":0.83,
+    "downloadCount":1922,
+    "usabilityRating":0.8235294,
+    "tags":[
+      "artificial intelligence",
+      "exploratory data analysis",
+      "data visualization",
+      "data analytics",
+      "feature engineering"
+    ],
+    "lastUpdated":1741508125277
+  },
+  {
+    "title":"Income Survey | Finance Analysis",
+    "ref":"aradhanahirapara\/income-survey-finance-analysis",
+    "description":"Analyzing Income, Employment, and Financial Well-being.",
+    "creator":"Aradhana Hirapara",
+    "sizeMB":1.74,
+    "downloadCount":1314,
+    "usabilityRating":0.9411765,
+    "tags":[
+      "income",
+      "business",
+      "finance",
+      "data analytics",
+      "clustering",
+      "jobs and career"
+    ],
+    "lastUpdated":1742500381633
+  },
+  {
+    "title":"Student Performance on an Entrance Examination",
+    "ref":"adilshamim8\/student-performance-on-an-entrance-examination",
+    "description":" Examining Demographic, Academic, and Socioeconomic Factors",
+    "creator":"Adil Shamim",
+    "sizeMB":0.0,
+    "downloadCount":2780,
+    "usabilityRating":1.0,
+    "tags":[
+      "universities and colleges",
+      "education",
+      "social science",
+      "exploratory data analysis",
+      "data visualization",
+      "standardized testing"
+    ],
+    "lastUpdated":1741046961697
+  },
+  {
+    "title":"Laptop reviews dataset(flipkart)",
+    "ref":"gitadityamaddali\/flipkart-laptop-reviews",
+    "description":"The dataset contains user reviews from Flipkart for different laptops.",
+    "creator":"sublimE009",
+    "sizeMB":0.98,
+    "downloadCount":940,
+    "usabilityRating":1.0,
+    "tags":[
+      "exploratory data analysis",
+      "nlp",
+      "data visualization",
+      "data analytics",
+      "ratings and reviews"
+    ],
+    "lastUpdated":1740390688000
+  },
+  {
+    "title":"Animal Kingdom (90): Masters of Survival",
+    "ref":"sanadalali\/animal-categories-90-masters-of-survival",
+    "description":"5400 images of 90 different animals categorized into 11 categories",
+    "creator":"sanad alali",
+    "sizeMB":656.17,
+    "downloadCount":243,
+    "usabilityRating":0.7647059,
+    "tags":[
+      "earth and nature",
+      "biology",
+      "animals",
+      "computer vision",
+      "classification",
+      "image"
+    ],
+    "lastUpdated":1742557907867
+  },
+  {
+    "title":"Air Pollution in China (2015-2025)",
+    "ref":"khushikyad001\/air-pollution-in-china-2015-2025",
+    "description":"Synthetic Air Pollution Data from Major Chinese Cities (2015-2025)",
+    "creator":"Khushi Yadav",
+    "sizeMB":0.43,
+    "downloadCount":421,
+    "usabilityRating":1.0,
+    "tags":[
+      "china ",
+      "earth and nature",
+      "synthetic"
+    ],
+    "lastUpdated":1743402095103
+  },
+  {
+    "title":"Global Energy Consumption (2000-2024) 🔥⚡",
+    "ref":"atharvasoundankar\/global-energy-consumption-2000-2024",
+    "description":"Tracking energy consumption trends across countries from 2000 to 2024.",
+    "creator":"Atharva Soundankar",
+    "sizeMB":0.25,
+    "downloadCount":1929,
+    "usabilityRating":1.0,
+    "tags":[
+      "earth and nature",
+      "housing",
+      "business",
+      "economics",
+      "energy",
+      "data analytics"
+    ],
+    "lastUpdated":1741928799413
+  },
+  {
+    "title":"🔢 960K Spotify Songs Lyrics Embeddings 🎹",
+    "ref":"bwandowando\/960k-spotify-songs-lyrics-embeddings",
+    "description":" BAAI\/bge-m3 embeddings of 960K Spotify songs",
+    "creator":"BwandoWando",
+    "sizeMB":128390.18,
+    "downloadCount":149,
+    "usabilityRating":0.9411765,
+    "tags":[
+      "research",
+      "music",
+      "internet",
+      "nlp",
+      "tabular",
+      "sentence similarity"
+    ],
+    "lastUpdated":1743645009537
+  },
+  {
+    "title":"Global spice consumption",
+    "ref":"harishthakur995\/global-spice-consumption",
+    "description":"Consumption of spices from 1993-2023 of different countries of the world",
+    "creator":"Gambler",
+    "sizeMB":0.49,
+    "downloadCount":247,
+    "usabilityRating":0.9411765,
+    "tags":[
+      "united states",
+      "time series analysis",
+      "food"
+    ],
+    "lastUpdated":1742825334880
+  },
+  {
+    "title":"Pima Indians Diabetes Database",
+    "ref":"uciml\/pima-indians-diabetes-database",
+    "description":"Predict the onset of diabetes based on diagnostic measures",
+    "creator":"Kaggle Team",
+    "sizeMB":0.01,
+    "downloadCount":617694,
+    "usabilityRating":0.88235295,
+    "tags":[
+      "india",
+      "healthcare",
+      "earth and nature",
+      "health",
+      "diabetes",
+      "benchmark dataset",
+      "benchmark"
+    ],
+    "lastUpdated":1475778716823
+  },
+  {
+    "title":"Global Product Inventory Dataset 2025",
+    "ref":"keyushnisar\/global-product-inventory-dataset-2025",
+    "description":"\"Detailed Catalog of Products with Stock, Pricing, and Specifications\"",
+    "creator":"Keyush nisar",
+    "sizeMB":0.36,
+    "downloadCount":1685,
+    "usabilityRating":1.0,
+    "tags":[
+      "business",
+      "transportation",
+      "data visualization",
+      "tabular"
+    ],
+    "lastUpdated":1740765512367
+  },
+  {
+    "title":"AI for Sustainable Agriculture​ Dataset",
+    "ref":"suvroo\/ai-for-sustainable-agriculture-dataset",
+    "description":"Optimizing Sustainable Farming with AI-Driven Insights",
+    "creator":"Suvradeep",
+    "sizeMB":1.38,
+    "downloadCount":504,
+    "usabilityRating":0.8235294,
+    "tags":[
+      "agriculture",
+      "artificial intelligence",
+      "data cleaning",
+      "data analytics",
+      "tabular"
+    ],
+    "lastUpdated":1742884783807
+  },
+  {
+    "title":"🌍 Global Food Wastage Dataset (2018-2024) 🍽️",
+    "ref":"atharvasoundankar\/global-food-wastage-dataset-2018-2024",
+    "description":"Tracking food waste trends, economic impact, and household waste distribution.",
+    "creator":"Atharva Soundankar",
+    "sizeMB":0.1,
+    "downloadCount":1788,
+    "usabilityRating":1.0,
+    "tags":[
+      "global",
+      "health",
+      "social science",
+      "energy",
+      "exploratory data analysis"
+    ],
+    "lastUpdated":1741755087083
+  },
+  {
+    "title":"Iris Species",
+    "ref":"uciml\/iris",
+    "description":"Classify iris plants into three species in this classic dataset",
+    "creator":"Kaggle Team",
+    "sizeMB":0.0,
+    "downloadCount":672623,
+    "usabilityRating":0.7941176,
+    "tags":[
+      "biology"
+    ],
+    "lastUpdated":1474961885440
+  },
+  {
+    "title":"Pokédex For All 1025 Pokémon (+ text descriptions)",
+    "ref":"rzgiza\/pokdex-for-all-1025-pokemon-w-text-description",
+    "description":"Statistics, text descriptions, and evolution groupings for all 1025 Pokémon.",
+    "creator":"Robert Giza",
+    "sizeMB":0.07,
+    "downloadCount":1656,
+    "usabilityRating":1.0,
+    "tags":[
+      "arts and entertainment",
+      "video games",
+      "nlp",
+      "data visualization",
+      "data analytics",
+      "anime and manga"
+    ],
+    "lastUpdated":1740374514040
+  },
+  {
+    "title":"Japanese Speech Recognition Dataset - 513 hours ",
+    "ref":"unidatapro\/japanese-speech-recognition-dataset",
+    "description":"Dataset comprises 513 hours of telephone dialogues in Japanese",
+    "creator":"UniData",
+    "sizeMB":0.14,
+    "downloadCount":99,
+    "usabilityRating":1.0,
+    "tags":[
+      "music",
+      "social science",
+      "nlp",
+      "audio",
+      "automatic speech recognition",
+      "speech-to-text",
+      "japanese"
+    ],
+    "lastUpdated":1742247169013
+  },
+  {
+    "title":"Personalized Recommendations for E-Commerce​​",
+    "ref":"suvroo\/personalized-recommendations-for-e-commerce",
+    "description":"Enhancing E-Commerce with AI-Driven Personalized Recommendations",
+    "creator":"Suvradeep",
+    "sizeMB":0.36,
+    "downloadCount":158,
+    "usabilityRating":0.8235294,
+    "tags":[
+      "clothing and accessories",
+      "business",
+      "data analytics",
+      "tabular",
+      "e-commerce services"
+    ],
+    "lastUpdated":1742884745497
+  }
+]
