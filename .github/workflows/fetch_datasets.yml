@@ -27,6 +27,11 @@ jobs:
                 mkdir -p ~/.kaggle
                 printf '%s' "${{ secrets.KAGGLE_JSON }}" > ~/.kaggle/kaggle.json
                 chmod 600 ~/.kaggle/kaggle.json
+
+            - name: Debug - Show kaggle.json content (REMOVE after testing!)
+              run: |
+                echo "🔍 Printing kaggle.json content:"
+                cat ~/.kaggle/kaggle.json
             
             - name: Fetch datasets
               run: |
