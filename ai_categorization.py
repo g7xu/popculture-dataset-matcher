@@ -80,12 +80,9 @@ def get_single_word_response(title: str, description: str, tags: str, retry_coun
     # handle the resource exhausted error
     except Exception as e:
         if "429" in str(e) or "resource_exhausted" in str(e).lower():
-            print(f"Rate limit exceeded, wait for 60 seconds: {e}")
+            print(f"Rate limit exceeded, wait for 30 seconds: {e}")
             time.sleep(30)  # Wait for 60 seconds before retrying
             return get_single_word_response(title, description, tags, retry_count + 1)
-        else:
-            print(f"Unexpected error occurred: {e}")
-            raise
 
 # Example usage
 if __name__ == "__main__":
