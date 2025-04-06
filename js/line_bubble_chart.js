@@ -9,7 +9,7 @@ let most_votes_data;
 function loadCSVData(filePath) {
     return d3.csv(filePath)
         .then(data => {
-            console.log("CSV Data Loaded:", data);
+            console.log("CSV Data Loaded successfully");
             return data;
         })
         .catch(error => {
@@ -22,7 +22,7 @@ function loadCSVData(filePath) {
 function loadJSONData(filePath) {
     return d3.json(filePath)
         .then(data => {
-            console.log("JSON Data Loaded:", data);
+            console.log("JSON Data Loaded successfully", data);
             return data;
         })
         .catch(error => {
@@ -45,7 +45,9 @@ function getDatasetsByCategory(category, hotest_data, most_votes_data) {
     // Map the combined datasets to the required format
     return combinedDatasets.map(dataset => ({
         name: dataset.title,
-        description: dataset.description
+        description: dataset.description,
+        url: dataset.url,
+        downloadCount: dataset.downloadCount,
     }));
 }
 
@@ -124,6 +126,9 @@ async function renderBubbleChart(bubbleChartDiv, cate_prop_data) {
 
                 // Get datasets for the clicked category
                 const datasets = getDatasetsByCategory(d.name, hotest_data, most_votes_data);
+                
+                // sort the datasets by usability
+                datasets.sort((a, b) => b.usabilityRating - a.usabilityRating);
 
                 // Create a rectangle box
                 const popupBox = d3.select("body")
@@ -145,7 +150,7 @@ async function renderBubbleChart(bubbleChartDiv, cate_prop_data) {
                 // Add a title to the pop-up box
                 popupBox.append("h3")
                     .text(`Category: ${d.name}`)
-                    .style("margin-bottom", "10px")
+                    .style("margin-bottom", "25px")
                     .style("font-size", "1.2rem")
                     .style("color", "#333");
 
@@ -157,12 +162,33 @@ async function renderBubbleChart(bubbleChartDiv, cate_prop_data) {
 
                 datasets.forEach(dataset => {
                     const listItem = list.append("li")
-                        .style("margin-bottom", "10px");
+                        .style("margin-bottom", "20px");
 
                     listItem.append("strong")
                         .text(dataset.name)
                         .style("display", "block")
                         .style("color", "#000");
+
+                    // start a new line that contains the dataset url and the download count
+                    const linkContainer = listItem.append("div")
+                        .style("display", "flex")
+                        .style("justify-content", "space-between")
+                        .style("align-items", "center")
+                        .style("margin", "5px 0");
+
+                    linkContainer.append("a")
+                        .attr("href", dataset.url)
+                        .attr("target", "_blank")
+                        .text("View Dataset");
+
+                    linkContainer.append("span")
+                        .text(`${dataset.downloadCount || 0} downloads`)
+                        .style("color", "#666")
+                        .style("font-size", "0.9rem");
+
+                    // add a line breaker
+                    listItem.append("hr")
+                        .style("border", "1px solid #ddd");
 
                     listItem.append("span")
                         .text(dataset.description)
