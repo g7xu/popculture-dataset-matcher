@@ -52,3 +52,10 @@ body {
     color: #ffffff;
     font-size: 1.2rem;
 }
+
+.popup-box {
+    font-family: Arial, sans-serif;
+    font-size: 0.9rem;
+    z-index: 1000; /* Ensure the box appears above other elements */
+    pointer-events: auto; /* Allow interaction with the box */
+}

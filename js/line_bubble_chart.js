@@ -2,6 +2,8 @@ import * as d3 from "https://cdn.jsdelivr.net/npm/d3@7/+esm";
 import { forceSimulation, forceCollide, forceCenter } from "https://cdn.jsdelivr.net/npm/d3-force@3/+esm";
 
 let cate_prop_data;
+let hotest_data;
+let most_votes_data;
 
 // Function to load CSV data
 function loadCSVData(filePath) {
@@ -14,6 +16,37 @@ function loadCSVData(filePath) {
             console.error("Error loading CSV data:", error);
             throw error;
         });
+}
+
+// Function to load json data
+function loadJSONData(filePath) {
+    return d3.json(filePath)
+        .then(data => {
+            console.log("JSON Data Loaded:", data);
+            return data;
+        })
+        .catch(error => {
+            console.error("Error loading JSON data:", error);
+            throw error;
+        });
+}
+
+// Function to parse and filter datasets by category
+function getDatasetsByCategory(category, hotest_data, most_votes_data) {
+    // Filter the hottest datasets by category
+    const filteredHottest = hotest_data.filter(dataset => dataset.ai_category === category);
+
+    // Filter the most voted datasets by category
+    const filteredMostVotes = most_votes_data.filter(dataset => dataset.ai_category === category);
+
+    // Combine the two lists
+    const combinedDatasets = [...filteredHottest, ...filteredMostVotes];
+
+    // Map the combined datasets to the required format
+    return combinedDatasets.map(dataset => ({
+        name: dataset.title,
+        description: dataset.description
+    }));
 }
 
 // Function to render the bubble chart
@@ -72,7 +105,83 @@ async function renderBubbleChart(bubbleChartDiv, cate_prop_data) {
             .attr("r", d => d.r)
             .attr("fill", (d, i) => color(i))
             .attr("stroke", "#ffffff")
-            .attr("stroke-width", 1);
+            .attr("stroke-width", 1)
+            .on("mouseover", function () {
+                d3.select(this)
+                    .attr("stroke-width", 5); // Increase stroke width on hover
+            })
+            .on("mouseout", function () {
+                d3.select(this)
+                    .attr("stroke-width", 1); // Reset stroke width when mouse leaves
+            })
+            .on("click", function (event, d) {
+                // Remove any existing pop-up box
+                d3.select(".popup-box").remove();
+
+                // Get mouse position relative to the window
+                const mouseX = event.pageX;
+                const mouseY = event.pageY;
+
+                // Get datasets for the clicked category
+                const datasets = getDatasetsByCategory(d.name, hotest_data, most_votes_data);
+
+                // Create a rectangle box
+                const popupBox = d3.select("body")
+                    .append("div")
+                    .attr("class", "popup-box")
+                    .style("position", "absolute")
+                    .style("left", `${mouseX - 50}px`)
+                    .style("top", `${mouseY - 30}px`)
+                    .style("width", "300px")
+                    .style("height", "200px")
+                    .style("background-color", "#ffffff")
+                    .style("color", "#000000")
+                    .style("padding", "10px")
+                    .style("border-radius", "5px")
+                    .style("box-shadow", "0px 4px 6px rgba(0, 0, 0, 0.1)")
+                    .style("z-index", "1000")
+                    .style("overflow-y", "auto");
+
+                // Add a title to the pop-up box
+                popupBox.append("h3")
+                    .text(`Category: ${d.name}`)
+                    .style("margin-bottom", "10px")
+                    .style("font-size", "1.2rem")
+                    .style("color", "#333");
+
+                // Add the list of datasets
+                const list = popupBox.append("ul")
+                    .style("list-style", "none")
+                    .style("padding", "0")
+                    .style("margin", "0");
+
+                datasets.forEach(dataset => {
+                    const listItem = list.append("li")
+                        .style("margin-bottom", "10px");
+
+                    listItem.append("strong")
+                        .text(dataset.name)
+                        .style("display", "block")
+                        .style("color", "#000");
+
+                    listItem.append("span")
+                        .text(dataset.description)
+                        .style("font-size", "0.9rem")
+                        .style("color", "#555");
+                });
+
+                // Add a click listener to the document to close the pop-up box
+                d3.select("body").on("click", function (event) {
+                    const isClickInside = d3.select(event.target).classed("popup-box");
+                    if (!isClickInside) {
+                        d3.select(".popup-box").remove();
+                        d3.select("body").on("click", null); // Remove the event listener
+                    }
+                });
+
+                // Prevent the click event from propagating to the body
+                event.stopPropagation();
+            });
 
         const labels = svg.selectAll("text")
             .data(nodes)
@@ -187,6 +296,9 @@ document.addEventListener("DOMContentLoaded", async () => {
 
     // Load data and render the charts
     cate_prop_data = await loadCSVData("data/cate_trends.csv");
+    hotest_data = await loadJSONData("data/hottest_datasets.json");
+    most_votes_data = await loadJSONData("data/most_votes_datasets.json");
+
     renderBubbleChart(bubbleChartDiv, cate_prop_data);
     renderLineChart(lineChartDiv, cate_prop_data);
 
