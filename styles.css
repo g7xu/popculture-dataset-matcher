@@ -32,8 +32,7 @@ body {
 }
 
 .bubble-chart {
-    flex: 1;
-    /* background-color: #0f3460; */ /* Remove or comment out this line */
+    flex: 0 0 60%; /* Reduce the size of the bubble chart */
     border-radius: 10px;
     display: flex;
     justify-content: center;
@@ -43,8 +42,7 @@ body {
 }
 
 .line-chart {
-    flex: 0 0 30%;
-    /* background-color: #162447; */ /* Remove or comment out this line */
+    flex: 0 0 40%; /* Increase the size of the line chart */
     border-radius: 10px;
     display: flex;
     justify-content: center;

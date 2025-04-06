@@ -84,7 +84,7 @@ async function renderBubbleChart(bubbleChartDiv, cate_prop_data) {
 
         const nodes = rescaledData.map(d => ({
             ...d,
-            r: Math.sqrt(d.proportion) * (5.4 * width / height),
+            r: Math.sqrt(d.proportion) * (4.4 * width / height),
             x: Math.random() * (width * 1.2) - width * 0.1,
             y: Math.random() * (height * 1.2) - height * 0.1
         }));
