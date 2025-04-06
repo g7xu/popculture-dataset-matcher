@@ -25,7 +25,7 @@ jobs:
             - name: Set up Kaggle API credentials
               run: |
                 mkdir -p ~/.kaggle
-                echo "${{ secrets.KAGGLE_JSON }}" | jq '.' > ~/.kaggle/kaggle.json
+                echo '${{ secrets.KAGGLE_JSON }}' > ~/.kaggle/kaggle.json
                 chmod 600 ~/.kaggle/kaggle.json
               
             - name: Debug - Confirm kaggle.json structure (TEMP)
