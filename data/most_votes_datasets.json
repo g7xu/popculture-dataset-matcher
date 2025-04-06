@@ -10,7 +10,8 @@
     "tags":[
       "simulations"
     ],
-    "lastUpdated":1623164709513
+    "lastUpdated":1623164709513,
+    "ai_category":"Gaming & Interactive Media"
   },
   {
     "title":"Credit Card Fraud Detection",
@@ -18,13 +19,14 @@
     "description":"Anonymized credit card transactions labeled as fraudulent or genuine",
     "creator":"Timo Bozsolik",
     "sizeMB":65.95,
-    "downloadCount":850629,
+    "downloadCount":850633,
     "usabilityRating":0.85294116,
     "tags":[
       "crime",
       "finance"
     ],
-    "lastUpdated":1521767847913
+    "lastUpdated":1521767847913,
+    "ai_category":"Lifestyle & Consumer Aesthetics"
   },
   {
     "title":"COVID-19 Open Research Dataset Challenge (CORD-19)",
@@ -42,7 +44,8 @@
       "nlp",
       "covid19"
     ],
-    "lastUpdated":1654544380923
+    "lastUpdated":1654544380923,
+    "ai_category":"Internet & Digital Culture"
   },
   {
     "title":"Netflix Movies and TV Shows",
@@ -50,7 +53,7 @@
     "description":"Listings of movies and tv shows on Netflix - Regularly Updated",
     "creator":"Shivam Bansal",
     "sizeMB":1.34,
-    "downloadCount":554178,
+    "downloadCount":554185,
     "usabilityRating":1.0,
     "tags":[
       "websites",
@@ -59,7 +62,8 @@
       "exploratory data analysis",
       "data visualization"
     ],
-    "lastUpdated":1632717876000
+    "lastUpdated":1632717876000,
+    "ai_category":"Film & Television Media"
   },
   {
     "title":"Chest X-Ray Images (Pneumonia)",
@@ -67,7 +71,7 @@
     "description":"5,863 images, 2 categories",
     "creator":"Paul Mooney",
     "sizeMB":2349.25,
-    "downloadCount":380827,
+    "downloadCount":380832,
     "usabilityRating":0.75,
     "tags":[
       "biology",
@@ -76,7 +80,8 @@
       "image",
       "online communities"
     ],
-    "lastUpdated":1521920519603
+    "lastUpdated":1521920519603,
+    "ai_category":"Internet & Digital Culture"
   },
   {
     "title":"Video Game Sales",
@@ -84,13 +89,14 @@
     "description":"Analyze sales data from more than 16,500 games.",
     "creator":"GregorySmith",
     "sizeMB":0.37,
-    "downloadCount":671640,
+    "downloadCount":671641,
     "usabilityRating":0.5882353,
     "tags":[
       "games",
       "video games"
     ],
-    "lastUpdated":1477473049853
+    "lastUpdated":1477473049853,
+    "ai_category":"Gaming & Interactive Media"
   },
   {
     "title":"Novel Corona Virus 2019 Dataset",
@@ -98,7 +104,7 @@
     "description":"Day level information on covid-19 affected cases",
     "creator":"SRK",
     "sizeMB":8.52,
-    "downloadCount":456568,
+    "downloadCount":456569,
     "usabilityRating":0.9705882,
     "tags":[
       "public health",
@@ -107,7 +113,8 @@
       "health conditions",
       "covid19"
     ],
-    "lastUpdated":1624508845000
+    "lastUpdated":1624508845000,
+    "ai_category":"Lifestyle & Consumer Aesthetics"
   },
   {
     "title":"Trending YouTube Video Statistics",
@@ -115,7 +122,7 @@
     "description":"Daily statistics for trending YouTube videos",
     "creator":"Timo Bozsolik",
     "sizeMB":200.82,
-    "downloadCount":266199,
+    "downloadCount":266200,
     "usabilityRating":0.7941176,
     "tags":[
       "languages",
@@ -124,7 +131,8 @@
       "linguistics",
       "internet"
     ],
-    "lastUpdated":1559523407177
+    "lastUpdated":1559523407177,
+    "ai_category":"Internet & Digital Culture"
   },
   {
     "title":"Data Science Cheat Sheets",
@@ -138,7 +146,8 @@
       "classification",
       "deep learning"
     ],
-    "lastUpdated":1580845347173
+    "lastUpdated":1580845347173,
+    "ai_category":"Internet & Digital Culture"
   },
   {
     "title":"Google Play Store Apps",
@@ -146,7 +155,7 @@
     "description":"Web scraped data of 10k Play Store apps for analysing the Android market.",
     "creator":"Lavanya",
     "sizeMB":1.94,
-    "downloadCount":269299,
+    "downloadCount":269300,
     "usabilityRating":0.7058824,
     "tags":[
       "video games",
@@ -154,7 +163,8 @@
       "internet",
       "mobile and wireless"
     ],
-    "lastUpdated":1549202147603
+    "lastUpdated":1549202147603,
+    "ai_category":"Gaming & Interactive Media"
   },
   {
     "title":"European Soccer Database",
@@ -172,7 +182,8 @@
       "sports",
       "business"
     ],
-    "lastUpdated":1477261898527
+    "lastUpdated":1477261898527,
+    "ai_category":"Gaming & Interactive Media"
   },
   {
     "title":"FiveThirtyEight Comic Characters Dataset",
@@ -187,7 +198,8 @@
       "politics",
       "comics and animation"
     ],
-    "lastUpdated":1556290901097
+    "lastUpdated":1556290901097,
+    "ai_category":"Fandoms & Cultural Expression"
   },
   {
     "title":"Students Performance in Exams",
@@ -203,7 +215,8 @@
       "data visualization",
       "standardized testing"
     ],
-    "lastUpdated":1541787925037
+    "lastUpdated":1541787925037,
+    "ai_category":"Lifestyle & Consumer Aesthetics"
   },
   {
     "title":"Pima Indians Diabetes Database",
@@ -211,7 +224,7 @@
     "description":"Predict the onset of diabetes based on diagnostic measures",
     "creator":"Kaggle Team",
     "sizeMB":0.01,
-    "downloadCount":617719,
+    "downloadCount":617720,
     "usabilityRating":0.88235295,
     "tags":[
       "india",
@@ -222,7 +235,8 @@
       "benchmark dataset",
       "benchmark"
     ],
-    "lastUpdated":1475778716823
+    "lastUpdated":1475778716823,
+    "ai_category":"Lifestyle & Consumer Aesthetics"
   },
   {
     "title":"Huge Stock Market Dataset",
@@ -239,7 +253,8 @@
       "artificial intelligence",
       "investing"
     ],
-    "lastUpdated":1510844009000
+    "lastUpdated":1510844009000,
+    "ai_category":"Internet & Digital Culture"
   },
   {
     "title":"World Happiness Report",
@@ -247,7 +262,7 @@
     "description":"Happiness scored according to economic production, social support, etc.",
     "creator":"Timo Bozsolik",
     "sizeMB":0.04,
-    "downloadCount":340978,
+    "downloadCount":340980,
     "usabilityRating":0.85294116,
     "tags":[
       "arts and entertainment",
@@ -256,7 +271,8 @@
       "economics",
       "news"
     ],
-    "lastUpdated":1574829707297
+    "lastUpdated":1574829707297,
+    "ai_category":"Lifestyle & Consumer Aesthetics"
   },
   {
     "title":"Iris Species",
@@ -269,7 +285,8 @@
     "tags":[
       "biology"
     ],
-    "lastUpdated":1474961885000
+    "lastUpdated":1474961885000,
+    "ai_category":"Lifestyle & Consumer Aesthetics"
   },
   {
     "title":"TMDB 5000 Movie Dataset",
@@ -277,13 +294,14 @@
     "description":"Metadata on ~5,000 movies from TMDb",
     "creator":"Sohier Dane",
     "sizeMB":8.89,
-    "downloadCount":422321,
+    "downloadCount":422323,
     "usabilityRating":0.8235294,
     "tags":[
       "arts and entertainment",
       "movies and tv shows"
     ],
-    "lastUpdated":1506560952897
+    "lastUpdated":1506560952897,
+    "ai_category":"Film & Television Media"
   },
   {
     "title":"Avocado Prices",
@@ -296,7 +314,8 @@
     "tags":[
       "food"
     ],
-    "lastUpdated":1528262915433
+    "lastUpdated":1528262915433,
+    "ai_category":"Lifestyle & Consumer Aesthetics"
   },
   {
     "title":"Breast Cancer Wisconsin (Diagnostic) Data Set",
@@ -304,13 +323,14 @@
     "description":"Predict whether the cancer is benign or malignant",
     "creator":"Ovsen",
     "sizeMB":0.05,
-    "downloadCount":433661,
+    "downloadCount":433662,
     "usabilityRating":0.85294116,
     "tags":[
       "healthcare",
       "cancer"
     ],
-    "lastUpdated":1474800544067
+    "lastUpdated":1474800544067,
+    "ai_category":"Lifestyle & Consumer Aesthetics"
   },
   {
     "title":"The Movies Dataset",
@@ -318,14 +338,15 @@
     "description":"Metadata on over 45,000 movies. 26 million ratings from over 270,000 users.",
     "creator":"Rounak Banik",
     "sizeMB":227.8,
-    "downloadCount":397231,
+    "downloadCount":397233,
     "usabilityRating":0.8235294,
     "tags":[
       "popular culture",
       "movies and tv shows",
       "earth and nature"
     ],
-    "lastUpdated":1510281638583
+    "lastUpdated":1510281638583,
+    "ai_category":"Film & Television Media"
   },
   {
     "title":"Wine Reviews",
@@ -338,7 +359,8 @@
     "tags":[
       "alcohol"
     ],
-    "lastUpdated":1511802484000
+    "lastUpdated":1511802484000,
+    "ai_category":"Lifestyle & Consumer Aesthetics"
   },
   {
     "title":"Bitcoin Historical Data",
@@ -346,14 +368,15 @@
     "description":"Bitcoin data at 1-min intervals from select exchanges, Jan 2012 to Present",
     "creator":"Zielak",
     "sizeMB":112.35,
-    "downloadCount":173268,
+    "downloadCount":173271,
     "usabilityRating":1.0,
     "tags":[
       "history",
       "finance",
       "currencies and foreign exchange"
     ],
-    "lastUpdated":1743901088000
+    "lastUpdated":1743901088000,
+    "ai_category":"Internet & Digital Culture"
   },
   {
     "title":"Brazilian E-Commerce Public Dataset by Olist",
@@ -361,7 +384,7 @@
     "description":"100,000 Orders with product, customer and reviews info",
     "creator":"Francisco Magioli",
     "sizeMB":42.65,
-    "downloadCount":312689,
+    "downloadCount":312690,
     "usabilityRating":1.0,
     "tags":[
       "brazil",
@@ -371,7 +394,8 @@
       "data visualization",
       "multiclass classification"
     ],
-    "lastUpdated":1633115307000
+    "lastUpdated":1633115307000,
+    "ai_category":"Lifestyle & Consumer Aesthetics"
   },
   {
     "title":"Stroke Prediction Dataset",
@@ -388,7 +412,8 @@
       "binary classification",
       "health conditions"
     ],
-    "lastUpdated":1611689368887
+    "lastUpdated":1611689368887,
+    "ai_category":"Lifestyle & Consumer Aesthetics"
   },
   {
     "title":"Fruits-360 dataset",
@@ -396,7 +421,7 @@
     "description":"A dataset with 120030 images of 176 fruits, vegetables, nuts and seeds",
     "creator":"Mihai Oltean",
     "sizeMB":2609.23,
-    "downloadCount":174542,
+    "downloadCount":174544,
     "usabilityRating":0.875,
     "tags":[
       "plants",
@@ -405,7 +430,8 @@
       "multiclass classification",
       "food"
     ],
-    "lastUpdated":1743669468003
+    "lastUpdated":1743669468003,
+    "ai_category":"Lifestyle & Consumer Aesthetics"
   },
   {
     "title":"Suicide Rates Overview 1985 to 2016 ",
@@ -420,7 +446,8 @@
       "economics",
       "news"
     ],
-    "lastUpdated":1543691905903
+    "lastUpdated":1543691905903,
+    "ai_category":"Internet & Digital Culture"
   },
   {
     "title":"Red Wine Quality",
@@ -428,7 +455,7 @@
     "description":"Simple and clean practice dataset for regression or classification modelling",
     "creator":"Sohier Dane",
     "sizeMB":0.02,
-    "downloadCount":283950,
+    "downloadCount":283956,
     "usabilityRating":0.88235295,
     "tags":[
       "alcohol",
@@ -438,7 +465,8 @@
       "benchmark dataset",
       "benchmark"
     ],
-    "lastUpdated":1511826068883
+    "lastUpdated":1511826068883,
+    "ai_category":"Education"
   },
   {
     "title":"New York City Airbnb Open Data",
@@ -446,14 +474,15 @@
     "description":"Airbnb listings and metrics in NYC, NY, USA (2019)",
     "creator":"Dgomonov",
     "sizeMB":2.44,
-    "downloadCount":209981,
+    "downloadCount":209982,
     "usabilityRating":1.0,
     "tags":[
       "business",
       "internet",
       "hotels and accommodations"
     ],
-    "lastUpdated":1565627085737
+    "lastUpdated":1565627085737,
+    "ai_category":"Lifestyle & Consumer Aesthetics"
   },
   {
     "title":"Telco Customer Churn",
@@ -461,12 +490,13 @@
     "description":"Focused customer retention programs",
     "creator":"BlastChar",
     "sizeMB":0.17,
-    "downloadCount":326934,
+    "downloadCount":326936,
     "usabilityRating":0.88235295,
     "tags":[
       "business"
     ],
-    "lastUpdated":1519410000000
+    "lastUpdated":1519410000000,
+    "ai_category":"Lifestyle & Consumer Aesthetics"
   },
   {
     "title":"Fashion MNIST",
@@ -485,7 +515,8 @@
       "multiclass classification",
       "retail and shopping"
     ],
-    "lastUpdated":1512608060537
+    "lastUpdated":1512608060537,
+    "ai_category":"Lifestyle & Consumer Aesthetics"
   },
   {
     "title":"Supermarket sales",
@@ -493,14 +524,15 @@
     "description":"Historical record of sales data in 3 different supermarkets",
     "creator":"Aung Pyae",
     "sizeMB":0.04,
-    "downloadCount":337767,
+    "downloadCount":337768,
     "usabilityRating":0.88235295,
     "tags":[
       "business",
       "economics",
       "data visualization"
     ],
-    "lastUpdated":1558940884257
+    "lastUpdated":1558940884257,
+    "ai_category":"Lifestyle & Consumer Aesthetics"
   },
   {
     "title":" Medical Cost Personal Datasets",
@@ -508,7 +540,7 @@
     "description":"Insurance Forecast by using Linear Regression",
     "creator":"Miri Choi",
     "sizeMB":0.02,
-    "downloadCount":302254,
+    "downloadCount":302255,
     "usabilityRating":0.88235295,
     "tags":[
       "healthcare",
@@ -517,7 +549,8 @@
       "health",
       "insurance"
     ],
-    "lastUpdated":1519172114117
+    "lastUpdated":1519172114117,
+    "ai_category":"Lifestyle & Consumer Aesthetics"
   },
   {
     "title":"Heart Failure Prediction Dataset",
@@ -525,7 +558,7 @@
     "description":"11 clinical features for predicting heart disease events.",
     "creator":"fedesoriano",
     "sizeMB":0.01,
-    "downloadCount":192337,
+    "downloadCount":192339,
     "usabilityRating":1.0,
     "tags":[
       "healthcare",
@@ -534,7 +567,8 @@
       "health conditions",
       "heart conditions"
     ],
-    "lastUpdated":1631297517517
+    "lastUpdated":1631297517517,
+    "ai_category":"Lifestyle & Consumer Aesthetics"
   },
   {
     "title":"Customer Personality Analysis",
@@ -542,7 +576,7 @@
     "description":"Analysis of company's ideal customers",
     "creator":"Akash Patel",
     "sizeMB":0.06,
-    "downloadCount":181859,
+    "downloadCount":181861,
     "usabilityRating":0.9705882,
     "tags":[
       "business",
@@ -552,7 +586,8 @@
       "classification",
       "clustering"
     ],
-    "lastUpdated":1629656105273
+    "lastUpdated":1629656105273,
+    "ai_category":"Lifestyle & Consumer Aesthetics"
   },
   {
     "title":"IBM HR Analytics Employee Attrition & Performance",
@@ -560,14 +595,15 @@
     "description":"Predict attrition of your valuable employees",
     "creator":"pavansubhash",
     "sizeMB":0.05,
-    "downloadCount":217866,
+    "downloadCount":217870,
     "usabilityRating":0.88235295,
     "tags":[
       "employment",
       "business",
       "software"
     ],
-    "lastUpdated":1490943316973
+    "lastUpdated":1490943316973,
+    "ai_category":"Lifestyle & Consumer Aesthetics"
   },
   {
     "title":"Pokemon with stats",
@@ -583,7 +619,8 @@
       "video games",
       "anime and manga"
     ],
-    "lastUpdated":1472450503000
+    "lastUpdated":1472450503000,
+    "ai_category":"Gaming & Interactive Media"
   },
   {
     "title":"Global Terrorism Database",
@@ -600,7 +637,8 @@
       "international relations",
       "software"
     ],
-    "lastUpdated":1536603738000
+    "lastUpdated":1536603738000,
+    "ai_category":"Internet & Digital Culture"
   },
   {
     "title":"COVID-19 Dataset",
@@ -608,7 +646,7 @@
     "description":"Number of Confirmed, Death and Recovered cases every day across the globe",
     "creator":"Devakumar K. P.",
     "sizeMB":19.0,
-    "downloadCount":367176,
+    "downloadCount":367179,
     "usabilityRating":1.0,
     "tags":[
       "diseases",
@@ -616,7 +654,8 @@
       "law",
       "covid19"
     ],
-    "lastUpdated":1596772067907
+    "lastUpdated":1596772067907,
+    "ai_category":"Internet & Digital Culture"
   },
   {
     "title":"Hotel booking demand",
@@ -624,7 +663,7 @@
     "description":"From the paper: hotel booking demand datasets",
     "creator":"Jesse Mostipak",
     "sizeMB":1.25,
-    "downloadCount":165163,
+    "downloadCount":165164,
     "usabilityRating":1.0,
     "tags":[
       "social science",
@@ -632,7 +671,8 @@
       "hotels and accommodations",
       "tidyverse"
     ],
-    "lastUpdated":1581557240000
+    "lastUpdated":1581557240000,
+    "ai_category":"Lifestyle & Consumer Aesthetics"
   },
   {
     "title":"Mushroom Classification",
@@ -649,7 +689,8 @@
       "benchmark dataset",
       "benchmark"
     ],
-    "lastUpdated":1480633680073
+    "lastUpdated":1480633680073,
+    "ai_category":"Lifestyle & Consumer Aesthetics"
   },
   {
     "title":"FitBit Fitness Tracker Data",
@@ -663,7 +704,8 @@
       "exercise",
       "business"
     ],
-    "lastUpdated":1709412425000
+    "lastUpdated":1709412425000,
+    "ai_category":"Lifestyle & Consumer Aesthetics"
   },
   {
     "title":"US Accidents (2016 - 2023)",
@@ -671,7 +713,7 @@
     "description":"A Countrywide Traffic Accident Dataset (2016 - 2023)",
     "creator":"Sobhan Moosavi",
     "sizeMB":653.13,
-    "downloadCount":140329,
+    "downloadCount":140331,
     "usabilityRating":1.0,
     "tags":[
       "transportation",
@@ -679,7 +721,8 @@
       "tabular",
       "public safety"
     ],
-    "lastUpdated":1685235287207
+    "lastUpdated":1685235287207,
+    "ai_category":"Internet & Digital Culture"
   },
   {
     "title":"Heart Failure Prediction",
@@ -696,7 +739,8 @@
       "tabular",
       "heart conditions"
     ],
-    "lastUpdated":1592615000000
+    "lastUpdated":1592615000000,
+    "ai_category":"Lifestyle & Consumer Aesthetics"
   },
   {
     "title":"Climate Change: Earth Surface Temperature Data",
@@ -712,7 +756,8 @@
       "business",
       "news"
     ],
-    "lastUpdated":1493659750000
+    "lastUpdated":1493659750000,
+    "ai_category":"Lifestyle & Consumer Aesthetics"
   },
   {
     "title":"Credit Card customers",
@@ -720,7 +765,7 @@
     "description":"Predict Churning customers",
     "creator":"Sakshi Goyal",
     "sizeMB":0.37,
-    "downloadCount":120230,
+    "downloadCount":120231,
     "usabilityRating":1.0,
     "tags":[
       "business",
@@ -728,7 +773,8 @@
       "banking",
       "e-commerce services"
     ],
-    "lastUpdated":1605771524677
+    "lastUpdated":1605771524677,
+    "ai_category":"Lifestyle & Consumer Aesthetics"
   },
   {
     "title":"Amazon Fine Food Reviews",
@@ -736,7 +782,7 @@
     "description":"Analyze ~500,000 food reviews from Amazon",
     "creator":"[Deleted User]",
     "sizeMB":242.11,
-    "downloadCount":214887,
+    "downloadCount":214888,
     "usabilityRating":0.7941176,
     "tags":[
       "business",
@@ -744,7 +790,8 @@
       "internet",
       "restaurants"
     ],
-    "lastUpdated":1493664691000
+    "lastUpdated":1493664691000,
+    "ai_category":"Lifestyle & Consumer Aesthetics"
   },
   {
     "title":"International football results from 1872 to 2025",
@@ -761,7 +808,8 @@
       "history",
       "international relations"
     ],
-    "lastUpdated":1742966134493
+    "lastUpdated":1742966134493,
+    "ai_category":"Fandoms & Cultural Expression"
   },
   {
     "title":"120 years of Olympic history: athletes and results",
@@ -769,13 +817,14 @@
     "description":"basic bio data on athletes and medal results from Athens 1896 to Rio 2016",
     "creator":"rgriffin",
     "sizeMB":5.43,
-    "downloadCount":201614,
+    "downloadCount":201615,
     "usabilityRating":0.8235294,
     "tags":[
       "sports",
       "history"
     ],
-    "lastUpdated":1529043041637
+    "lastUpdated":1529043041637,
+    "ai_category":"Fandoms & Cultural Expression"
   },
   {
     "title":"Mobile Price Classification",
@@ -783,13 +832,14 @@
     "description":"Classify Mobile Price Range",
     "creator":"Abhishek Sharma",
     "sizeMB":0.07,
-    "downloadCount":216114,
+    "downloadCount":216118,
     "usabilityRating":0.7058824,
     "tags":[
       "business",
       "classification"
     ],
-    "lastUpdated":1517129064237
+    "lastUpdated":1517129064237,
+    "ai_category":"Lifestyle & Consumer Aesthetics"
   },
   {
     "title":"House Sales in King County, USA",
@@ -802,7 +852,8 @@
     "tags":[
       "finance"
     ],
-    "lastUpdated":1472140369797
+    "lastUpdated":1472140369797,
+    "ai_category":"Lifestyle & Consumer Aesthetics"
   },
   {
     "title":"COVID-19 World Vaccination Progress",
@@ -819,7 +870,8 @@
       "public safety",
       "covid19"
     ],
-    "lastUpdated":1648713309033
+    "lastUpdated":1648713309033,
+    "ai_category":"Lifestyle & Consumer Aesthetics"
   },
   {
     "title":"Date Fruit Datasets",
@@ -837,7 +889,8 @@
       "deep learning",
       "image"
     ],
-    "lastUpdated":1648977939547
+    "lastUpdated":1648977939547,
+    "ai_category":"Lifestyle & Consumer Aesthetics"
   },
   {
     "title":"Sentiment140 dataset with 1.6 million tweets",
@@ -854,7 +907,8 @@
       "online communities",
       "social networks"
     ],
-    "lastUpdated":1505342599117
+    "lastUpdated":1505342599117,
+    "ai_category":"Internet & Digital Culture"
   },
   {
     "title":"COVID-19 in India",
@@ -862,13 +916,14 @@
     "description":"Dataset on Novel Corona Virus Disease 2019 in India",
     "creator":"SRK",
     "sizeMB":0.74,
-    "downloadCount":280650,
+    "downloadCount":280651,
     "usabilityRating":0.9117647,
     "tags":[
       "public health",
       "health"
     ],
-    "lastUpdated":1628655250000
+    "lastUpdated":1628655250000,
+    "ai_category":"Lifestyle & Consumer Aesthetics"
   },
   {
     "title":"Student Alcohol Consumption",
@@ -883,7 +938,8 @@
       "public health",
       "primary and secondary schools"
     ],
-    "lastUpdated":1476892359903
+    "lastUpdated":1476892359903,
+    "ai_category":"Lifestyle & Consumer Aesthetics"
   },
   {
     "title":"Skin Cancer MNIST: HAM10000",
@@ -898,7 +954,8 @@
       "image",
       "multiclass classification"
     ],
-    "lastUpdated":1537475773037
+    "lastUpdated":1537475773037,
+    "ai_category":"Lifestyle & Consumer Aesthetics"
   },
   {
     "title":"Flowers Recognition",
@@ -913,7 +970,8 @@
       "image",
       "multiclass classification"
     ],
-    "lastUpdated":1626451232503
+    "lastUpdated":1626451232503,
+    "ai_category":"Lifestyle & Consumer Aesthetics"
   },
   {
     "title":"Goodreads-books",
@@ -930,7 +988,8 @@
       "linguistics",
       "internet"
     ],
-    "lastUpdated":1583745511583
+    "lastUpdated":1583745511583,
+    "ai_category":"Internet & Digital Culture"
   },
   {
     "title":"Rice Image Dataset",
@@ -947,7 +1006,8 @@
       "cnn",
       "image"
     ],
-    "lastUpdated":1648951920213
+    "lastUpdated":1648951920213,
+    "ai_category":"Internet & Digital Culture"
   },
   {
     "title":"Graduate Admission 2 ",
@@ -964,7 +1024,8 @@
       "regression",
       "standardized testing"
     ],
-    "lastUpdated":1545991634000
+    "lastUpdated":1545991634000,
+    "ai_category":"Lifestyle & Consumer Aesthetics"
   },
   {
     "title":"Formula 1 World Championship (1950 - 2024)",
@@ -979,7 +1040,8 @@
       "sports",
       "tabular"
     ],
-    "lastUpdated":1738125787267
+    "lastUpdated":1738125787267,
+    "ai_category":"Fandoms & Cultural Expression"
   },
   {
     "title":"Most Streamed Spotify Songs 2023 ",
@@ -987,7 +1049,7 @@
     "description":"Hottest Spotify Hits 🎵",
     "creator":"Nidula Elgiriyewithana ⚡",
     "sizeMB":0.05,
-    "downloadCount":110813,
+    "downloadCount":110815,
     "usabilityRating":1.0,
     "tags":[
       "music",
@@ -997,7 +1059,8 @@
       "data visualization",
       "classification"
     ],
-    "lastUpdated":1693047897000
+    "lastUpdated":1693047897000,
+    "ai_category":"Music & Audio Trends"
   },
   {
     "title":"Face Mask Detection",
@@ -1015,7 +1078,8 @@
       "image",
       "covid19"
     ],
-    "lastUpdated":1590131922000
+    "lastUpdated":1590131922000,
+    "ai_category":"Internet & Digital Culture"
   },
   {
     "title":"E-Commerce Data",
@@ -1023,7 +1087,7 @@
     "description":"Actual transactions from UK retailer",
     "creator":"Carrie",
     "sizeMB":7.2,
-    "downloadCount":201812,
+    "downloadCount":201816,
     "usabilityRating":0.7058824,
     "tags":[
       "earth and nature",
@@ -1031,7 +1095,8 @@
       "finance",
       "e-commerce services"
     ],
-    "lastUpdated":1502937870943
+    "lastUpdated":1502937870943,
+    "ai_category":"Lifestyle & Consumer Aesthetics"
   },
   {
     "title":"Rain in Australia",
@@ -1039,14 +1104,15 @@
     "description":"Predict next-day rain in Australia",
     "creator":"Joe Young",
     "sizeMB":3.83,
-    "downloadCount":149101,
+    "downloadCount":149102,
     "usabilityRating":1.0,
     "tags":[
       "weather and climate",
       "classification",
       "binary classification"
     ],
-    "lastUpdated":1607682372167
+    "lastUpdated":1607682372167,
+    "ai_category":"Lifestyle & Consumer Aesthetics"
   },
   {
     "title":"Mall Customer Segmentation Data",
@@ -1054,14 +1120,15 @@
     "description":"Market Basket Analysis",
     "creator":"Vijay Choudhary",
     "sizeMB":0.0,
-    "downloadCount":215425,
+    "downloadCount":215431,
     "usabilityRating":0.88235295,
     "tags":[
       "business",
       "clustering",
       "investing"
     ],
-    "lastUpdated":1533972182000
+    "lastUpdated":1533972182000,
+    "ai_category":"Lifestyle & Consumer Aesthetics"
   },
   {
     "title":"mlcourse.ai",
@@ -1079,7 +1146,8 @@
       "clustering",
       "regression"
     ],
-    "lastUpdated":1544373909507
+    "lastUpdated":1544373909507,
+    "ai_category":"Internet & Digital Culture"
   },
   {
     "title":"CelebFaces Attributes (CelebA) Dataset",
@@ -1087,7 +1155,7 @@
     "description":"Over 200k images of celebrities with 40 binary attribute annotations",
     "creator":"Jessica Li",
     "sizeMB":1361.61,
-    "downloadCount":172551,
+    "downloadCount":172552,
     "usabilityRating":0.7647059,
     "tags":[
       "arts and entertainment",
@@ -1097,7 +1165,8 @@
       "image",
       "online communities"
     ],
-    "lastUpdated":1527883728043
+    "lastUpdated":1527883728043,
+    "ai_category":"Film & Television Media"
   },
   {
     "title":"Yelp Dataset",
@@ -1110,7 +1179,8 @@
     "tags":[
       "earth and nature"
     ],
-    "lastUpdated":1647557941257
+    "lastUpdated":1647557941257,
+    "ai_category":"Internet & Digital Culture"
   },
   {
     "title":"Acoustic Extinguisher Fire Dataset",
@@ -1127,7 +1197,8 @@
       "classification",
       "binary classification"
     ],
-    "lastUpdated":1648940376883
+    "lastUpdated":1648940376883,
+    "ai_category":"Internet & Digital Culture"
   },
   {
     "title":"World Development Indicators",
@@ -1142,7 +1213,8 @@
       "economics",
       "international relations"
     ],
-    "lastUpdated":1493661044863
+    "lastUpdated":1493661044863,
+    "ai_category":"Internet & Digital Culture"
   },
   {
     "title":"Pistachio Image Dataset",
@@ -1159,7 +1231,8 @@
       "deep learning",
       "image"
     ],
-    "lastUpdated":1648490487993
+    "lastUpdated":1648490487993,
+    "ai_category":"Internet & Digital Culture"
   },
   {
     "title":"Daily News for Stock Market Prediction",
@@ -1176,7 +1249,8 @@
       "investing",
       "news"
     ],
-    "lastUpdated":1573669372067
+    "lastUpdated":1573669372067,
+    "ai_category":"Internet & Digital Culture"
   },
   {
     "title":"[NeurIPS 2020] Data Science for COVID-19 (DS4C)",
@@ -1193,7 +1267,8 @@
       "tabular",
       "covid19"
     ],
-    "lastUpdated":1594649251000
+    "lastUpdated":1594649251000,
+    "ai_category":"Internet & Digital Culture"
   },
   {
     "title":"SMS Spam Collection Dataset",
@@ -1201,14 +1276,15 @@
     "description":"Collection of SMS messages tagged as spam or legitimate",
     "creator":"Esther Kim",
     "sizeMB":0.21,
-    "downloadCount":261201,
+    "downloadCount":261205,
     "usabilityRating":0.7352941,
     "tags":[
       "languages",
       "linguistics",
       "email and messaging"
     ],
-    "lastUpdated":1480706957523
+    "lastUpdated":1480706957523,
+    "ai_category":"Internet & Digital Culture"
   },
   {
     "title":"Kickstarter Projects",
@@ -1216,14 +1292,15 @@
     "description":"More than 300,000 kickstarter projects",
     "creator":"Mickaël Mouillé",
     "sizeMB":36.78,
-    "downloadCount":85085,
+    "downloadCount":85086,
     "usabilityRating":0.7941176,
     "tags":[
       "business",
       "finance",
       "crowdfunding"
     ],
-    "lastUpdated":1518080550193
+    "lastUpdated":1518080550193,
+    "ai_category":"Internet & Digital Culture"
   },
   {
     "title":"Sign Language MNIST",
@@ -1239,7 +1316,8 @@
       "linguistics",
       "computer science"
     ],
-    "lastUpdated":1508512158000
+    "lastUpdated":1508512158000,
+    "ai_category":"Internet & Digital Culture"
   },
   {
     "title":"Melbourne Housing Snapshot",
@@ -1247,7 +1325,7 @@
     "description":"Snapshot of Tony Pino's Melbourne Housing Dataset",
     "creator":"DanB",
     "sizeMB":0.44,
-    "downloadCount":175559,
+    "downloadCount":175560,
     "usabilityRating":0.7058824,
     "tags":[
       "australia",
@@ -1256,7 +1334,8 @@
       "social science",
       "demographics"
     ],
-    "lastUpdated":1528203144087
+    "lastUpdated":1528203144087,
+    "ai_category":"Lifestyle & Consumer Aesthetics"
   },
   {
     "title":"Data Science Job Salaries",
@@ -1271,7 +1350,8 @@
       "computer science",
       "programming"
     ],
-    "lastUpdated":1655283552213
+    "lastUpdated":1655283552213,
+    "ai_category":"Internet & Digital Culture"
   },
   {
     "title":"Water Quality",
@@ -1290,7 +1370,8 @@
       "beginner",
       "binary classification"
     ],
-    "lastUpdated":1619346464613
+    "lastUpdated":1619346464613,
+    "ai_category":"Lifestyle & Consumer Aesthetics"
   },
   {
     "title":"Titanic",
@@ -1303,7 +1384,8 @@
     "tags":[
 
     ],
-    "lastUpdated":1494922462000
+    "lastUpdated":1494922462000,
+    "ai_category":"Film & Television Media"
   },
   {
     "title":"Intel Image Classification",
@@ -1321,7 +1403,8 @@
       "anime and manga",
       "online communities"
     ],
-    "lastUpdated":1548840178647
+    "lastUpdated":1548840178647,
+    "ai_category":"Internet & Digital Culture"
   },
   {
     "title":"Grapevine Leaves Image Dataset",
@@ -1338,7 +1421,8 @@
       "deep learning",
       "transfer learning"
     ],
-    "lastUpdated":1648976454283
+    "lastUpdated":1648976454283,
+    "ai_category":"Internet & Digital Culture"
   },
   {
     "title":"Pumpkin Seeds Dataset",
@@ -1355,7 +1439,8 @@
       "computer vision",
       "classification"
     ],
-    "lastUpdated":1648492096467
+    "lastUpdated":1648492096467,
+    "ai_category":"Internet & Digital Culture"
   },
   {
     "title":"Reddit Vaccine Myths",
@@ -1370,7 +1455,8 @@
       "data analytics",
       "pandas"
     ],
-    "lastUpdated":1644516960393
+    "lastUpdated":1644516960393,
+    "ai_category":"Internet & Digital Culture"
   },
   {
     "title":"Data Science Salaries 2023 💸",
@@ -1387,7 +1473,8 @@
       "classification",
       "jobs and career"
     ],
-    "lastUpdated":1681379716493
+    "lastUpdated":1681379716493,
+    "ai_category":"Internet & Digital Culture"
   },
   {
     "title":"Pistachio Dataset",
@@ -1404,7 +1491,8 @@
       "image",
       "binary classification"
     ],
-    "lastUpdated":1648975101007
+    "lastUpdated":1648975101007,
+    "ai_category":"Lifestyle & Consumer Aesthetics"
   },
   {
     "title":"Used Cars Dataset",
@@ -1412,14 +1500,15 @@
     "description":"Vehicles listings from Craigslist.org",
     "creator":"Austin Reese",
     "sizeMB":262.49,
-    "downloadCount":95476,
+    "downloadCount":95477,
     "usabilityRating":1.0,
     "tags":[
       "united states",
       "economics",
       "automobiles and vehicles"
     ],
-    "lastUpdated":1620321248443
+    "lastUpdated":1620321248443,
+    "ai_category":"Lifestyle & Consumer Aesthetics"
   },
   {
     "title":"Raisin Dataset",
@@ -1436,7 +1525,8 @@
       "computer vision",
       "classification"
     ],
-    "lastUpdated":1648945396000
+    "lastUpdated":1648945396000,
+    "ai_category":"Lifestyle & Consumer Aesthetics"
   },
   {
     "title":"Dry Bean Dataset",
@@ -1453,7 +1543,8 @@
       "classification",
       "clustering"
     ],
-    "lastUpdated":1648941570000
+    "lastUpdated":1648941570000,
+    "ai_category":"Internet & Digital Culture"
   },
   {
     "title":"Durum Wheat Dataset",
@@ -1471,7 +1562,8 @@
       "computer vision",
       "image"
     ],
-    "lastUpdated":1648944149363
+    "lastUpdated":1648944149363,
+    "ai_category":"Internet & Digital Culture"
   },
   {
     "title":"arXiv Dataset",
@@ -1485,7 +1577,8 @@
       "earth and nature",
       "education"
     ],
-    "lastUpdated":1743897057693
+    "lastUpdated":1743897057693,
+    "ai_category":"Internet & Digital Culture"
   },
   {
     "title":"Rice MSC Dataset",
@@ -1503,7 +1596,8 @@
       "computer vision",
       "classification"
     ],
-    "lastUpdated":1648949632000
+    "lastUpdated":1648949632000,
+    "ai_category":"Lifestyle & Consumer Aesthetics"
   },
   {
     "title":"Diabetes Dataset",
@@ -1511,7 +1605,7 @@
     "description":"Diabetes Patients Data",
     "creator":"Akshay Dattatray Khare",
     "sizeMB":0.01,
-    "downloadCount":133260,
+    "downloadCount":133261,
     "usabilityRating":1.0,
     "tags":[
       "india",
@@ -1520,7 +1614,8 @@
       "diabetes",
       "pandas"
     ],
-    "lastUpdated":1665046525697
+    "lastUpdated":1665046525697,
+    "ai_category":"Lifestyle & Consumer Aesthetics"
   },
   {
     "title":"Synthetic Financial Datasets For Fraud Detection",
@@ -1534,7 +1629,8 @@
       "crime",
       "finance"
     ],
-    "lastUpdated":1491208834403
+    "lastUpdated":1491208834403,
+    "ai_category":"Internet & Digital Culture"
   },
   {
     "title":"Rice Dataset Commeo and Osmancik",
@@ -1547,7 +1643,8 @@
     "tags":[
       "earth and nature"
     ],
-    "lastUpdated":1648946403747
+    "lastUpdated":1648946403747,
+    "ai_category":"Lifestyle & Consumer Aesthetics"
   },
   {
     "title":"Brain MRI Images for Brain Tumor Detection",
@@ -1555,7 +1652,7 @@
     "description":"",
     "creator":"Navoneel Chakrabarty",
     "sizeMB":15.1,
-    "downloadCount":124217,
+    "downloadCount":124218,
     "usabilityRating":0.5,
     "tags":[
       "biology",
@@ -1564,7 +1661,8 @@
       "classification",
       "deep learning"
     ],
-    "lastUpdated":1555254954000
+    "lastUpdated":1555254954000,
+    "ai_category":"Film & Television Media"
   },
   {
     "title":"Netflix Prize data",
@@ -1580,6 +1678,7 @@
       "artificial intelligence",
       "computer science"
     ],
-    "lastUpdated":1573670377417
+    "lastUpdated":1573670377417,
+    "ai_category":"Film & Television Media"
   }
 ]
