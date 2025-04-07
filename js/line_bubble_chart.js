@@ -31,6 +31,100 @@ function loadJSONData(filePath) {
         });
 }
 
+// Function to create and display the welcome modal
+function showWelcomeModal() {
+    // Check if user has seen the modal before
+    if (localStorage.getItem('welcomeModalSeen') === 'true') {
+        return;
+    }
+
+    // Create modal container
+    const modal = d3.select("body")
+        .append("div")
+        .attr("id", "welcome-modal")
+        .style("position", "fixed")
+        .style("left", "0")
+        .style("top", "0")
+        .style("width", "100%")
+        .style("height", "100%")
+        .style("background-color", "rgba(0, 0, 0, 0.7)")
+        .style("z-index", "2000")
+        .style("display", "flex")
+        .style("justify-content", "center")
+        .style("align-items", "center");
+
+    // Create modal content
+    const modalContent = modal.append("div")
+        .style("width", "600px")
+        .style("max-width", "90%")
+        .style("background-color", "#2a2a40")
+        .style("color", "#ffffff")
+        .style("padding", "25px")
+        .style("border-radius", "10px")
+        .style("box-shadow", "0px 8px 24px rgba(0, 0, 0, 0.5)");
+
+    // Add header
+    modalContent.append("h2")
+        .text("Welcome to Bubble Trends! 🫧🫧🫧")
+        .style("margin-top", "0")
+        .style("color", "#4dabf7");
+
+    // Add instructions
+    const instructions = modalContent.append("div")
+        .style("margin-bottom", "20px");
+
+    instructions.append("h3")
+        .text("How to use this visualization:")
+        .style("margin-bottom", "10px");
+
+    const list = instructions.append("ul")
+        .style("padding-left", "20px")
+        .style("line-height", "1.6");
+
+    list.append("li")
+        .html("<strong>Bubble Chart:</strong> Shows popular pop culture categories. The size of each bubble represents the proportion of datasets in that category.");
+    
+    list.append("li")
+        .html("<strong>Line Chart:</strong> Displays how category proportions have changed over time.");
+    
+    list.append("li")
+        .html("<strong>Interaction:</strong> Click on any bubble to see related datasets in that category.");
+    
+    list.append("li")
+        .html("<strong>Dataset Details:</strong> Each dataset shows its name, description, link, and download count.");
+
+    // Add buttons
+    const buttonContainer = modalContent.append("div")
+        .style("display", "flex")
+        .style("justify-content", "space-between")
+        .style("margin-top", "30px");
+
+    buttonContainer.append("button")
+        .text("Don't show again")
+        .style("background-color", "transparent")
+        .style("color", "#bbbbbb")
+        .style("border", "1px solid #bbbbbb")
+        .style("padding", "8px 16px")
+        .style("border-radius", "5px")
+        .style("cursor", "pointer")
+        .on("click", function() {
+            localStorage.setItem('welcomeModalSeen', 'true');
+            modal.remove();
+        });
+
+    buttonContainer.append("button")
+        .text("Got it!")
+        .style("background-color", "#4dabf7")
+        .style("color", "#ffffff")
+        .style("border", "none")
+        .style("padding", "8px 16px")
+        .style("border-radius", "5px")
+        .style("cursor", "pointer")
+        .on("click", function() {
+            modal.remove();
+        });
+}
+
 // Function to parse and filter datasets by category
 function getDatasetsByCategory(category, hotest_data, most_votes_data) {
     // Filter the hottest datasets by category
@@ -360,6 +454,9 @@ document.addEventListener("DOMContentLoaded", async () => {
 
     renderBubbleChart(bubbleChartDiv, cate_prop_data);
     renderLineChart(lineChartDiv, cate_prop_data);
+    
+    // Create and show welcome modal
+    showWelcomeModal();
 
     // Re-render on window resize
     window.addEventListener("resize", () => {
@@ -367,3 +464,4 @@ document.addEventListener("DOMContentLoaded", async () => {
         renderLineChart(lineChartDiv, cate_prop_data);
     });
 });
+

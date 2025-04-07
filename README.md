@@ -1,4 +1,4 @@
-# 🎈 Trend Bubble
+# Trend Bubble 🫧🫧🫧
 
 This is a project that was constructed within 24hrs of timeframe during UCSD DS3 2025 DataHackathon. Checkout My Hackathon submission [here](https://devpost.com/software/trend-bubble?ref_content=my-projects-tab&ref_feature=my_projects)
 
@@ -10,12 +10,14 @@ This is a project that was constructed within 24hrs of timeframe during UCSD DS3
 trend-bubble/
 │
 ├── data/                # Cleaned JSON files updated daily
-├── scripts/             # Python scripts for data cleaning/tag mapping
-├── public/              # Static assets
-├── src/                 # Frontend source code (D3.js)
+├── js/                  # javascript
 ├── .github/workflows/   # GitHub Actions for automation
 ├── index.html           # Main dashboard
+├── fecth_kaggle.py      # data fetching script
+├── agg_data.py          # data aggregation script
+├── ai_categorization.py # data categorization script
 └── README.md
+
 ```
 ---
 ## ✨ Inspiration
