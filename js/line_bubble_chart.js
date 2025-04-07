@@ -246,11 +246,15 @@ async function renderLineChart(lineChartDiv, cate_prop_data) {
         .attr("transform", `translate(${margin.left},${margin.top})`);
 
     try {
-        // Parse the data for the last 7 days
-        const parsedData = cate_prop_data.map(d => ({
+        // Parse the last 7 rows of data
+        const parsedData = cate_prop_data
+            .map(d => ({
             ...d,
             record_time: new Date(d.record_time)
-        })).filter(d => d.record_time >= new Date(Date.now() - 7 * 24 * 60 * 60 * 1000));
+            }))
+            .sort((a, b) => b.record_time - a.record_time)  // Sort by date descending
+            .slice(0, 7)  // Take the latest 7 records
+            .sort((a, b) => a.record_time - b.record_time); // Sort by date ascending for display
 
         const categories = Object.keys(parsedData[0]).filter(key => key !== "record_time");
 
