@@ -205,8 +205,21 @@ async function renderBubbleChart(bubbleChartDiv, cate_prop_data) {
             .append("text")
             .attr("text-anchor", "middle")
             .text(d => d.name)
-            .style("font-size", d => `${Math.max(d.r / 8, 8)}px`)
-            .style("fill", "#ffffff");
+            .style("font-size", d => `${Math.max(d.r / 7.5, 7.5)}px`)
+            .style("fill", "#ffffff")
+            .text(d => {
+                if (d.name === "Gaming & Interactive Media") {
+                    return "Gaming & Media";
+                } else if (d.name === "Film & Television Media") {
+                    return "Film & TV";
+                } else if (d.name === "Fandoms & Cultural Expression") {
+                    return "Fandoms & Culture";
+                } else if (d.name === "Music & Audio Trends") {
+                    return "Music & Audio";
+                } else {
+                    return d.name;
+                }
+            })
 
         function ticked() {
             circles
