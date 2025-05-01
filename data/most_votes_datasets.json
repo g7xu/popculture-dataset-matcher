@@ -5,7 +5,7 @@
     "description":"A comprehensive inventory of ACNH items, villagers, clothing, fish\/bugs etc",
     "creator":"Jessica Li",
     "sizeMB":0.56,
-    "downloadCount":75254,
+    "downloadCount":75281,
     "usabilityRating":0.88235295,
     "tags":[
       "simulations"
@@ -20,7 +20,7 @@
     "description":"Anonymized credit card transactions labeled as fraudulent or genuine",
     "creator":"Timo Bozsolik",
     "sizeMB":65.95,
-    "downloadCount":868935,
+    "downloadCount":869721,
     "usabilityRating":0.85294116,
     "tags":[
       "crime",
@@ -36,7 +36,7 @@
     "description":"An AI challenge with AI2, CZI, MSR, Georgetown, NIH & The White House",
     "creator":"Paul Mooney",
     "sizeMB":18811.21,
-    "downloadCount":187588,
+    "downloadCount":187627,
     "usabilityRating":0.88235295,
     "tags":[
       "public health",
@@ -56,7 +56,7 @@
     "description":"Listings of movies and tv shows on Netflix - Regularly Updated",
     "creator":"Shivam Bansal",
     "sizeMB":1.34,
-    "downloadCount":567480,
+    "downloadCount":568100,
     "usabilityRating":1.0,
     "tags":[
       "websites",
@@ -75,7 +75,7 @@
     "description":"5,863 images, 2 categories",
     "creator":"Paul Mooney",
     "sizeMB":2349.25,
-    "downloadCount":395902,
+    "downloadCount":396499,
     "usabilityRating":0.75,
     "tags":[
       "biology",
@@ -94,7 +94,7 @@
     "description":"Analyze sales data from more than 16,500 games.",
     "creator":"GregorySmith",
     "sizeMB":0.37,
-    "downloadCount":679227,
+    "downloadCount":679548,
     "usabilityRating":0.5882353,
     "tags":[
       "games",
@@ -110,7 +110,7 @@
     "description":"Day level information on covid-19 affected cases",
     "creator":"SRK",
     "sizeMB":8.52,
-    "downloadCount":458223,
+    "downloadCount":458292,
     "usabilityRating":0.9705882,
     "tags":[
       "public health",
@@ -120,7 +120,7 @@
       "covid19"
     ],
     "lastUpdated":1624508845000,
-    "ai_category":"Lifestyle & Consumer Aesthetics",
+    "ai_category":"Internet & Digital Culture",
     "url":"https:\/\/www.kaggle.com\/datasets\/sudalairajkumar\/novel-corona-virus-2019-dataset"
   },
   {
@@ -129,7 +129,7 @@
     "description":"Daily statistics for trending YouTube videos",
     "creator":"Timo Bozsolik",
     "sizeMB":200.82,
-    "downloadCount":268800,
+    "downloadCount":268909,
     "usabilityRating":0.7941176,
     "tags":[
       "languages",
@@ -148,7 +148,7 @@
     "description":"Quick help to make a data scientist's life easier",
     "creator":"Timo Bozsolik",
     "sizeMB":596.29,
-    "downloadCount":70601,
+    "downloadCount":70625,
     "usabilityRating":0.875,
     "tags":[
       "classification",
@@ -164,7 +164,7 @@
     "description":"Web scraped data of 10k Play Store apps for analysing the Android market.",
     "creator":"Lavanya",
     "sizeMB":1.94,
-    "downloadCount":270702,
+    "downloadCount":270764,
     "usabilityRating":0.7058824,
     "tags":[
       "video games",
@@ -182,7 +182,7 @@
     "description":"Explore Data from FiveThirtyEight",
     "creator":"Kaggle Team",
     "sizeMB":0.58,
-    "downloadCount":33379,
+    "downloadCount":33419,
     "usabilityRating":0.8235294,
     "tags":[
       "business",
@@ -199,7 +199,7 @@
     "description":"25k+ matches, players & teams attributes for European Professional Football",
     "creator":"Hugo Mathien",
     "sizeMB":32.71,
-    "downloadCount":244619,
+    "downloadCount":244749,
     "usabilityRating":0.7058824,
     "tags":[
       "games",
@@ -219,7 +219,7 @@
     "description":"Marks secured by the students in various subjects",
     "creator":"Jakki Seshapanpu",
     "sizeMB":0.01,
-    "downloadCount":342919,
+    "downloadCount":343330,
     "usabilityRating":0.7058824,
     "tags":[
       "education",
@@ -237,7 +237,7 @@
     "description":"Predict the onset of diabetes based on diagnostic measures",
     "creator":"Kaggle Team",
     "sizeMB":0.01,
-    "downloadCount":629431,
+    "downloadCount":630024,
     "usabilityRating":0.88235295,
     "tags":[
       "india",
@@ -249,7 +249,7 @@
       "benchmark"
     ],
     "lastUpdated":1475778716823,
-    "ai_category":"Lifestyle & Consumer Aesthetics",
+    "ai_category":"others",
     "url":"https:\/\/www.kaggle.com\/datasets\/uciml\/pima-indians-diabetes-database"
   },
   {
@@ -258,7 +258,7 @@
     "description":"Historical daily prices and volumes of all U.S. stocks and ETFs",
     "creator":"Boris Marjanovic",
     "sizeMB":491.71,
-    "downloadCount":128226,
+    "downloadCount":128282,
     "usabilityRating":0.75,
     "tags":[
       "business",
@@ -268,7 +268,7 @@
       "investing"
     ],
     "lastUpdated":1510844009000,
-    "ai_category":"Lifestyle & Consumer Aesthetics",
+    "ai_category":"Internet & Digital Culture",
     "url":"https:\/\/www.kaggle.com\/datasets\/borismarjanovic\/price-volume-data-for-all-us-stocks-etfs"
   },
   {
@@ -277,7 +277,7 @@
     "description":"Happiness scored according to economic production, social support, etc.",
     "creator":"Timo Bozsolik",
     "sizeMB":0.04,
-    "downloadCount":345172,
+    "downloadCount":345382,
     "usabilityRating":0.85294116,
     "tags":[
       "arts and entertainment",
@@ -296,13 +296,13 @@
     "description":"Classify iris plants into three species in this classic dataset",
     "creator":"Kaggle Team",
     "sizeMB":0.0,
-    "downloadCount":684927,
+    "downloadCount":685431,
     "usabilityRating":0.7941176,
     "tags":[
       "biology"
     ],
     "lastUpdated":1474961885000,
-    "ai_category":"Internet & Digital Culture",
+    "ai_category":"Lifestyle & Consumer Aesthetics",
     "url":"https:\/\/www.kaggle.com\/datasets\/uciml\/iris"
   },
   {
@@ -311,7 +311,7 @@
     "description":"Metadata on ~5,000 movies from TMDb",
     "creator":"Sohier Dane",
     "sizeMB":8.89,
-    "downloadCount":429558,
+    "downloadCount":429821,
     "usabilityRating":0.8235294,
     "tags":[
       "arts and entertainment",
@@ -327,7 +327,7 @@
     "description":"Historical data on avocado prices and sales volume in multiple US markets",
     "creator":"Justin Kiggins",
     "sizeMB":0.61,
-    "downloadCount":323056,
+    "downloadCount":323111,
     "usabilityRating":0.9705882,
     "tags":[
       "food"
@@ -342,7 +342,7 @@
     "description":"Predict whether the cancer is benign or malignant",
     "creator":"Ovsen",
     "sizeMB":0.05,
-    "downloadCount":441761,
+    "downloadCount":442166,
     "usabilityRating":0.85294116,
     "tags":[
       "healthcare",
@@ -358,7 +358,7 @@
     "description":"Metadata on over 45,000 movies. 26 million ratings from over 270,000 users.",
     "creator":"Rounak Banik",
     "sizeMB":227.8,
-    "downloadCount":403086,
+    "downloadCount":403304,
     "usabilityRating":0.8235294,
     "tags":[
       "popular culture",
@@ -375,7 +375,7 @@
     "description":"130k wine reviews with variety, location, winery, price, and description",
     "creator":"zackthoutt",
     "sizeMB":50.87,
-    "downloadCount":323122,
+    "downloadCount":323191,
     "usabilityRating":0.7941176,
     "tags":[
       "alcohol"
@@ -389,15 +389,15 @@
     "ref":"mczielinski\/bitcoin-historical-data",
     "description":"Bitcoin data at 1-min intervals from select exchanges, Jan 2012 to Present",
     "creator":"Zielak",
-    "sizeMB":113.29,
-    "downloadCount":180277,
+    "sizeMB":113.32,
+    "downloadCount":180560,
     "usabilityRating":1.0,
     "tags":[
       "history",
       "finance",
       "currencies and foreign exchange"
     ],
-    "lastUpdated":1745974570857,
+    "lastUpdated":1746061296213,
     "ai_category":"Internet & Digital Culture",
     "url":"https:\/\/www.kaggle.com\/datasets\/mczielinski\/bitcoin-historical-data"
   },
@@ -407,7 +407,7 @@
     "description":"100,000 Orders with product, customer and reviews info",
     "creator":"Francisco Magioli",
     "sizeMB":42.65,
-    "downloadCount":322766,
+    "downloadCount":323215,
     "usabilityRating":1.0,
     "tags":[
       "brazil",
@@ -427,7 +427,7 @@
     "description":"11 clinical features for predicting stroke events",
     "creator":"fedesoriano",
     "sizeMB":0.07,
-    "downloadCount":231721,
+    "downloadCount":232011,
     "usabilityRating":1.0,
     "tags":[
       "healthcare",
@@ -446,7 +446,7 @@
     "description":"A dataset with 132739 images of 194 fruits, vegetables, nuts and seeds",
     "creator":"Mihai Oltean",
     "sizeMB":3290.27,
-    "downloadCount":178778,
+    "downloadCount":178900,
     "usabilityRating":0.875,
     "tags":[
       "arts and entertainment",
@@ -466,7 +466,7 @@
     "description":"Compares socio-economic info with suicide rates by year and country",
     "creator":"Rusty",
     "sizeMB":0.39,
-    "downloadCount":146414,
+    "downloadCount":146441,
     "usabilityRating":0.8235294,
     "tags":[
       "demographics",
@@ -474,7 +474,7 @@
       "news"
     ],
     "lastUpdated":1543691905903,
-    "ai_category":"Lifestyle & Consumer Aesthetics",
+    "ai_category":"Internet & Digital Culture",
     "url":"https:\/\/www.kaggle.com\/datasets\/russellyates88\/suicide-rates-overview-1985-to-2016"
   },
   {
@@ -483,7 +483,7 @@
     "description":"Simple and clean practice dataset for regression or classification modelling",
     "creator":"Sohier Dane",
     "sizeMB":0.02,
-    "downloadCount":291984,
+    "downloadCount":292153,
     "usabilityRating":0.88235295,
     "tags":[
       "alcohol",
@@ -494,7 +494,7 @@
       "benchmark"
     ],
     "lastUpdated":1511826068883,
-    "ai_category":"others",
+    "ai_category":"Lifestyle & Consumer Aesthetics",
     "url":"https:\/\/www.kaggle.com\/datasets\/uciml\/red-wine-quality-cortez-et-al-2009"
   },
   {
@@ -503,7 +503,7 @@
     "description":"Focused customer retention programs",
     "creator":"BlastChar",
     "sizeMB":0.17,
-    "downloadCount":337403,
+    "downloadCount":337861,
     "usabilityRating":0.88235295,
     "tags":[
       "business"
@@ -518,7 +518,7 @@
     "description":"Airbnb listings and metrics in NYC, NY, USA (2019)",
     "creator":"Dgomonov",
     "sizeMB":2.44,
-    "downloadCount":212497,
+    "downloadCount":212611,
     "usabilityRating":1.0,
     "tags":[
       "business",
@@ -526,7 +526,7 @@
       "hotels and accommodations"
     ],
     "lastUpdated":1565627085737,
-    "ai_category":"Lifestyle & Consumer Aesthetics",
+    "ai_category":"Internet & Digital Culture",
     "url":"https:\/\/www.kaggle.com\/datasets\/dgomonov\/new-york-city-airbnb-open-data"
   },
   {
@@ -535,7 +535,7 @@
     "description":"An MNIST-like dataset of 70,000 28x28 labeled fashion images",
     "creator":"Chris Crawford",
     "sizeMB":68.77,
-    "downloadCount":233804,
+    "downloadCount":234002,
     "usabilityRating":0.85294116,
     "tags":[
       "arts and entertainment",
@@ -556,7 +556,7 @@
     "description":"Insurance Forecast by using Linear Regression",
     "creator":"Miri Choi",
     "sizeMB":0.02,
-    "downloadCount":309321,
+    "downloadCount":309672,
     "usabilityRating":0.88235295,
     "tags":[
       "healthcare",
@@ -575,7 +575,7 @@
     "description":"11 clinical features for predicting heart disease events.",
     "creator":"fedesoriano",
     "sizeMB":0.01,
-    "downloadCount":198415,
+    "downloadCount":198625,
     "usabilityRating":1.0,
     "tags":[
       "healthcare",
@@ -594,7 +594,7 @@
     "description":"Analysis of company's ideal customers",
     "creator":"Akash Patel",
     "sizeMB":0.06,
-    "downloadCount":187037,
+    "downloadCount":187214,
     "usabilityRating":0.9705882,
     "tags":[
       "business",
@@ -614,7 +614,7 @@
     "description":"Predict attrition of your valuable employees",
     "creator":"pavansubhash",
     "sizeMB":0.05,
-    "downloadCount":223154,
+    "downloadCount":223381,
     "usabilityRating":0.88235295,
     "tags":[
       "employment",
@@ -631,7 +631,7 @@
     "description":"721 Pokemon with stats and types",
     "creator":"Alberto Barradas",
     "sizeMB":0.01,
-    "downloadCount":138370,
+    "downloadCount":138459,
     "usabilityRating":0.88235295,
     "tags":[
       "popular culture",
@@ -649,7 +649,7 @@
     "description":"More than 180,000 terrorist attacks worldwide, 1970-2017",
     "creator":"Erin Miller",
     "sizeMB":28.68,
-    "downloadCount":111384,
+    "downloadCount":111423,
     "usabilityRating":0.85294116,
     "tags":[
       "literature",
@@ -668,7 +668,7 @@
     "description":"Number of Confirmed, Death and Recovered cases every day across the globe",
     "creator":"Devakumar K. P.",
     "sizeMB":19.0,
-    "downloadCount":371250,
+    "downloadCount":371424,
     "usabilityRating":1.0,
     "tags":[
       "diseases",
@@ -686,7 +686,7 @@
     "description":"From the paper: hotel booking demand datasets",
     "creator":"Jesse Mostipak",
     "sizeMB":1.25,
-    "downloadCount":167992,
+    "downloadCount":168095,
     "usabilityRating":1.0,
     "tags":[
       "social science",
@@ -704,7 +704,7 @@
     "description":"Pattern recognition with tracker data: : Improve Your Overall Health",
     "creator":"Möbius",
     "sizeMB":43.29,
-    "downloadCount":172079,
+    "downloadCount":172142,
     "usabilityRating":0.875,
     "tags":[
       "exercise",
@@ -720,7 +720,7 @@
     "description":"Safe to eat or deadly poison?",
     "creator":"Meg Risdal",
     "sizeMB":0.03,
-    "downloadCount":156033,
+    "downloadCount":156157,
     "usabilityRating":0.85294116,
     "tags":[
       "earth and nature",
@@ -730,7 +730,7 @@
       "benchmark"
     ],
     "lastUpdated":1480633680073,
-    "ai_category":"Lifestyle & Consumer Aesthetics",
+    "ai_category":null,
     "url":"https:\/\/www.kaggle.com\/datasets\/uciml\/mushroom-classification"
   },
   {
@@ -739,7 +739,7 @@
     "description":"A Countrywide Traffic Accident Dataset (2016 - 2023)",
     "creator":"Sobhan Moosavi",
     "sizeMB":653.13,
-    "downloadCount":143040,
+    "downloadCount":143156,
     "usabilityRating":1.0,
     "tags":[
       "transportation",
@@ -757,7 +757,7 @@
     "description":"12 clinical features por predicting death events.",
     "creator":"Larxel",
     "sizeMB":0.0,
-    "downloadCount":161028,
+    "downloadCount":161103,
     "usabilityRating":1.0,
     "tags":[
       "healthcare",
@@ -776,7 +776,7 @@
     "description":"Exploring global temperatures since 1750",
     "creator":"[Deleted User]",
     "sizeMB":84.73,
-    "downloadCount":159517,
+    "downloadCount":159579,
     "usabilityRating":0.7647059,
     "tags":[
       "atmospheric science",
@@ -794,7 +794,7 @@
     "description":"Predict Churning customers",
     "creator":"Sakshi Goyal",
     "sizeMB":0.37,
-    "downloadCount":121730,
+    "downloadCount":121759,
     "usabilityRating":1.0,
     "tags":[
       "business",
@@ -812,7 +812,7 @@
     "description":"Analyze ~500,000 food reviews from Amazon",
     "creator":"[Deleted User]",
     "sizeMB":242.11,
-    "downloadCount":218017,
+    "downloadCount":218127,
     "usabilityRating":0.7941176,
     "tags":[
       "business",
@@ -830,7 +830,7 @@
     "description":"An up-to-date dataset of over 47,000 international football results",
     "creator":"Mart Jürisoo",
     "sizeMB":1.15,
-    "downloadCount":113934,
+    "downloadCount":114024,
     "usabilityRating":1.0,
     "tags":[
       "football",
@@ -849,14 +849,14 @@
     "description":"basic bio data on athletes and medal results from Athens 1896 to Rio 2016",
     "creator":"rgriffin",
     "sizeMB":5.43,
-    "downloadCount":203958,
+    "downloadCount":204044,
     "usabilityRating":0.8235294,
     "tags":[
       "sports",
       "history"
     ],
     "lastUpdated":1529043041637,
-    "ai_category":"Lifestyle & Consumer Aesthetics",
+    "ai_category":"Fandoms & Cultural Expression",
     "url":"https:\/\/www.kaggle.com\/datasets\/heesoo37\/120-years-of-olympic-history-athletes-and-results"
   },
   {
@@ -865,7 +865,7 @@
     "description":"Classify Mobile Price Range",
     "creator":"Abhishek Sharma",
     "sizeMB":0.07,
-    "downloadCount":219212,
+    "downloadCount":219344,
     "usabilityRating":0.7058824,
     "tags":[
       "business",
@@ -881,7 +881,7 @@
     "description":"Predict house price using regression",
     "creator":"harlfoxem",
     "sizeMB":0.76,
-    "downloadCount":216068,
+    "downloadCount":216164,
     "usabilityRating":0.7058824,
     "tags":[
       "finance"
@@ -896,7 +896,7 @@
     "description":"Daily and Total Vaccination for COVID-19 in the World from Our World in Data",
     "creator":"Gabriel Preda",
     "sizeMB":1.94,
-    "downloadCount":110264,
+    "downloadCount":110286,
     "usabilityRating":1.0,
     "tags":[
       "public health",
@@ -915,7 +915,7 @@
     "description":"7 Class; Barhee, Deglet Nour, Sukkary, Rotab Mozafati, Ruthana, Safawi, Sagai",
     "creator":"Murat KOKLU",
     "sizeMB":0.4,
-    "downloadCount":27096,
+    "downloadCount":27119,
     "usabilityRating":0.9375,
     "tags":[
       "earth and nature",
@@ -935,7 +935,7 @@
     "description":"Sentiment analysis with tweets",
     "creator":"Μαριος Μιχαηλιδης KazAnova",
     "sizeMB":80.92,
-    "downloadCount":212471,
+    "downloadCount":212745,
     "usabilityRating":0.88235295,
     "tags":[
       "languages",
@@ -954,7 +954,7 @@
     "description":"Dataset on Novel Corona Virus Disease 2019 in India",
     "creator":"SRK",
     "sizeMB":0.74,
-    "downloadCount":284075,
+    "downloadCount":284186,
     "usabilityRating":0.9117647,
     "tags":[
       "public health",
@@ -970,7 +970,7 @@
     "description":"Social, gender and study data from secondary school students",
     "creator":"Dmitrii Batogov",
     "sizeMB":0.02,
-    "downloadCount":158540,
+    "downloadCount":158598,
     "usabilityRating":0.85294116,
     "tags":[
       "universities and colleges",
@@ -987,7 +987,7 @@
     "description":"a large collection of multi-source dermatoscopic images of pigmented lesions",
     "creator":"K Scott Mader",
     "sizeMB":5324.28,
-    "downloadCount":174628,
+    "downloadCount":174922,
     "usabilityRating":0.7058824,
     "tags":[
       "health",
@@ -995,7 +995,7 @@
       "multiclass classification"
     ],
     "lastUpdated":1537475773037,
-    "ai_category":"Lifestyle & Consumer Aesthetics",
+    "ai_category":"Internet & Digital Culture",
     "url":"https:\/\/www.kaggle.com\/datasets\/kmader\/skin-cancer-mnist-ham10000"
   },
   {
@@ -1004,7 +1004,7 @@
     "description":"This dataset contains labeled 4242 images of flowers. ",
     "creator":"Alexander Mamaev",
     "sizeMB":224.75,
-    "downloadCount":128217,
+    "downloadCount":128367,
     "usabilityRating":0.625,
     "tags":[
       "plants",
@@ -1021,7 +1021,7 @@
     "description":"F1 race data from 1950 to 2024",
     "creator":"Vopani",
     "sizeMB":6.28,
-    "downloadCount":116835,
+    "downloadCount":117007,
     "usabilityRating":1.0,
     "tags":[
       "auto racing",
@@ -1038,7 +1038,7 @@
     "description":"comprehensive list of books listed in goodreads",
     "creator":"Soumik ",
     "sizeMB":0.61,
-    "downloadCount":77618,
+    "downloadCount":77653,
     "usabilityRating":1.0,
     "tags":[
       "literature",
@@ -1048,7 +1048,7 @@
       "internet"
     ],
     "lastUpdated":1583745511583,
-    "ai_category":"Internet & Digital Culture",
+    "ai_category":null,
     "url":"https:\/\/www.kaggle.com\/datasets\/jealousleopard\/goodreadsbooks"
   },
   {
@@ -1057,7 +1057,7 @@
     "description":"Five different Rice Image Dataset. Arborio, Basmati, Ipsala, Jasmine, Karacadag",
     "creator":"Murat KOKLU",
     "sizeMB":219.4,
-    "downloadCount":31758,
+    "downloadCount":31825,
     "usabilityRating":0.875,
     "tags":[
       "agriculture",
@@ -1076,7 +1076,7 @@
     "description":"Predicting admission from important parameters",
     "creator":"Mohan S Acharya",
     "sizeMB":0.01,
-    "downloadCount":115836,
+    "downloadCount":115869,
     "usabilityRating":0.7058824,
     "tags":[
       "universities and colleges",
@@ -1095,7 +1095,7 @@
     "description":"Hottest Spotify Hits 🎵",
     "creator":"Nidula Elgiriyewithana ⚡",
     "sizeMB":0.05,
-    "downloadCount":112744,
+    "downloadCount":112832,
     "usabilityRating":1.0,
     "tags":[
       "music",
@@ -1115,7 +1115,7 @@
     "description":"853 images belonging to 3 classes.",
     "creator":"Larxel",
     "sizeMB":397.65,
-    "downloadCount":92783,
+    "downloadCount":92861,
     "usabilityRating":0.875,
     "tags":[
       "arts and entertainment",
@@ -1135,7 +1135,7 @@
     "description":"Actual transactions from UK retailer",
     "creator":"Carrie",
     "sizeMB":7.2,
-    "downloadCount":205993,
+    "downloadCount":206174,
     "usabilityRating":0.7058824,
     "tags":[
       "earth and nature",
@@ -1153,7 +1153,7 @@
     "description":"Predict next-day rain in Australia",
     "creator":"Joe Young",
     "sizeMB":3.83,
-    "downloadCount":151246,
+    "downloadCount":151331,
     "usabilityRating":1.0,
     "tags":[
       "weather and climate",
@@ -1170,7 +1170,7 @@
     "description":"Market Basket Analysis",
     "creator":"Vijay Choudhary",
     "sizeMB":0.0,
-    "downloadCount":221735,
+    "downloadCount":221999,
     "usabilityRating":0.88235295,
     "tags":[
       "business",
@@ -1187,7 +1187,7 @@
     "description":"Over 200k images of celebrities with 40 binary attribute annotations",
     "creator":"Jessica Li",
     "sizeMB":1361.61,
-    "downloadCount":176789,
+    "downloadCount":176936,
     "usabilityRating":0.7647059,
     "tags":[
       "arts and entertainment",
@@ -1207,7 +1207,7 @@
     "description":"Datasets and notebooks of the open Machine Learning course mlcourse.ai",
     "creator":"Yury Kashnitsky",
     "sizeMB":51.12,
-    "downloadCount":52947,
+    "downloadCount":52954,
     "usabilityRating":0.88235295,
     "tags":[
       "earth and nature",
@@ -1227,7 +1227,7 @@
     "description":"A trove of reviews, businesses, users, tips, and check-in data!",
     "creator":"sebastien",
     "sizeMB":4172.31,
-    "downloadCount":143010,
+    "downloadCount":143088,
     "usabilityRating":0.75,
     "tags":[
       "earth and nature"
@@ -1242,7 +1242,7 @@
     "description":"Acoustic Extinguisher Fire Dataset",
     "creator":"Murat KOKLU",
     "sizeMB":0.61,
-    "downloadCount":6091,
+    "downloadCount":6093,
     "usabilityRating":0.9375,
     "tags":[
       "categorical",
@@ -1252,7 +1252,7 @@
       "binary classification"
     ],
     "lastUpdated":1648940376883,
-    "ai_category":"Film & Television Media",
+    "ai_category":null,
     "url":"https:\/\/www.kaggle.com\/datasets\/muratkokludataset\/acoustic-extinguisher-fire-dataset"
   },
   {
@@ -1261,7 +1261,7 @@
     "description":"The dataset includes a total of 2148 images, 1232 of Kirmizi and 916 of Siirt P.",
     "creator":"Murat KOKLU",
     "sizeMB":26.65,
-    "downloadCount":10132,
+    "downloadCount":10140,
     "usabilityRating":0.9375,
     "tags":[
       "agriculture",
@@ -1280,7 +1280,7 @@
     "description":"Explore country development indicators from around the world",
     "creator":"Meg Risdal",
     "sizeMB":369.12,
-    "downloadCount":69901,
+    "downloadCount":69907,
     "usabilityRating":0.7647059,
     "tags":[
       "business",
@@ -1297,7 +1297,7 @@
     "description":"Using 8 years daily news headlines to predict stock market movement",
     "creator":"Timo Bozsolik",
     "sizeMB":5.82,
-    "downloadCount":57814,
+    "downloadCount":57827,
     "usabilityRating":0.7058824,
     "tags":[
       "business",
@@ -1316,7 +1316,7 @@
     "description":"Collection of SMS messages tagged as spam or legitimate",
     "creator":"Esther Kim",
     "sizeMB":0.21,
-    "downloadCount":268179,
+    "downloadCount":268431,
     "usabilityRating":0.7352941,
     "tags":[
       "languages",
@@ -1333,7 +1333,7 @@
     "description":"DS4C: Data Science for COVID-19 in South Korea",
     "creator":"datartist",
     "sizeMB":7.0,
-    "downloadCount":142303,
+    "downloadCount":142311,
     "usabilityRating":1.0,
     "tags":[
       "universities and colleges",
@@ -1352,7 +1352,7 @@
     "description":"More than 300,000 kickstarter projects",
     "creator":"Mickaël Mouillé",
     "sizeMB":36.78,
-    "downloadCount":85948,
+    "downloadCount":85971,
     "usabilityRating":0.7941176,
     "tags":[
       "business",
@@ -1369,7 +1369,7 @@
     "description":"Drop-In Replacement for MNIST for Hand Gesture Recognition Tasks",
     "creator":"tecperson",
     "sizeMB":62.59,
-    "downloadCount":127069,
+    "downloadCount":127156,
     "usabilityRating":0.7647059,
     "tags":[
       "languages",
@@ -1387,7 +1387,7 @@
     "description":"Snapshot of Tony Pino's Melbourne Housing Dataset",
     "creator":"DanB",
     "sizeMB":0.44,
-    "downloadCount":178040,
+    "downloadCount":178140,
     "usabilityRating":0.7058824,
     "tags":[
       "australia",
@@ -1397,7 +1397,7 @@
       "demographics"
     ],
     "lastUpdated":1528203144087,
-    "ai_category":"Lifestyle & Consumer Aesthetics",
+    "ai_category":null,
     "url":"https:\/\/www.kaggle.com\/datasets\/dansbecker\/melbourne-housing-snapshot"
   },
   {
@@ -1406,7 +1406,7 @@
     "description":"Salaries of jobs in the Data Science domain",
     "creator":"Ruchi Bhatia",
     "sizeMB":0.01,
-    "downloadCount":87874,
+    "downloadCount":87943,
     "usabilityRating":1.0,
     "tags":[
       "business",
@@ -1423,7 +1423,7 @@
     "description":"Drinking water potability",
     "creator":"Aditya Kadiwal",
     "sizeMB":0.24,
-    "downloadCount":102809,
+    "downloadCount":102884,
     "usabilityRating":1.0,
     "tags":[
       "water bodies",
@@ -1444,7 +1444,7 @@
     "description":"Suited for binary logistic regression",
     "creator":"Khashayar Baghizadeh",
     "sizeMB":0.01,
-    "downloadCount":109217,
+    "downloadCount":109343,
     "usabilityRating":0.7058824,
     "tags":[
 
@@ -1459,7 +1459,7 @@
     "description":"Image Scene Classification of Multiclass",
     "creator":"Puneet Bansal",
     "sizeMB":346.33,
-    "downloadCount":134673,
+    "downloadCount":134924,
     "usabilityRating":0.75,
     "tags":[
       "arts and entertainment",
@@ -1479,7 +1479,7 @@
     "description":"Ak, Ala Idris, Büzgülü, Dimnit and Nazli Grapevine Leaves Image",
     "creator":"Murat KOKLU",
     "sizeMB":108.7,
-    "downloadCount":6034,
+    "downloadCount":6046,
     "usabilityRating":0.875,
     "tags":[
       "agriculture",
@@ -1489,7 +1489,7 @@
       "transfer learning"
     ],
     "lastUpdated":1648976454283,
-    "ai_category":"Internet & Digital Culture",
+    "ai_category":null,
     "url":"https:\/\/www.kaggle.com\/datasets\/muratkokludataset\/grapevine-leaves-image-dataset"
   },
   {
@@ -1498,7 +1498,7 @@
     "description":"Pumpkin Seeds Dataset",
     "creator":"Murat KOKLU",
     "sizeMB":0.38,
-    "downloadCount":10278,
+    "downloadCount":10288,
     "usabilityRating":0.9375,
     "tags":[
       "categorical",
@@ -1534,7 +1534,7 @@
     "description":"Vehicles listings from Craigslist.org",
     "creator":"Austin Reese",
     "sizeMB":262.49,
-    "downloadCount":97059,
+    "downloadCount":97142,
     "usabilityRating":1.0,
     "tags":[
       "united states",
@@ -1551,7 +1551,7 @@
     "description":"Salaries of Different Data Science Fields in the Data Science Domain",
     "creator":"randomarnab",
     "sizeMB":0.02,
-    "downloadCount":75831,
+    "downloadCount":75863,
     "usabilityRating":1.0,
     "tags":[
       "business",
@@ -1570,7 +1570,7 @@
     "description":"Pistachio Dataset; 2 Class - Kirmizi and Siirt Pistachio, 16 and 28 Features",
     "creator":"Murat KOKLU",
     "sizeMB":1.82,
-    "downloadCount":4281,
+    "downloadCount":4284,
     "usabilityRating":0.9375,
     "tags":[
       "agriculture",
@@ -1589,7 +1589,7 @@
     "description":"Raisin Dataset; 2 Class: Kecimen and Besni Raisin ",
     "creator":"Murat KOKLU",
     "sizeMB":0.11,
-    "downloadCount":5011,
+    "downloadCount":5014,
     "usabilityRating":0.9375,
     "tags":[
       "earth and nature",
@@ -1608,7 +1608,7 @@
     "description":"7 - Class: Seker, Barbunya, Bombay, Cali, Dermosan, Horoz and Sira",
     "creator":"Murat KOKLU",
     "sizeMB":4.54,
-    "downloadCount":4963,
+    "downloadCount":4968,
     "usabilityRating":0.9375,
     "tags":[
       "agriculture",
@@ -1627,7 +1627,7 @@
     "description":"Durum wheat dataset, morphological, colour, wavelet and gaborlet features",
     "creator":"Murat KOKLU",
     "sizeMB":983.11,
-    "downloadCount":1187,
+    "downloadCount":1188,
     "usabilityRating":0.9375,
     "tags":[
       "categorical",
@@ -1647,7 +1647,7 @@
     "description":"arXiv dataset and metadata of 1.7M+ scholarly papers across STEM",
     "creator":"Brian Maltzan",
     "sizeMB":1464.66,
-    "downloadCount":62078,
+    "downloadCount":62171,
     "usabilityRating":0.875,
     "tags":[
       "earth and nature",
@@ -1663,7 +1663,7 @@
     "description":"Diabetes Patients Data",
     "creator":"Akshay Dattatray Khare",
     "sizeMB":0.01,
-    "downloadCount":136561,
+    "downloadCount":136679,
     "usabilityRating":1.0,
     "tags":[
       "india",
@@ -1682,7 +1682,7 @@
     "description":"Five different Rice MSC Dataset. Arborio, Basmati, Ipsala, Jasmine, Karacadag",
     "creator":"Murat KOKLU",
     "sizeMB":101.8,
-    "downloadCount":2075,
+    "downloadCount":2077,
     "usabilityRating":0.9375,
     "tags":[
       "categorical",
@@ -1693,7 +1693,7 @@
       "classification"
     ],
     "lastUpdated":1648949632000,
-    "ai_category":"Lifestyle & Consumer Aesthetics",
+    "ai_category":null,
     "url":"https:\/\/www.kaggle.com\/datasets\/muratkokludataset\/rice-msc-dataset"
   },
   {
@@ -1702,7 +1702,7 @@
     "description":"Synthetic datasets generated by the PaySim mobile money simulator",
     "creator":"Edgar Lopez-Rojas",
     "sizeMB":177.75,
-    "downloadCount":110959,
+    "downloadCount":111046,
     "usabilityRating":0.88235295,
     "tags":[
       "crime",
@@ -1718,7 +1718,7 @@
     "description":"Rice Dataset: 2 Class Commeo and Osmancik Rice",
     "creator":"Murat KOKLU",
     "sizeMB":0.51,
-    "downloadCount":2057,
+    "downloadCount":2059,
     "usabilityRating":0.9375,
     "tags":[
       "earth and nature"
@@ -1733,7 +1733,7 @@
     "description":"",
     "creator":"Navoneel Chakrabarty",
     "sizeMB":15.1,
-    "downloadCount":127635,
+    "downloadCount":127730,
     "usabilityRating":0.5,
     "tags":[
       "biology",
@@ -1752,7 +1752,7 @@
     "description":"Learn facial expressions from an image",
     "creator":"Manas Sambare",
     "sizeMB":60.32,
-    "downloadCount":185386,
+    "downloadCount":185741,
     "usabilityRating":0.75,
     "tags":[
       "arts and entertainment",
@@ -1768,7 +1768,7 @@
     "description":"Median house prices for California districts derived from the 1990 census.",
     "creator":"Cam Nugent",
     "sizeMB":0.39,
-    "downloadCount":217682,
+    "downloadCount":217952,
     "usabilityRating":0.85294116,
     "tags":[
       "united states",
